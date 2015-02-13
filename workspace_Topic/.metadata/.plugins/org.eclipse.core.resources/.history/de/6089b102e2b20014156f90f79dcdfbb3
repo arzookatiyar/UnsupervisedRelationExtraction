@@ -1,0 +1,16 @@
+/**
+ * Experiment to find out the ditribution of the opinion words in these shortest 
+ * dependency paths obtained earlier.
+ */
+
+import java.io.*;
+
+class only_expressions_sorted {
+	public static void main(String args[]) throws IOException{
+		BufferedReader br = new BufferedReader(new FileReader("dse_holders_expr_sorted"));
+		String st;
+		while((st = br.readLine())!=null) {
+			int index = st.lastIndexOf("-");
+		}
+	}
+}

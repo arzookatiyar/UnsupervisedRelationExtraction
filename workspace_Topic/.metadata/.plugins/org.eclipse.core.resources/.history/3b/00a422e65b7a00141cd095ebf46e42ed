@@ -1,0 +1,37 @@
+import java.io.*;
+import java.util.HashMap;
+import java.util.LinkedList;
+
+class training_file_svm {
+	
+	static String folder_path = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/Training_data/";
+	
+	static HashMap<String, Entries> holders = new HashMap<String, Entries>();
+	
+	//except which file, everything goes to the training set
+	public void create_file_holders () {
+		for (int fold=0; fold<10; fold++) {
+			
+		}
+	}
+	
+	public static void main(String args[]) throws IOException{
+		
+	}
+}
+
+class Entries {
+	int fold;
+	LinkedList<Triples> unit;
+	
+}
+
+class Triples {
+	int entity;
+	int exp;
+	int path;
+	
+	public Triples() {
+		
+	}
+}

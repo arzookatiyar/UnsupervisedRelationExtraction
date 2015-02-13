@@ -1,0 +1,63 @@
+1) Select 100 documents randomly and then compare the paths between any two words in the sentence 
+with the ones which have holder and expression and target and expression to find out if these
+paths are repeated across the words!!
+2) Observation that many holders and many targets are in -nsubj relation. How will you differentiate it?
+Think about the lines of finding the holder and target relations and then disambiguating them based on 
+the complete path between the holder and target.
+3) Maybe derive some paths between the holder and expression based on the sequence? Maybe. Not necessary.
+4) Think about the kind of model that you would like to generate for such a case.
+5) Check what words these paths correspond to! How can we lean them as the hidden structure?
+6) Limitation is that we are finding the shortest paths between the phrases. Maybe some other heuristics
+work better? Find out.
+7) Write about the statistics generated!
+
+8) What to do with the implicit holders?!!
+9) Define a problem statement again.
+
+10) Papers on relation extraction? entity extraction? other paper?
+
+Problems?
+
+1) Between now and 2008, the government's environmental initiative will be given concrete form in a report to the Storting this spring, in which an early quota system will occupy a central place.
+government	initiative
+environmental	initiative
+-amod	-amod
+
+2) To this end, Aznar and Prodi report that only the internal ratification processes in each of the member states have now to be concluded and they emphasize that these are at an advanced stage and in some cases have been completed.
+they	emphasize that these are at an advanced stage and in some cases have been completed
+these	emphasize that these are at an advanced stage and in some cases have been completed
+-nsubj	-nsubj
+
+Contains the target in the expression. Correct these.
+
+3) Check the dependency being used. Includes dep relations!! Not useful.
+
+
+Look at these paths again, this time with the words from the sentences added to it!
+either add the holder word
+add the opinion word
+add both 
+add neither
+and look at the clustering!
+POS tagging?
+
+Any way to combine these opinion words with the topic words?
+
+Take care of the same pairs of paths existing in the opinion holder and opinion target and expressions.
+
+Evaluation? If trying to define a topic model then how should I evaluate it? Entity Topic Model paper--> 
+their evaluation?
+
+topic as a distribution of words? what are my topics?
+
+
+infer.net
+EMNLP paper 2015 DP-means
+
+
+Add more sentences to the training set allowing implicit holders.(?)
+Case1 : when the target is present.
+It will increase the training set, but this task will be dependent on being able to identify targets.
+
+Also, maybe decrease the length of the dependency paths?!
+

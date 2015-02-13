@@ -1,0 +1,85 @@
+@INPROCEEDINGS{Wiebe,
+    author = {Janyce Wiebe and Claire Cardie},
+    title = {Annotating expressions of opinions and emotions in language. Language Resources and Evaluation},
+    booktitle = {Language Resources and Evaluation (formerly Computers and the Humanities},
+    year = {2005},
+    pages = {2005}
+}
+
+
+@inproceedings{Kim,
+  author    = {Suin Kim and
+               Jianwen Zhang and
+               Zheng Chen and
+               Alice H. Oh and
+               Shixia Liu},
+  title     = {A Hierarchical Aspect-Sentiment Model for Online Reviews},
+  booktitle = {AAAI},
+  year      = {2013},
+}
+
+@inproceedings{Kim-news,
+ author = {Kim, Soo-Min and Hovy, Eduard},
+ title = {Extracting Opinions, Opinion Holders, and Topics Expressed in Online News Media Text},
+ booktitle = {Proceedings of the Workshop on Sentiment and Subjectivity in Text},
+ series = {SST '06},
+ year = {2006},
+ isbn = {1-932432-75-2},
+ location = {Sydney, Australia},
+ pages = {1--8},
+ numpages = {8},
+ url = {http://dl.acm.org/citation.cfm?id=1654641.1654642},
+ acmid = {1654642},
+ publisher = {Association for Computational Linguistics},
+ address = {Stroudsburg, PA, USA},
+} 
+
+@article{Marquez,
+ author = {M\`{a}rquez, Llu\'{\i}s and Carreras, Xavier and Litkowski, Kenneth C. and Stevenson, Suzanne},
+ title = {Semantic Role Labeling: An Introduction to the Special Issue},
+ journal = {Comput. Linguist.},
+ issue_date = {June 2008},
+ volume = {34},
+ number = {2},
+ month = jun,
+ year = {2008},
+ issn = {0891-2017},
+ pages = {145--159},
+ numpages = {15},
+ url = {http://dx.doi.org/10.1162/coli.2008.34.2.145},
+ doi = {10.1162/coli.2008.34.2.145},
+ acmid = {1403158},
+ publisher = {MIT Press},
+ address = {Cambridge, MA, USA},
+} 
+
+@article{Brenden,
+  author    = {Brendan O'Connor},
+  title     = {Learning Frames from Text with an Unsupervised Latent Variable Model},
+  journal   = {CoRR},
+  year      = {2013},
+  volume    = {abs/1307.7382},
+  url       = {http://arxiv.org/abs/1307.7382},
+  timestamp = {Sat, 27 Sep 2014 03:53:21 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/OConnor13},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Kim_etm,
+ author = {Kim, Hyungsul and Sun, Yizhou and Hockenmaier, Julia and Han, Jiawei},
+ title = {ETM: Entity Topic Models for Mining Documents Associated with Entities},
+ booktitle = {Proceedings of the 2012 IEEE 12th International Conference on Data Mining},
+ series = {ICDM '12},
+ year = {2012},
+ isbn = {978-0-7695-4905-7},
+ pages = {349--358},
+ numpages = {10},
+ url = {http://dx.doi.org/10.1109/ICDM.2012.107},
+ doi = {10.1109/ICDM.2012.107},
+ acmid = {2472545},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {topic models, data mining, entity},
+} 
+
+

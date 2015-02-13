@@ -1,0 +1,40 @@
+0	countries,14.0	EU,9.0	them,8.0	U.S.,7.0	Palestinians,4.0	administration,3.0	West,2.0	Hansen,2.0	Cabinet,2.0	personnel,2.0	Taliban,2.0
+0	-nsubj,15.0	-pobj-prep,14.0	-nn,6.0	-rcmod,5.0	-amod,3.0	-dep-dep,2.0	-prep-pcomp-dobj,2.0	-dobj-xcomp-dobj-prep-pcomp,2.0	-pobj-prep-nsubj-nsubj-advcl,2.0
+1	his,30.0	their,16.0	its,14.0	your,4.0	Washington,3.0	Department,3.0	Federation,2.0
+1	-poss,40.0	-nsubj-prep-pcomp,2.0	-poss-pobj-prep,2.0	-poss-dobj,2.0	-poss-pobj-prep-dep-pobj-prep,2.0	-poss-dobj-conj,2.0	-poss-poss,2.0
+2	Washington,9.0	leaders,6.0	me,5.0	him,5.0	world,4.0	everyone,2.0	Beijing,2.0	representatives,2.0	one,2.0
+2	-dobj,12.0	-nsubj,12.0	-pobj-prep,11.0	-vmod,3.0	-pobj-prep-conj,2.0	-dobj-prep-pcomp,2.0
+3	Mugabe,20.0	he,15.0	they,13.0	Chen,4.0	Moyo,3.0	Albrecht,3.0	They,3.0	anybody,3.0	Mkapa,2.0	Mwanawasa,2.0	inmate,2.0	team,2.0	Britain,2.0
+3	-nsubj-ccomp,29.0	-nsubj,20.0	-nsubj-advcl,5.0	-nsubj-ccomp-advcl,4.0	-nsubj-xcomp-ccomp,3.0	-nsubj-parataxis,3.0	-poss-pobj-prep,3.0	-nsubj-dobj-ref-pobj-prep,2.0	-nsubj-ccomp-nsubj,2.0
+4	NGOs,10.0	Israel,10.0	China,8.0	delegation,3.0	Our,3.0	Mexico,2.0	Wolfowitz,2.0	Administration,2.0	News,2.0	Suhakam,2.0	directors,2.0	Tobin,2.0
+4	-nsubj,11.0	-poss,7.0	-pobj-prep-nsubj,3.0	-possessive,3.0	-nsubj-vmod,2.0	-pobj-prep-prep-pobj,2.0	-appos-nsubj,2.0	-nsubj-xcomp,2.0	-nsubj-acomp,2.0	-nsubj-conj,2.0
+5	Cardoso,4.0	Denktas,4.0	observers,4.0	Fleischer,3.0	Xirao,3.0	Ma,2.0	Nadir,2.0	defiant,2.0	Lin,2.0	Medvedev,2.0
+5	-nsubj-ccomp,22.0	-nsubj-ccomp-parataxis,2.0	-rcmod-ccomp,2.0	-pobj-prep-dobj,2.0
+6	States,52.0	he,19.0	Chavez,8.0	we,6.0	administration,5.0	community,4.0	campers,2.0	Bustani,2.0	Lash,2.0	Kong,2.0
+6	-nsubj,29.0	-nsubj-ccomp,14.0	-nn,9.0	-nsubj-conj,9.0	-nsubj-dobj,5.0	-nsubjpass,5.0	-nsubj-ccomp-ccomp,4.0	-pobj-prep,4.0	-nsubj-xcomp-ccomp,3.0	-nsubj-dep,3.0	-nsubj-vmod,2.0	-nsubj-conj-xcomp-prep-pobj-prep-pobj,2.0	-pobj-prep-xcomp,2.0	-nsubj-prep-pobj-conj,2.0	-nsubj-ccomp-ccomp-conj,2.0
+7	people,26.0	Japan,9.0	Koizumi,6.0	those,5.0	head,3.0	movements,3.0	vote,2.0
+7	-nsubj,22.0	-rcmod,7.0	-pobj-prep,3.0	-det-det,2.0	-pobj-prep-pobj-prep-dobj-dep-expl,2.0	-nsubj-dobj,2.0	-nsubj-ccomp-nsubj,2.0	-nsubj-conj,2.0	-nsubj-ccomp-conj,2.0
+8	he,72.0	Arafat,5.0	President,4.0	others,3.0	Biti,2.0	Ladin,2.0	reports,2.0
+8	-nsubj,49.0	-nsubj-ccomp,17.0	-dep-dep,10.0	-pobj-prep-nsubj-parataxis,3.0	-nsubj-pcomp-prep-dobj-pcomp-prep-dobj,2.0	-nsubj-ccomp-vmod,2.0
+9	Chavez,10.0	my,7.0	America,6.0	our,5.0	Indonesia,3.0	Commission,2.0	Jordan,2.0	OPEC,2.0
+9	-poss,15.0	-nsubj,6.0	-nsubj-vmod-conj,2.0
+10	we,32.0	you,14.0	Government,8.0	supporters,7.0	agency,4.0	Chien,2.0	Gudkov,2.0	Schwarz,2.0	Arroyo,2.0
+10	-nsubj,39.0	-nsubj-ccomp,6.0	-dobj,4.0	-nsubjpass,4.0	-nsubj-ccomp-conj,4.0	-nsubj-nsubj,2.0	-nsubj-prep-pobj-rcmod,2.0
+11	report,19.0	US,18.0	Australia,4.0	Parvin,3.0	Americans,2.0	representative,2.0	ZANU,2.0	Thousands,2.0	Secretary,2.0	analysts,2.0	Center,2.0	Commonwealth,2.0
+11	-nsubj-ccomp,13.0	-nn,11.0	-rcmod,8.0	-nsubj,7.0	-pobj-pcomp-prep,4.0	-nn-nsubj,3.0	-nsubj-prep-pcomp-ccomp,2.0	-pobj-prep-nsubj-ccomp,2.0	-pobj-prep,2.0	-poss,2.0	-dep,2.0	-rcmod-vmod,2.0
+12	officials,12.0	Tsvangirai,7.0	you,7.0	it,6.0	I,6.0	Tang,5.0	experts,4.0	Sharon,3.0	Makumbe,2.0	companies,2.0
+12	-nsubj-ccomp,11.0	-pobj-prep,8.0	-nsubj-ccomp-nsubj,6.0	-nsubj-xcomp,5.0	-nsubj-dobj,5.0	-nsubj,5.0	-pobj-prep-dep,3.0	-nsubj-prep-pcomp,2.0	-dobj-prep-pcomp,2.0	-nsubj-ccomp-advmod,2.0	-dobj-xcomp-dobj-rcmod,2.0	-nsubj-conj,2.0
+13	I,64.0	she,12.0	mother,3.0	us,2.0
+13	-nsubj,51.0	-nsubj-advcl,5.0	-nsubj-neg,2.0	-nsubj-conj,2.0
+14	government,23.0	communities,3.0	Jews,3.0	Zambian,2.0	detainees,2.0	Jerusalem,2.0
+14	-nsubj,14.0	-pobj-prep,13.0	-poss,5.0
+15	it,23.0	We,22.0	Brazil,4.0	president,2.0	GCEP,2.0	Genoino,2.0	Diet,2.0
+15	-nsubj,39.0	-nsubj-ccomp,7.0	-nsubj-advcl,5.0	-nsubj-ccomp-xcomp,2.0
+16	international,7.0	community,5.0	members,4.0	militants,3.0	opposition,2.0	Saudi,2.0
+16	-amod,22.0	-conj-pobj-prep-dobj,2.0	-nsubj-ccomp-neg,2.0	-conj,2.0	-rcmod,2.0
+17	Bush,35.0	leader,6.0	Rumsfeld,4.0	residents,3.0	Pentagon,3.0	Israelis,3.0	Solomon,2.0	Cheney,2.0	Motsuenyane,2.0	ministers,2.0	networks,2.0
+17	-nsubj,34.0	-nsubj-ccomp,8.0	-vmod,6.0	-nsubj-dep,5.0	-pobj-prep-nsubj,3.0	-nsubj-xcomp-ccomp,2.0	-ref-nsubj-conj,2.0
+18	Zhang,7.0	sources,6.0	she,6.0	Abbas,5.0	official,5.0	Russia,4.0	department,3.0	Wallstrom,2.0	Council,2.0	Putin,2.0
+18	-nsubj-ccomp,21.0	-nsubj,13.0	-nsubj-vmod-ccomp,2.0	-nsubj-dep-conj,2.0	-nsubj-ccomp-conj,2.0
+19	they,46.0	who,4.0	He,3.0	Walleyn,2.0	prisoners,2.0
+19	-nsubj,40.0	-nsubj-conj,7.0	-nsubj-ccomp-dobj,2.0	-nsubj-dobj,2.0	-nsubj-dobj-ref-dobj-nsubj-nsubj-ccomp-conj,2.0	-nsubj-dep-ccomp,2.0

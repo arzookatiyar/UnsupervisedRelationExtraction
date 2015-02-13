@@ -1,0 +1,20 @@
+/**
+ * Experiment to find if only considering noun phrases is enough for being able to get all 
+ * the holders and targets from the data.
+ */
+
+import java.io.*;
+
+class noun_phrases {
+	static String file_path = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/Training_data/";
+	
+	
+	public static String[] find_noun_phrase() {
+		
+		return null;
+	}
+	
+	public static void main() {
+		
+	}
+}

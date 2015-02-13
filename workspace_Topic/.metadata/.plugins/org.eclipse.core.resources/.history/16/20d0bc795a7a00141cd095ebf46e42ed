@@ -1,0 +1,15 @@
+import java.io.*;
+
+class training_file_svm {
+	
+	static String foldeR_path = "";
+	
+	//except which file, everything goes to the training set
+	public void create_file (int except) {
+		
+	}
+	
+	public static void main(String args[]) throws IOException{
+		
+	}
+}

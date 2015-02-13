@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% ICML 2010 EXAMPLE LATEX SUBMISSION FILE %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Use the following line _only_ if you're still using LaTeX 2.09.
+%\documentstyle[icml2010,epsf,natbib]{article}
+% If you rely on Latex2e packages, like most moden people use this:
+\documentclass{article}
+
+% For figures
+\usepackage{graphicx} % more modern
+%\usepackage{epsfig} % less modern
+\usepackage{subfigure} 
+
+% For citations
+\usepackage{natbib}
+
+% For algorithms
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+% As of 2010, we use the hyperref package to produce hyperlinks in the
+% resulting PDF.  If this breaks your system, please commend out the
+% following usepackage line and replace \usepackage{icml2010} with
+% \usepackage[nohyperref]{icml2010} above.
+\usepackage{hyperref}
+
+% Packages hyperref and algorithmic misbehave sometimes.  We can fix
+% this with the following command.
+\newcommand{\theHalgorithm}{\arabic{algorithm}}
+
+% Employ the following version of the ``usepackage'' statement for
+% submitting the draft version of the paper for review.  This will set
+% the note in the first column to ``Under review.  Do not distribute.''
+% \usepackage{icml2010} 
+% Employ this version of the ``usepackage'' statement after the paper has
+% been accepted, when creating the final version.  This will set the
+% note in the first column to ``Appearing in''
+\usepackage[accepted]{icml2010}
+
+
+% The \icmltitle you define below is probably too long as a header.
+% Therefore, a short form for the running title is supplied here:
+\icmltitlerunning{Submission and Formatting Instructions for ICML 2010}
+
+\begin{document} 
+
+\twocolumn[
+\icmltitle{Project Proposal : Learning Fine-grained Opinions}
+
+% It is OKAY to include author information, even for blind
+% submissions: the style file will automatically remove it for you
+% unless you've provided the [accepted] option to the icml2010
+% package.
+\icmlauthor{Arzoo Katiyar}{ak979@cornell.edu}
+\icmladdress{Cornell University}
+
+% You may provide any keywords that you 
+% find helpful for describing your paper; these are used to populate 
+% the "keywords" metadata in the PDF but will not be shown in the document
+\icmlkeywords{topic modeling, sentiment analysis}
+
+\vskip 0.3in
+]
+
+% \begin{abstract} 
+% ICML 2010 full paper submissions are due February 1, 2010. Reviewing will
+% be blind to the identities of the authors, and therefore identifying
+% information should not appear in any way in papers submitted for
+% review. Submissions must be in PDF, 8 page length limit.
+% \end{abstract} 
+
+% \section{Motivation}
+\label{submission}
+Fine-grained opinion analysis task is about identifying opinions in the text at the expression level which includes -- identifying the opinion expression itself alongwith the opinion holder and the target \cite{Wiebe}. This task is useful for any application which may be concerned about what does an entity think about the target entity. Kim et al.\cite{Kim-news} solve a similar problem where they extract opinions, opinion holders, and topics expressed in online news media text. However, they decompose this problem into three phases: identifying an opinion-bearing word, labeling semantic roles related to the word in a sentence, and then finding the holder and topic of the opinion word among the labeled semantic roles. However, we would like to be able to jointly infer the opinion expression, the holder and the targets. 
+
+Another related task is that of Semantic Role Labeling. \cite{Marquez} state that the sentence-level semantic analysis of text is concerned with the characterization of events, such as determining ``who'' did ``what'' to ``whom'', ``where'', ``when'' and ``how''. The predicate of a clause establishes ``what'' took place and other sentence constituents express the participants in the event(such as ``who'' and ``where'') as well as further event properties. In practice, semantic role labeling task is generally carried out in two phases : Semantic Frame Identification and the argument identification task. Noticeably, \cite{Brenden} have used an unsupervised latent variable model to discover such semantic frames. And in the past, there have been attempts on learning fine-grained opinions based on the semantic role labeling techniques which perhaps indicate that an appropriate(similar?) latent variable model might be useful for our task.
+
+Another related task to learning fine-grained opinions is to jointly extract aspects and sentiments for online reviews. It is direct to see that this task is similar to our task as the reviewer is the holder of the opinion and the aspects are the targets. \cite{Kim} have recently shown that using a bayesian nonparametric model, recursive Chinese Restaurant Process (rCRP) as the prior they can jointly infer the aspect-sentiment tree from the review texts. 
+
+We would just briefly like to mention another interesting but probably not-so related work in Entity Topic Models. \cite{kim_etm} build more expressive, entity-based topic models, which can capture the term distributions for each topic, each entity as well as each topic-entity pair.
+
+The task we proposed is hard due to the way it is defined because it requires to model fine-grained syntactic as well as semantic relations between the entities. Also, most of the previous work do not jointly extract the opinion expression and the entities together, instead this task is carried out in phases. However, \cite{bishan} provide an ILP-based approach for the joint-inference of opinion extraction task. Most of these approaches use features from dependency-parse trees and these features have been proved to be useful. However, it seems worthwhile to explore this task using latent variable models since the state-of-the-art of this task especially for finding opinion targets (opinion target : 43.07\%; opinion expression : 59.79\%; opinion holder : 62.47\%) can be improved. We did not find any related work for this problem that uses latent variable models except for the ones mentioned before. Since those tasks are related and the models used were applicable for those tasks, it seems worthwhile to apply similar models for this problem as well.
+
+In order to evaluate our method, we can use the MPQA data used by \cite{bishan} and compare against their results. Since this problem and other related problem has been of interest to the research community, we can hope that the results will be helpful for the progress of the field with respect to this task.
+
+
+\bibliography{example_paper}
+\bibliographystyle{icml2010}
+
+\end{document} 
+
+
+% This document was modified from the file originally made available by
+% Pat Langley and Andrea Danyluk for ICML-2K. This 2010 version was
+% created by Thorsten Joachims & Johannes Fuernkranz, 
+% slightly modified from the 2009 version by Kiri Wagstaff and 
+% Sam Roweis's 2008 version, which is slightly modified from 
+% Prasad Tadepalli's 2007 version which is a lightly 
+% changed version of the previous year's version by Andrew Moore, 
+% which was in turn edited from those of Kristian Kersting and 
+% Codrina Lauth. Alex Smola contributed to the algorithmic style files.  
+
+

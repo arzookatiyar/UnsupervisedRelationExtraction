@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="gnu.trove.map.hash.TIntIntHashMap"/>
+<fullyQualifiedTypeName name="gnu.trove.map.hash.TIntObjectHashMap"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.parser.lexparser.LexicalizedParser"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.trees.GrammaticalStructure"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.trees.GrammaticalStructureFactory"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.trees.PennTreebankLanguagePack"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.trees.TreebankLanguagePack"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.trees.TypedDependency"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.ling.CoreAnnotations.SectionAnnotation"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation"/>
+<fullyQualifiedTypeName name="cc.mallet.types.LabelAlphabet"/>
+<fullyQualifiedTypeName name="cc.mallet.types.Dirichlet"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="String_modified"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="t_Pairs"/>
+</qualifiedTypeNameHistroy>

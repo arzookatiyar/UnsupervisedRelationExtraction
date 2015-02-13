@@ -1,0 +1,29 @@
+import java.io.*;
+import java.util.HashMap;
+import java.util.Iterator;
+
+class find_stats {
+	HashMap<String, Integer> path_stats = new HashMap<String, Integer>();
+	public static void main(throws IOException) String args[]{
+		BufferedReader br = new BufferedReader(new FileReader("dse_holder_target.txt"));
+		BufferedWriter bw = new BufferedWriter(new FileWriter("dse_paths.txt"));
+		
+		String st;
+		while((st = br.readLine())!=null) {
+			String next_line = br.readLine();
+			String path = next_line.split("\t")[2];
+			if (path_stats.containsKey(path)) {
+				path_stats.put(path, path_stats.get(path)+1);
+			}
+			else {
+				path_stats.put(path, 1);
+			}
+		}
+		
+		for (String key : path_stats.keySet()) {
+			System.out.print
+		}
+		
+		br.close();
+	}
+}

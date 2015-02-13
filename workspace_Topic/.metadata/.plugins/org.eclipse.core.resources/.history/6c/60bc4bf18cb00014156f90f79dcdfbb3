@@ -1,0 +1,118 @@
+/**
+ * Experiment to find if only considering noun phrases is enough for being able to get all 
+ * the holders and targets from the data.
+ */
+
+/**
+ * In the current implementation we only take the lowest level subtree into account and misses on 
+ * the possibilities like 
+ *  Osama bin Laden 's Al Qaeda followers
+ *  Detect : Osama bin Laden 's (since we remove Osama bin Laden 's Al Qaeda followers)
+ *  Ideal : Osama bin Laden 's Al Qaeda followers
+ */
+
+import java.io.*;
+import java.util.List;
+import java.util.ArrayList;
+
+import edu.stanford.nlp.ling.HasWord;
+import edu.stanford.nlp.ling.Sentence;
+import edu.stanford.nlp.ling.TaggedWord;
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.parser.shiftreduce.ShiftReduceParser;
+import edu.stanford.nlp.process.DocumentPreprocessor;
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import edu.stanford.nlp.trees.Tree;
+
+class noun_phrases {
+	static String file_path = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/Training_data/";
+	
+	public static List<String> find_noun_phrase(LexicalizedParser model, 
+			MaxentTagger tagger, String sentence1) {
+	   // String modelPath = "edu/stanford/nlp/models/srparser/englishSR.ser.gz";
+
+	    DocumentPreprocessor tokenizer = new DocumentPreprocessor(new StringReader(sentence1));
+	    for (List<HasWord> sentence : tokenizer) {
+	      List<TaggedWord> tagged = tagger.tagSentence(sentence);
+	      System.out.println(tagged+"\tAND--"+model);
+	      Tree tree = model.apply(tagged);
+	    		  //model.apply(tagged);
+	      System.err.println(tree);
+	      
+		    List<String> phraseList = new ArrayList<String>();
+		    List<String> final_phraseList = new ArrayList<String>();
+		    String remove = "";
+		    String add = "";
+		    
+		    for (Tree subtree : tree) {
+		    	if (subtree.label().value().equals("NP")) {
+		    		//check if a substring is annotated, then remove the bigger annotation
+		    		if (phraseList.size() == 0) {
+			    		phraseList.add(Sentence.listToString(subtree.yield()));
+			    		
+		    		}
+
+		    		for (String present : final_phraseList) {
+		    			if (present.contains(Sentence.listToString(subtree.yield()))) {
+		    				//remove present only when the children are other than NNP
+		    				phraseList.remove(present);
+		    				if (!phraseList.contains(Sentence.listToString(subtree.yield()))) {
+					    		phraseList.add(Sentence.listToString(subtree.yield()));
+					    		//System.out.println("Adding at pos1\t"+Sentence.listToString(subtree.yield()));
+		    				}
+		    			}
+		    			else if((Sentence.listToString(subtree.yield())).contains(present) || 
+		    					phraseList.contains(Sentence.listToString(subtree.yield()))) {
+		    				// do not add this
+		    			}
+		    			else {
+				    		phraseList.add(Sentence.listToString(subtree.yield()));
+				    		//System.out.println("Adding\t"+Sentence.listToString(subtree.yield()));
+		    			}
+		    		}
+		    		
+		    		
+		    		//System.out.println(Sentence.listToString(subtree.yield()));
+		    		
+		    		final_phraseList = new ArrayList<String>();  		
+		    		final_phraseList.addAll(phraseList);
+		    	}
+		    }
+		    
+		    for (String final_p : final_phraseList) {
+		    	System.out.println(final_p);
+		    }
+	    }
+	    
+		return final_phraseList;
+	}
+	
+	
+	
+	public static void main(String args[]) throws IOException{
+	    String modelPath = "edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz";
+	    String taggerPath = "edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger";
+
+	    //String text = "My \'dog likes to shake\" his stuffed chickadee toy.";
+	    String text = "George Baker , director of Mexico Energy Intelligence , expressed this opinion : `` In the event that the Mexican Government gives priority to its relationship with the United States , it will not be a game without risks .";
+
+	    MaxentTagger tagger = new MaxentTagger(taggerPath);
+	    //ShiftReduceParser model = ShiftReduceParser.loadModel(modelPath);
+	    LexicalizedParser model = LexicalizedParser.loadModel(modelPath); 
+	    
+	    for (int i=0; i<10; i++) {
+	    	BufferedReader br_h = new BufferedReader(new FileReader(file_path+"holders_gold_"+i));
+	    	BufferedReader br_t = new BufferedReader(new FileReader(file_path+"targets_gold_"+i));
+	    	String st_h, st_t;
+	    	while((st_h = br_h.readLine())!=null && (st_t = br_t.readLine())!=null) {
+	    		//any line should be same
+	    		if (!st_h.equals(st_t))
+	    			System.out.println(st_h.equals(st_t)+"\tnot");
+	    		find_noun_phrase(model, tagger, st_h);
+	    	}
+	    }
+	    
+
+		//find_noun_phrase(model, tagger, text);
+	}
+}

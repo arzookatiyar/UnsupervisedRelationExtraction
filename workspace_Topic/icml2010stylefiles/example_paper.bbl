@@ -1,0 +1,34 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen \& Xie()Chen and Xie]{Chen}
+Chen, Yubo and Xie, Jinhong.
+\newblock Online consumer review: Word-of-mouth as a new element of marketing
+  communication mix.
+\newblock \emph{Manage. Sci.}
+
+\bibitem[Kim et~al.(2013)Kim, Zhang, Chen, Oh, and Liu]{Kim}
+Kim, Suin, Zhang, Jianwen, Chen, Zheng, Oh, Alice~H., and Liu, Shixia.
+\newblock A hierarchical aspect-sentiment model for online reviews.
+\newblock In \emph{AAAI}, 2013.
+
+\bibitem[Lu et~al.()Lu, Ott, Cardie, and Tsou]{Lu}
+Lu, Bin, Ott, Myle, Cardie, Claire, and Tsou, Benjamin~K.
+\newblock Multi-aspect sentiment analysis with topic models.
+\newblock In \emph{Proceedings of the 2011 IEEE 11th International Conference
+  on Data Mining Workshops}, ICDMW '11.
+
+\bibitem[Socher et~al.(2013)Socher, Perelygin, Wu, Chuang, Manning, Ng, and
+  Potts]{Socher}
+Socher, Richard, Perelygin, Alex, Wu, Jean, Chuang, Jason, Manning,
+  Christopher~D., Ng, Andrew~Y., and Potts, Christopher.
+\newblock Recursive deep models for semantic compositionality over a sentiment
+  treebank.
+\newblock In \emph{Proceedings of the 2013 Conference on {E}mpirical {M}ethods
+  in {N}atural {L}anguage {P}rocessing}, pp.\  1631--1642, October 2013.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ak979_progress_report.aux
+The style file: icml2010.bst
+Database file #1: example_paper.bib
+Warning--empty year in bishan
+You've used 7 entries,
+            2773 wiz_defined-function locations,
+            652 strings with 6443 characters,
+and the built_in function-call counts, 3601 in all, are:
+= -- 337
+> -- 199
+< -- 7
++ -- 67
+- -- 60
+* -- 276
+:= -- 543
+add.period$ -- 31
+call.type$ -- 7
+change.case$ -- 41
+chr.to.int$ -- 7
+cite$ -- 15
+duplicate$ -- 172
+empty$ -- 287
+format.name$ -- 73
+if$ -- 779
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 51
+num.names$ -- 28
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 142
+stack$ -- 0
+substring$ -- 95
+swap$ -- 33
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 77
+warning$ -- 1
+while$ -- 30
+width$ -- 0
+write$ -- 117
+(There was 1 warning)

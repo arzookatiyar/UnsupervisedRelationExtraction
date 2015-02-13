@@ -1,0 +1,3587 @@
+-acomp-more bloodshed and the loss of  savings frozen in the banks	1
+-acomp-sustainable development and environmental protection	1
+-acomp-you'll continue your support	1
+-advcl-Israel refused to allow him and EU foreign policy chief Javier Solana to meet with PA Chairman Yasser Arafat in Ramallah	1
+-advcl-Mr Chavez had filled the  company's board of directors with his supporters	1
+-advcl-UN observers could enter Iraq again to check for weapons of mass destruction	1
+-advcl-US troops are bombing them	1
+-advcl-a focus on partial-birth abortions has proven politically advantageous for abortion foes	1
+-advcl-apologize" to President Chavez	1
+-advcl-clear  the Abu Sayyaf group out of Basilan Island	1
+-advcl-democratic reforms in order to combat terrorism	1
+-advcl-dep-ccomp-When you and I       help somebody find a job	1
+-advcl-dep-nsubj-When you and I       help somebody find a job	1
+-advcl-dobj-amod-Robert Mugabe formally declared that he had overwhelmingly  won Zimbabwe's presidential election	1
+-advcl-dobj-he rejected  the 1997 Kyoto protocol on climate change last year	1
+-advcl-dobj-he rejected the Kyoto Protocol last March	1
+-advcl-end the occupation	1
+-advcl-furnishing any type of       products or services that can be used as prizes	1
+-advcl-he was unable to reconcile with his wife and ended up       on the street	1
+-advcl-it continues to indefinitely refuse proposals for "peaceful reunification	1
+-advcl-oil production cuts in order to boost prices in the world market	1
+-advcl-once there is an autonomous agent	2
+-advcl-one country abdicates its financial autonomy	1
+-advcl-progress on individual cases	1
+-advcl-reforms in Argentina before the country can receive financial help	1
+-advcl-risks when travelling in some parts of the country	1
+-advcl-supply of oil by OPEC would be reduced and oil prices supported	1
+-advcl-the US officials claim as for the countries described as "parts of an axis of evil	1
+-advcl-the agreements signed in 1960 for Cyprus	1
+-advcl-the rights envisaged in the international declaration for human rights	1
+-advcl-to give up, as he has promised, revanchism	1
+-advcl-to increase the number of polling stations in rural areas  believed to be their strongholds and reduce the number of  stations in urban areas, where there is strong support for the  opposition	1
+-advcl-when I couldn't go to the snack bar to buy a soda	1
+-advcl-when questioned by  journalists	1
+-advcl-when then-president Bill Clinton pledged the "three nos" during his China visit in 1998	1
+-advmod-Burg denounced the policy	1
+-advmod-When you and I       help somebody find a job	1
+-advmod-any cutbacks, particularly when those affecting the lower socio-economic strata of society	1
+-advmod-bear great fruit in the       years to come	1
+-advmod-caring, responsible adult       volunteers	1
+-advmod-ccomp-ccomp-ultimately the population will rise against us, seeing all these innocent people being killed	1
+-advmod-few of us hear enough about       kids who live through these adversities and do make the grade	1
+-advmod-give generously	1
+-advmod-give to Big Sisters	1
+-advmod-make a tax deductible gift to Community Centers of       Indianapolis in 1999	1
+-advmod-make your contribution       today	1
+-advmod-more information	1
+-advmod-pobj-publicly criticizing detaining governments	1
+-advmod-publicly commenting on the new message from Washington	1
+-advmod-sweep aside all competitors from other countries	1
+-advmod-the demon they have reared	1
+-advmod-the violence and hunger that have plagued many Zimbabweans since the controversial presidential election	1
+-advmod-to move	1
+-advmod-true believers	1
+-advmod-whenever prisoners, especially those who are  dangerous and suicidal, are transported	1
+-amod-All  composite things	1
+-amod-Anuar and Mehrun	1
+-amod-DNA-based computers	2
+-amod-Diana pieces	1
+-amod-Indianapolis children	1
+-amod-Israeli exports originating  in the Occupied Palestinian Territory as well as the Golan  Heights	1
+-amod-Israeli forces	1
+-amod-Mugabe is under strong regional pressure to form a government of national unity, incorporating his closest rival in the poll	1
+-amod-Russian officers	2
+-amod-Sharon's irresponsible saber rattling	1
+-amod-Super Summer Safari Camp	1
+-amod-Taiwan independence	1
+-amod-Taiwan interests	1
+-amod-The international community	1
+-amod-U.N. sanctions	1
+-amod-ZANU PF	1
+-amod-challenge facing Chavez	1
+-amod-cultural events	1
+-amod-deceive them	1
+-amod-democratic institutions	1
+-amod-democratic regimes	1
+-amod-developing countries	1
+-amod-disturbances such as shop robberies and traffic breakdowns	1
+-amod-election in Zimbabwe	1
+-amod-fighters and martyrdom-seeking ones	1
+-amod-foreign intelligence agencies	1
+-amod-funding sources	1
+-amod-greenhouse'' gases	1
+-amod-handling state-to-state relations	1
+-amod-his hierarchy	1
+-amod-human rights in the Tibet Autonomous Region	1
+-amod-illegal slaughtering practices	1
+-amod-infection growth rate in many Asian Pacific countries	1
+-amod-international attention	2
+-amod-its feared chemical and biological weapons programmes	1
+-amod-new front	1
+-amod-people's right to demonstrate and  freedom of the press	1
+-amod-positioning of army at borders	1
+-amod-positive youth programming	1
+-amod-pre-election violence	1
+-amod-prolonged military attacks on Afghanistan	1
+-amod-ratification of the Kyoto Protocol	1
+-amod-social policies	1
+-amod-speech by Zimbabwe's Foreign Minister, Dr Stan Mudenge	1
+-amod-the Pentagon's clear priority	1
+-amod-the Prophet	1
+-amod-the United States	1
+-amod-the conduct of the election	1
+-amod-the difference between some estimates	1
+-amod-the greenhouse gas	1
+-amod-the present cycle	1
+-amod-these       great kids	1
+-amod-this fabulous event	1
+-amod-two indisputable conclusions	1
+-amod-visit by the USS Curtis Wilbur, a destroyer, to visit Hong Kong from April 5 to 9	1
+-amod-vmod-outdoor cells	1
+-amod-your generous support	1
+-aux-This is the issue we  would want our African brothers to have understood	1
+-aux-a Taiwan labor group has been invited to participate in a meeting of the ILO	1
+-aux-achieve ratification of the Protocol before the Johannesburg summit on sustainable development	2
+-aux-allow Taiwanese Defense Minister Tang Yao-ming to visit Florida for a military conference this month	1
+-aux-allow Taiwanese Defense Minister Tang Yiau-Ming into the United  States for talks with Defense officials	1
+-aux-attack American embassies, nuclear  power plants and public water facilities	1
+-aux-attack Iraq	1
+-aux-back down from his  controversial land reforms	1
+-aux-be used to justify rights abuses	1
+-aux-devalue the  peso and scrap a policy known as convertibility that kept the  peso's worth the same as a U.S. dollar	1
+-aux-develop the NMD	1
+-aux-establish a free trade area	1
+-aux-establish ties between Venezuela and parasitic economies	1
+-aux-experiments he was planning to do on board the ISS	1
+-aux-gain more power	1
+-aux-hold part of the Taliban and al-Qaeda war prisoners at the U.S. naval base of Guantanamo	1
+-aux-interfere with the countries opting for the ratification of the Kyoto Protocol	1
+-aux-invite a broad spectrum of Venezuelan society to participate in a dialogue on the country's problems	1
+-aux-national and independent rules coming to power	1
+-aux-play it safe	1
+-aux-provide it with a list of  the Israeli factories operating in the Occupied Palestinian and  Arab Territories	1
+-aux-put Misuari in jail	1
+-aux-ratify the Kyoto Protocol	1
+-aux-ratify the protocol	1
+-aux-sell spare parts	1
+-aux-set up dialogue tables	1
+-aux-sign a climate change deal with the  United States	1
+-aux-sign the Kyoto treaty on Sunday	1
+-aux-sign the protocol	1
+-aux-talk about work which is delegated to you to anybody	1
+-aux-target the MDC's supporter base	1
+-aux-the axis of evil	1
+-aux-throw us from the island	1
+-aux-trim their emissions	1
+-aux-withdraw from introducing state measures to regulate the emission of greenhouse gases	1
+-auxpass-Action to fight climate change	2
+-auxpass-The figures are feared to be higher	1
+-auxpass-being ruled by the MDC	1
+-cc-Asia-Pacific regional stability and security	1
+-cc-Russia and the United Stats	1
+-cc-bringing an end to terrorism and the Taliban	1
+-cc-him and his governing party	1
+-cc-more shop  looting and violence that killed 27 people before De la Rua  quit, of more riots like those that erupted on Friday and of  more misery as a four-year-old recession grinds on	1
+-cc-peace, calm, and `the unity of the country	1
+-cc-pobj-prep-nsubj-his victory and that of his ZANU-PF party	1
+-cc-pobj-prep-prep-pobj-arms procurement and policies toward North Korea	1
+-cc-preservation of democracy and human rights and developing standards of living	1
+-cc-sanctions busting and the massing of guns at army bases around the country	1
+-cc-serious situations of human rights violations or shortcomings	1
+-cc-staff and those who benefit from our       services	1
+-cc-the Mercosur countries and Chile and Bolivia, the associate members	1
+-cc-the President and Government, and the electoral process	1
+-ccomp-'Dialogue Among Civilizations' could serve to mitigate clashes of civilizations and would also ensure a durable peace	1
+-ccomp-Argentina lacks a political force that can stand up to Peronism and Radicalism	1
+-ccomp-Australia produce proof that the space debris did not originate from its space centre activities	1
+-ccomp-Baghdad could become a member of the OPCW so that the United Nations could conduct arms inspections in the country	1
+-ccomp-Brazil promote meetings in the South American continent, or serve as intermediary in negotiations with international institutions	1
+-ccomp-British prisoners held at the US Navy base at Guantanamo Bay in Cuba should face justice in Britain	1
+-ccomp-Burns's statements reflect a true position that signals a return of balance to the US position in dealing with the reality of Palestinian-Israeli struggle	1
+-ccomp-Bush to return to the Kyoto Protocol at an early stage	1
+-ccomp-Bush's tough talking may put back by years Kim's so-called Sunshine Policy of establishing a permanent peace	1
+-ccomp-China would become its strategic partner in trade and economy, investment and modern technology exchanges	1
+-ccomp-Gazprom to participate in a tender for the  privatization of petrochemical companies in Romania and also to  consider that country "as partner for supplies of oil and gas  equipment to Russia	1
+-ccomp-I had more time	1
+-ccomp-I will be faithful to the laws of the Republic of Zimbabwe	1
+-ccomp-If yuck	1
+-ccomp-Iraq gives a favourable response and allows UN weapon inspectors" to return to the country	1
+-ccomp-Israel and Palestine should both exercise maximum restraint and adopt concrete measures to stop the conflict immediately and create conditions for resumption of the peace talks	1
+-ccomp-Israel is not safe, not a normal country	1
+-ccomp-Israel will implement Resolution 1402 of the United Nations Security Council unconditionally, withdraw its troops completely from Palestinian areas and solve the problems through peaceful means	1
+-ccomp-Israel will not threaten Arafat's personal safety and will not destroy the Palestine National Authority	1
+-ccomp-Israelis must retain as much land in the West Bank and Gaza Strip as possible	1
+-ccomp-Kashgar is 4,000 kilometres (2,500 miles) from Beijing but only a tenth of the distance from the Pakistani border	1
+-ccomp-Keeping prisoners incommunicado, sensory deprivation, the use  of unnecessary restraint and the humiliation of people through  tactics such as shaving them	1
+-ccomp-Kyoto dropped from U.N. meet agenda	1
+-ccomp-Mexico might collaborate with OPEC in the event of a more serious reduction in oil prices	1
+-ccomp-Mr. Mugabe to stop  his repression and to not take farmland from whites without just  compensation	1
+-ccomp-President Eduardo Duhalde's  controversial economic package	1
+-ccomp-Putin's offer to make peace	1
+-ccomp-Russia should ratify the document	1
+-ccomp-Taiwan's interests won't be sacrificed during Bush's trip	1
+-ccomp-The Kyoto Protocol on reducing  greenhouse gas emissions	1
+-ccomp-The Taiwan issue	1
+-ccomp-The US decision to withdraw from introducing state measures to regulate the emission of greenhouse gases	1
+-ccomp-The US strategy	1
+-ccomp-The United Nations	1
+-ccomp-The United States	3
+-ccomp-The government's positions	1
+-ccomp-The new policy of (US President George W.) Bush	1
+-ccomp-This assessment	1
+-ccomp-This is an amount that Belgian yesterday pledged to pay to Russia	1
+-ccomp-This support	1
+-ccomp-To give standing under  a Geneva Convention to a terrorist organization that's not a  country	1
+-ccomp-U.S. conduct be above  suspicion	1
+-ccomp-US behaves as it says, strictly abide by the three Sino-US Communiques and stop using the Taiwan issue to interfere in China's internal affairs	1
+-ccomp-US human rights report	1
+-ccomp-US rights report	1
+-ccomp-US will not interfere in greenhouse effect negotiations	1
+-ccomp-Venezuelan  President Hugo Chavez's return to power	1
+-ccomp-Venezuelan president's return to power	1
+-ccomp-Youth who are supported and       encouraged by both a family and a society that values              Them	1
+-ccomp-a loose fit might damage the orbiting  complex because of the force imparted by a docking shuttle	1
+-ccomp-a massacre may have been committed in the Janin camp	1
+-ccomp-a massive amount of reporting	1
+-ccomp-a proof that international law protects human beings in general regardless of their color, ethnicity and religion	1
+-ccomp-accusations that the detainees  have been mistreated	1
+-ccomp-advcl-people would protest Mr. Mugabe's re-election	1
+-ccomp-advmod-Mugabe won polls	1
+-ccomp-all its parts are put together to form a map of "cantons" that Israel envisions for the occupied Palestinian lands	1
+-ccomp-an annual administrative exercise mandated by the  Congress	1
+-ccomp-another reason for Mugabe to win the poll	1
+-ccomp-as many as 1.5 million Zimbabweans face starvation from the drought, compounded by government-sponsored invasions of white-owned commercial farms that have crippled production of maize and wheat	1
+-ccomp-attempt  to remove him from office	1
+-ccomp-back in  Afghanistan TVs are glowing, Bollywood is bellowing, men are  shaving, women unveiling and sending their daughters to school	1
+-ccomp-blacks play a meaningful role in the economy	1
+-ccomp-bring more money into our centers	1
+-ccomp-ccomp-ccomp-dep-advcl-To give standing under  a Geneva Convention to a terrorist organization that's not a  country	1
+-ccomp-ccomp-suspending Germany's military aid for Israel, that is, possible EU economic sanctions against Tel Aviv	1
+-ccomp-come to its aid	1
+-ccomp-conj-The United States	1
+-ccomp-consigning Mugabe to  history	1
+-ccomp-detainees aren't getting enough pita bread with  their meals	1
+-ccomp-disobeying Uncle Sam	1
+-ccomp-dobj-the United States will help Taiwan's bid for observer status in the World Health Organization	1
+-ccomp-expand its war against terrorism beyond Afghanistan to Iraq	1
+-ccomp-fighting for the settlers who had occupied the  Palestinian lands	2
+-ccomp-finally got to vote	1
+-ccomp-financial figures quoted by Kyoto opponents in Canada about the  potential damage to the Canadian economy were "pure fiction	1
+-ccomp-four test unmanned flights performed before  they can launch a man into space	1
+-ccomp-frustrate as many voters  as you can	1
+-ccomp-further cases of vCJD in Sicily were only to be expected	1
+-ccomp-he is planning anything like this	1
+-ccomp-he is spending  the time reviewing the tense situation in the country and  working out how best to calm fears and concern and rally  Zimbabweans together	1
+-ccomp-he will live to see the results of this  election	1
+-ccomp-his disenfranchised supporters  were "seething"	1
+-ccomp-if Argentina  can break promises made in contracts, other nations may try to  do the same in less dire times	1
+-ccomp-if the MDC  wins	1
+-ccomp-it can be ended as soon as possible	1
+-ccomp-it could devalue and spark inflation	1
+-ccomp-it is clear that mere chemistry in an autonomous agent can harbor symbols and signs in the full senses of the words	2
+-ccomp-it preferred him to its own chairwoman	1
+-ccomp-it would allow peaceful protests	1
+-ccomp-it would be possible to solve the problems that brought about the UN Convention on Climate Change	1
+-ccomp-joining SCS	1
+-ccomp-launch efforts to make Cyprus a friendship bridge between Turkey and Greece	1
+-ccomp-more       are left unserved	1
+-ccomp-nsubj-amod-Talks between China and the Association of Southeast Asian  Nations (ASEAN) about a free trade area went	1
+-ccomp-nsubj-nsubj-xcomp-prep-pobj-the person in charge until  2003 should be Duhalde	1
+-ccomp-nsubj-this  election may bring change	1
+-ccomp-other major players, notably Japan and Russia, will join us in these efforts	1
+-ccomp-pcomp-prep-ccomp-how the agency might fare under O'Keefe	1
+-ccomp-people will keep calm	1
+-ccomp-portions of the military were on their side	1
+-ccomp-prep-Mugabe will finally deliver on his promises to give them the land currently owned by the country's white minority	1
+-ccomp-prep-conj-pobj-rcmod-Whoever engages in terrorism	1
+-ccomp-prep-pcomp-Mugabe's win	1
+-ccomp-prep-pobj-nn-The Kyoto Protocol on reducing  greenhouse gas emissions	1
+-ccomp-prep-pobj-the government has largely ignored Suhakam's maiden report and its freedom of assembly report	1
+-ccomp-prolonged military attacks on Afghanistan could destabilise the Islamic world	1
+-ccomp-provisions of the international declaration for human rights have not been materialized	1
+-ccomp-remarks made last month by US Deputy Defense Secretary Paul Wolfowitz at a meeting in Florida	1
+-ccomp-reports that Venezuela has relations with organizations categorized as terrorist by the Bush administration	1
+-ccomp-reports that the prisoners "may be drugged, hooded  and shackled	1
+-ccomp-rising... as quickly as our programs can grow to serve them	1
+-ccomp-sand from northern areas, especially the Inner Mongolia Autonomous Region, and floating dust from the city's uncovered construction sites	1
+-ccomp-seek mainland China's support for the anti-terrorism campaign at the expense of Taiwan	1
+-ccomp-some might follow the  threads of their tortured consciences back out of the labyrinth,  having duly met and been eaten by the Minotaur	1
+-ccomp-some people might use it as a means to remain in Hong Kong indefinitely	1
+-ccomp-statements made by Bush prior to his departure that Taiwan is a friend of the United States and that the Taiwan Strait issue should be resolved peacefully	1
+-ccomp-such was the very sin that rocket was  supposedly intended to expunge	1
+-ccomp-tell the whole story of MCCOY in a single letter	1
+-ccomp-that Bush has created a new concept, that of "greenhouse gas intensity	1
+-ccomp-that every young person in Marion County       have access to the programs and services that can best assist them in       their growth toward a positive adulthood	1
+-ccomp-that everything be done in one or two weeks	1
+-ccomp-that the  Geneva Conventions give protection to prisoners from countries  but not from terrorist organizations, like Al Qaeda	1
+-ccomp-that the  celebration came so soon after Venezuelans ``have written a page  of dignity and honor by going out into the streets to overthrow  the coup attempt	1
+-ccomp-that the agreements reached at Genoa would help bring about beneficial results for the Bonn conference as well	1
+-ccomp-that the people of the world can no more be kept in dark	1
+-ccomp-that the rudiments of semantics, intentionality, value, and ethics arise with autonomous agents	2
+-ccomp-that they may be seeking to cause damage to the country	1
+-ccomp-the       holiday season is a particularly difficult time for these families	1
+-ccomp-the       work that we do	1
+-ccomp-the  Gulf regimes to depend on the infidels in attacking Saddam Hussein	1
+-ccomp-the  measures adopted domestically will have the same effect as  adhering to the Kyoto Protocol	1
+-ccomp-the  photographs were released, at least without an explanation	1
+-ccomp-the Americans would realize, if they have not already realized, the justice of the Palestinian cause and the enormous injustice suffered by the Palestinians, who were expelled from their homeland, whose land was occupied, and who were deprived of the minimum political and human rights	1
+-ccomp-the Argentine authorities will know how to make the choices needed for their country's future	1
+-ccomp-the Bush  administration's decision not to ratify the Kyoto Protocol	1
+-ccomp-the Chavez model might affect other [Latin] American countries	1
+-ccomp-the Council has now approved the Kyoto Protocol thus enabling the EU to proceed with its ratification	1
+-ccomp-the EU would once again reconsider its relations with Jerusalem	1
+-ccomp-the Iranian companies would present their equipment at this exhibition	1
+-ccomp-the MDC leader is "flirting with mercenaries in South Africa	1
+-ccomp-the Qatari authorities would honour their commitment to allow free access to the people of the country to the ship and vice versa	1
+-ccomp-the State Department would continue to encourage political dialogue between Moscow and the Chechen insurgents	1
+-ccomp-the Swapo publication Namibia Today, the ruling party paper	1
+-ccomp-the Taliban and al Qaeda terrorists instead  stay at the Ritz-Carlton	1
+-ccomp-the US strictly abide by the commitments it has made to China, correct its erroneous acts or remarks so as to avoid new harm to China-US relations	1
+-ccomp-the US think tank	1
+-ccomp-the United States has taken a negative stand	1
+-ccomp-the United States will come to realize that an active climate protection policy is not only necessary for environmental policy but is also an excellent opportunity to modernize industrial society	1
+-ccomp-the United States will continue to play the role of "promoter, stabilizer and balancer" in cross-strait relations	1
+-ccomp-the Venezuelan government would be able to achieve its exalted objectives with the support of the people	1
+-ccomp-the agreement, signed this  week	1
+-ccomp-the barbed wires slant outwards at a 70 degrees angle	1
+-ccomp-the countries of Africa put their own house in order	1
+-ccomp-the covers will shield the motors against the  temperature extremes of space and eliminate power spikes and  stalls	1
+-ccomp-the crisis was too serious to  subject Argentina to the pressure of quick elections	1
+-ccomp-the decision by Chinese and  ASEAN leaders to establish a free trade area	1
+-ccomp-the detainees be identified, taken before a  court and told of the charges against them	1
+-ccomp-the detainees were living in basic  conditions	1
+-ccomp-the development of Tibet is far better than what has been reported by some Western media	1
+-ccomp-the difficulties faced by some voters	1
+-ccomp-the goals of the United States and of other  signatory nations would converge	1
+-ccomp-the government move to ratify	1
+-ccomp-the government of Prime Minister Mahathir Mohamad is using the US-led war on terror as a pretext to crack down on legitimate dissent	1
+-ccomp-the intifada can end	1
+-ccomp-the issue would be solved through peaceful means, with initiatives from the UN secretary general and a more active role by the UN	1
+-ccomp-the latest US rights report	1
+-ccomp-the launching of space objects be purely for humanitarian purposes	1
+-ccomp-the number of pirate attacks, in the new form of sea jacking ships for ransom, has been increasing	1
+-ccomp-the police and security forces would be equipped with the latest and most modern technology so that they can expedite their activities in their campaign against crimes	1
+-ccomp-the presence of outsiders in Zimbabwe would stop some illegal acts which may have been committed	1
+-ccomp-the principles of the WTO would be rendered worthless unless the meeting extracted the commitment from the US on Kyoto Protocol	1
+-ccomp-the process of restoring  constitutional order in Venezuela was underway	1
+-ccomp-the reasons behind America's opposition to Chavez and its support for Venezuela under the generals who carried out the coup against him	1
+-ccomp-the rich Russian fields that stretch across the Arctic zone	1
+-ccomp-the role played by the  Lebanese press	1
+-ccomp-the science that  led to the Kyoto pact	1
+-ccomp-the sense that the cultural gulf  between these prisoners and their captors is so vast that the  latter genuinely do not see how a diet of peanut butter and  bagel chips can be considered cruel and inhuman punishment	1
+-ccomp-the shampoo is not jojoba-enriched	1
+-ccomp-the statement made by President Bush terming Iran, Iraq and North Korea as 'axis of evil' and that these countries are preparing weapons of mass destruction	1
+-ccomp-the stopovers would continue after the territory returned to Chinese sovereignty	1
+-ccomp-the treaty will have a negative effect on its economy	1
+-ccomp-the war against terrorism could affect civil liberties	1
+-ccomp-the way Mugabe ran the election	1
+-ccomp-their crowded, unventilated tents	1
+-ccomp-there are other equally sophisticated and  well-fortified underground complexes elsewhere in Afghanistan  that could become guerrilla bases for remnants of the Taliban  and Al Qaeda forces	1
+-ccomp-there now seems to be broad political consensus that in Norway as well we should get under way with an early quota system	1
+-ccomp-these  statements in the chairman's paper be reworded to say that  countries would tackle climate change in line with the schedule  agreed upon at COP7 (the seventh session of COP), which mapped  out implementation of the Kyoto Protocol at an appropriate time	1
+-ccomp-these states would have done	1
+-ccomp-they be returned to face  justice at home	1
+-ccomp-they will not even be sufficient to reduce US emissions	1
+-ccomp-this can alert the Brazilian Government to revise its relationship with the IMF	1
+-ccomp-this provides an overview of the scope of our work	1
+-ccomp-this tactic would eventually lead to an integrated and total agreement	1
+-ccomp-this was essential towards Africa's rebirth	1
+-ccomp-this will serve as an occasion for LG to make inroads into the Central Asian region	1
+-ccomp-those who thought the election process would be rigged	1
+-ccomp-total annual health outlays in world's least- developed countries	1
+-ccomp-trigger wars here and there	1
+-ccomp-us to look at each of these countries as threats to this country clearly, as problems that we' ve got to address clearly	1
+-ccomp-value sharing	1
+-ccomp-vmod-pobj-prep-we would be responsible, peaceful and that we would act in a very constructive manner with them	1
+-ccomp-we  could talk our overseers into letting us go right up to the  prisoners' cells	1
+-ccomp-we now have the opportunity to be a stable,       positive and important part of each child's life for an entire       decade	1
+-ccomp-we show up at this time	1
+-ccomp-what the judge does	1
+-ccomp-what they hoped was the beginning of the healing process	1
+-ccomp-whatever the America says	1
+-ccomp-when I tell the Americans about my model	1
+-ccomp-whether persons used to the role of policy implementors can objectively assess and critique executive policies which impinge on human rights	1
+-ccomp-whoever is engaged in this criminal activity	1
+-ccomp-whoever is engaged in this criminal activity, to stop	1
+-ccomp-withdraw from a single settlement	2
+-ccomp-wording about the impact of global  warming be deleted	1
+-ccomp-wording on bringing the  Kyoto Protocol on global warming into effect in 2002 be excluded  from the implementation documentation of a global environmental  agenda	1
+-ccomp-you as an individual and Meridian Insurance as a       corporation might consider becoming sustaining supporters of MCCOY	1
+-ccomp-you can't get  closer	1
+-ccomp-you could be with your family	1
+-ccomp-you'll continue	1
+-ccomp-your       help	1
+-conj-Pak generals	1
+-conj-The US president described him as a man of peace	1
+-conj-Under the Geneva Convention,  those holding true POWs are bound to release them at the end of  hostilities	1
+-conj-ccomp-conj-dobj-whoever is on the other side	1
+-conj-conj-the Greek Cypriot side	1
+-conj-do more to ease the hardships on ordinary Iraqis	1
+-conj-dobj-pcomp-its practices	1
+-conj-no oil producer	1
+-conj-pobj-prep-South Korea	1
+-conj-pobj-prep-conj-nsubj-their close ties	1
+-conj-pobj-prep-dobj-the Kyoto Protocol as well as the enactment of the required legislation during the current Diet session	1
+-conj-pobj-prep-nsubjpass-investors across the world	1
+-conj-the Anti-Ballistic Missile Treaty signed by the Soviet Union and the United States in 1972	1
+-conj-the Republic of Taiwan, and of course China	1
+-conj-the Taliban blew up those  monumental 1,500-year-old sandstone statues in northcentral  Afghanistan	1
+-conj-the US will not  ratify the protocol	1
+-conj-the coup	1
+-csubj-Narrowing the development gap between countries	1
+-csubj-canceling the association agreements between Israel and the EU	1
+-csubj-characterizing these counties as the axis of evil	1
+-csubj-preservation of the environment is becoming an awfully grave and pressing problem that is linked to the existence of mankind	1
+-csubj-signing the protocol	1
+-csubj-teaching younger generation	1
+-dep-33,9000 euros	1
+-dep-Big Sisters	1
+-dep-Give good advice to your superiors and Al Qaeda brothers	1
+-dep-Iraq, Iran, and North Korea	1
+-dep-Israelis can no longer live by the sword, that the occupation is not working, and Israeli reprisals are not meeting with success	1
+-dep-Maintaining physical fitness and military exercises	1
+-dep-Six degrees	1
+-dep-The bar on the USS Curtis Wilbur with some 346 crew	1
+-dep-The buffer zones that Ariel Sharon intends to establish	1
+-dep-The election results	1
+-dep-The government is floundering, more seriously	1
+-dep-The seven countries	1
+-dep-U.S. and other foreign banks, telecommunications, transport and  energy companies	1
+-dep-Whoever says that these are small steps	1
+-dep-a leadership	1
+-dep-advcl-ccomp-the vote of confidence in the provisional government of Carmona will not have any repercussions in relations between El Salvador and Venezuela	1
+-dep-an election	1
+-dep-an immediate and total withdrawal	1
+-dep-burden sharing' or 'power sharing	1
+-dep-ccomp-conj-when the nations  which acquire mass destruction weapons are authoritarian or  repressive	1
+-dep-climate change	1
+-dep-conj-some form of indexing so they can raise their prices to  compensate for what is expected to be a widening gap between the  peso and dollar	1
+-dep-dep-access to the location	1
+-dep-dep-ccomp-any country which does not follow the its policies	1
+-dep-dep-positive youth-adult relationships	1
+-dep-dep-the support of The __ Company Foundation in the amount       of $10,000.00	1
+-dep-discussed internationally along with the Kyoto Protocol	1
+-dep-dobj-Bush's description of Iran, Iraq and DPRK as "axis of evil"	1
+-dep-each franc invested by Belgium in space	1
+-dep-economic or social development	1
+-dep-fears Allah	1
+-dep-good physical fitness and military training	1
+-dep-neighborhood level, face-to-face	1
+-dep-nsubj-sedating prisoners or shackling them for an entire flight	1
+-dep-nsubj-the robust US arms sales package to Taiwan struck in April this year	1
+-dep-orange boiler suit	1
+-dep-pobj-prep-pobj-prep-nsubj-resorting to a coup and  the use of force	1
+-dep-she's dynamic	2
+-dep-talk about work assigned by AL-QAEDA	1
+-dep-the Big       Sisters program	1
+-dep-the Palestinian leadership, which was democratically elected	1
+-dep-the nearby bombing range/public relations fiasco	1
+-dep-the process	1
+-dep-violence could explode across the volatile southern  African nation	1
+-dep-vmod-the injustice against the Palestinian nation and violation of human rights of political activists, journalists, the religious minorities, the children and women in some parts of the world	1
+-dep-we believe that if they could clear  the Abu Sayyaf group out of Basilan Island, that would be a  small blow against the extended Al Qaeda network	1
+-dep-we will continue with our efforts so  we can move in the same direction	1
+-dep-what Bustani wanted to do	1
+-dep-when the nations  which acquire mass destruction weapons are authoritarian or  repressive	1
+-dep-your help	1
+-det- the firm	2
+-det-Summer Enrichment Program	1
+-det-The Journal editorial page	2
+-det-The Kyoto Protocol	1
+-det-The fire	2
+-det-The know-how	3
+-det-The plight of prisoners and politicians	1
+-det-The problem	1
+-det-This dictator	1
+-det-a Tsvangirai government	1
+-det-a cap-and-trade system	1
+-det-a hypothetical replacement of the chief of state	1
+-det-a starvation policy	1
+-det-a state	1
+-det-any autonomous agent	1
+-det-any measures or remarks that ran against the three Sino-US Joint Communiques	1
+-det-any restriction or ban on the sale, possession, and carrying of light armaments	1
+-det-challenge facing the  president of Venezuela, Hugo Chavez	1
+-det-diplomatic links between the Republic of China and the Vatican	1
+-det-dobj-advcl-vmod-pobj-prep-vmod-nsubj-a dream	1
+-det-dobj-an American	1
+-det-dobj-pcomp-prep-nsubjpass-the prisoners	1
+-det-dobj-prep-pcomp-ccomp-the election	1
+-det-dobj-prep-pcomp-prep-pobj-conj-the NYT	1
+-det-dobj-prep-pobj-the election	1
+-det-dobj-the OPEC cutbacks	1
+-det-dobj-the allegations	1
+-det-dobj-the area's wildlife	1
+-det-dobj-the ever-increasing US influence	1
+-det-dobj-the government's cautious approach	1
+-det-dobj-the protocol	1
+-det-dobj-vmod-nsubjpass-the prisoners	2
+-det-dobj-xcomp-dobj-the election	1
+-det-every settlement	1
+-det-nsubj-ccomp-This behavior	1
+-det-nsubj-ccomp-the Kyoto Protocol	1
+-det-nsubj-ccomp-the Prophet	1
+-det-nsubj-cop-the elections	1
+-det-nsubj-the election	2
+-det-nsubjpass-The Bonn Conference	1
+-det-nsubjpass-The al-Qaeda leaders	1
+-det-pobj-prep-nsubj-rcmod-prep-pobj-the coup	1
+-det-pobj-prep-the anti-terrorist coalition	1
+-det-pobj-prep-vmod-nsubj-rcmod-the Palestinian leadership	1
+-det-pobj-the  events	1
+-det-pobj-the United States	1
+-det-pobj-the detainees' right to  humane treatment	1
+-det-pobj-the putschists	1
+-det-pobj-these acts	1
+-det-pobj-those issues	1
+-det-solution to the Palestinian issue	1
+-det-some irregular  forces captured in battle	1
+-det-sunset and sunrise over Africa	1
+-det-that country	1
+-det-the       kind of control we need	1
+-det-the       welfare system	1
+-det-the  Geneva Convention	2
+-det-the  U.S. military	1
+-det-the  `risk of major violence erupting	1
+-det-the  glass	1
+-det-the ASEAN, "particularly Malaysia	1
+-det-the American food	1
+-det-the American government	1
+-det-the Argentine government and people	2
+-det-the Bush administration	1
+-det-the EU	1
+-det-the EU and Russia	2
+-det-the Geneva Convention	2
+-det-the Government	1
+-det-the Islamic Republic	1
+-det-the Israeli	1
+-det-the Kyoto Protocol	1
+-det-the Macapagal administration	2
+-det-the Malaysian government	1
+-det-the Microsoft trial	1
+-det-the Mugabe government	1
+-det-the NYT	1
+-det-the Palestinian people	1
+-det-the President	1
+-det-the ROC	1
+-det-the Russian Federation	2
+-det-the Soviet Union	1
+-det-the Taiwan question	1
+-det-the U.S.	1
+-det-the U.S. military  occupation of the base	1
+-det-the US	3
+-det-the US and its allies	1
+-det-the US government	1
+-det-the United States	5
+-det-the United States government	1
+-det-the United States government and Congress	1
+-det-the United States' conduct	1
+-det-the Venezuelan  coup	1
+-det-the WTO	1
+-det-the abduction	1
+-det-the animal	1
+-det-the approach	1
+-det-the balance of power	1
+-det-the boat	2
+-det-the command of the Russian forces in Chechnya	1
+-det-the comments on the 'axis of evil'	1
+-det-the consequences	1
+-det-the consequences of climate change	1
+-det-the country	1
+-det-the debate on welfare reform	1
+-det-the detainees	5
+-det-the developed and capitalist states	1
+-det-the editorial page	1
+-det-the election	9
+-det-the election process	1
+-det-the elections	1
+-det-the electoral process	1
+-det-the events in Genoa	1
+-det-the exercise	2
+-det-the experience	1
+-det-the facts	1
+-det-the figures	2
+-det-the former Soviet republics	1
+-det-the framework	1
+-det-the governing party	2
+-det-the government	2
+-det-the government of Prime Minister Mahathir Mohamad	1
+-det-the government of Zimbabwe	1
+-det-the impact of our national efforts	1
+-det-the impact on the global economy	1
+-det-the instruments of ratification of the European Community and of the 15 member states	2
+-det-the interference of a state to approve or disapprove the decisions of another or other states	1
+-det-the international community	1
+-det-the international fight against terrorism	1
+-det-the island	1
+-det-the main purpose of Bush's current Asia visit	1
+-det-the moderate Arab coalition it built after the Persian Gulf war to contain Iraq and Iran	1
+-det-the new authorities	1
+-det-the one-ton car	1
+-det-the other side	1
+-det-the participants at the summit meeting	1
+-det-the patient -- a woman	1
+-det-the people	1
+-det-the people of Venezuela	1
+-det-the perpetrators across the border	1
+-det-the plan	1
+-det-the poll	1
+-det-the polluters	3
+-det-the possibility of intervention by other powers in his return to power	1
+-det-the president	1
+-det-the presidential election	1
+-det-the prisoners	4
+-det-the real figures	1
+-det-the retroactive imposition of more severe penalties for crimes	1
+-det-the rich and powerful	1
+-det-the set-up	1
+-det-the six major risks China will confront	1
+-det-the sponsoring of similar conferences	1
+-det-the supply ship	1
+-det-the system	1
+-det-the vessel	1
+-det-the vote	1
+-det-the vote in Zimbabwe	1
+-det-the vote of confidence	1
+-det-the war	1
+-det-the war against terrorism	1
+-det-the world	3
+-det-these journalists	1
+-det-these people	1
+-det-these piracy attacks	1
+-det-these so-called truths	2
+-det-this government	1
+-det-this plan	1
+-det-this tactic	1
+-det-this very special       opportunity	1
+-dobj-2 emergency gates	1
+-dobj-African countries	1
+-dobj-America's biding	1
+-dobj-America's critics	1
+-dobj-American hegemony	2
+-dobj-American intervention in the region	1
+-dobj-American policy	1
+-dobj-Arafat to leave Ramallah and Palestine	1
+-dobj-Argentine lawmakers and the  new government ahead of today's final vote on emergency  legislation to devalue the peso and end the country's decade-old  currency parity with the U.S. dollar	1
+-dobj-British Prime Minister	1
+-dobj-Bush to not take the bold course of launching military action	1
+-dobj-Bush's "axis of evil" remarks	1
+-dobj-Canada and other countries	1
+-dobj-Chavez's policies of establishing friendly relations with certain countries that pursued independent regional and international policies	1
+-dobj-Chavez's resignation	1
+-dobj-Chinese entrepreneurs to invest in his country	1
+-dobj-De la Sota to move forward the elections, initially slated for March 2002	1
+-dobj-Dubai to be the best place in the world for state-of-the-art technology companies	1
+-dobj-Dubai to become the best place in the world for the advanced (hitech) technological companies	1
+-dobj-Hugo Chavez	1
+-dobj-India and China to reduce their greenhouse gas emissions	1
+-dobj-Interpol to organize a police team specialized in identifying victims	1
+-dobj-Iran, Iraq and the DPRK	1
+-dobj-Iran, Iraq and the Democratic People's Republic of Korea (DPRK)	1
+-dobj-Iraq and North Korea and Libya and a  couple of other countries	1
+-dobj-Iraq, Iran and North Korea	2
+-dobj-Iraq, Iran, and North Korea	1
+-dobj-Israel to do so	2
+-dobj-Israeli claims	1
+-dobj-Israeli terrorist attacks against Palestinian activists	1
+-dobj-It recently bowed to  international pressure to grant the Taliban prisoners the status  of prisoner of war	1
+-dobj-Japan to follow the US	1
+-dobj-Jimmy Carter for a visit	1
+-dobj-John Manley, the new Deputy Prime Minister and a hometown  favourite	1
+-dobj-Kim's Nobel Prize winning policy	1
+-dobj-MDC Secretary General  Welshman Ncube	1
+-dobj-Make our society       better	1
+-dobj-Mbeki's support for Mugabe or the elections	1
+-dobj-Mexico to collaborate with OPEC in 1998	1
+-dobj-Mr. Mugabe's  government	1
+-dobj-Mr. Mugabe's re-election	1
+-dobj-Mr. Tobin's assertion  that he was leaving for family reasons	1
+-dobj-Mugabe to accept such an arrangement to avoid deepening  international sanctions and suspension from the Commonwealth of  Britain and its former colonies	1
+-dobj-Mugabe to accommodate the opposition in his new  government to form a coalition government	1
+-dobj-Mugabe to restore the rule of  law	1
+-dobj-Mugabe's  government	1
+-dobj-Mugabe's  victory	1
+-dobj-Mugabe's election victory	1
+-dobj-Mugabe's re-election victory in Zimbabwe's crucial election	1
+-dobj-North Korea	1
+-dobj-Osama bin Laden	1
+-dobj-Pakistan army	2
+-dobj-Palestinian State	1
+-dobj-Powell's statement	1
+-dobj-President George W. Bush's alternative to the Kyoto Protocol on reducing greenhouse gases	1
+-dobj-President Khatami	1
+-dobj-President Khatami for his telephone call	1
+-dobj-President Mugabe	1
+-dobj-President Mugabe's rule	1
+-dobj-President Robert Mugabe	1
+-dobj-Putin to ensure that Russia also moves ahead with ratification	2
+-dobj-Russia to ratify Kyoto Protocol	1
+-dobj-Russia, as well as Canada and Alaska	1
+-dobj-Russian  military and police abuse of civilians	1
+-dobj-Saddam  Hussein to overthrow the regime of Hafiz Al-Assad in Syria	1
+-dobj-Sharon to continue	1
+-dobj-Sheik Bin Baz's	1
+-dobj-Suhakam's maiden report and its freedom of assembly report	1
+-dobj-Suhakam's recommendations	1
+-dobj-Taiwan's participation in any international organization in which sovereignty is a prerequisite	1
+-dobj-Tsvangirai and two other  officials of his party	1
+-dobj-U.S. News & World Report's endorsement	1
+-dobj-UN weapon inspectors" to return to the country	1
+-dobj-US President George W. Bush's  administration	1
+-dobj-US requests for more oil exports	1
+-dobj-US state department report on Human Rights in Iran and other countries	1
+-dobj-Understand       the world and change it where it needs to be changed	1
+-dobj-United States arms sales to Taiwan	1
+-dobj-Venezuela's breakdown of constitutional order	1
+-dobj-Venezuela's return to political stability	1
+-dobj-Washington to recognize the detainees as  prisoners of war	1
+-dobj-Washington's arms sales to Taipei	1
+-dobj-Zimbabwe's presidential election	1
+-dobj-Zimbabwe's presidential poll	1
+-dobj-Zimbabwean President Robert Mugabe	1
+-dobj-Zimbabwean President Robert Mugabe's re-election	1
+-dobj-Zimbabweans to refrain from  violence	1
+-dobj-a "de-escalation" between India and Pakistan	1
+-dobj-a US human rights report which lists a number of human rights violations in Namibia at the hands of security forces and Government	1
+-dobj-a United States proposal for targeted sanctions against President Mugabe and members of his Government	1
+-dobj-a beautiful Spring	1
+-dobj-a bill for ratification  of the Kyoto Protocol as well as a revision bill on measures to  fight global warming	1
+-dobj-a broad-based national dialogue	1
+-dobj-a career	1
+-dobj-a certain cold-blooded dictator in Latin America	2
+-dobj-a common rule	1
+-dobj-a coup	1
+-dobj-a cutoff of oil	1
+-dobj-a defeat	1
+-dobj-a different thing to happen	1
+-dobj-a financial gift to Big       Sisters	1
+-dobj-a gift of the       same in 1999	1
+-dobj-a greater role from entrepreneurs in developing bilateral ties	1
+-dobj-a holiday in space	1
+-dobj-a job	1
+-dobj-a just peace	1
+-dobj-a mimic resolution to the Palestinian issue	1
+-dobj-a more realistic attitude	1
+-dobj-a peaceful settlement	1
+-dobj-a possible return of Afghanistan's former King Mohammad Zaher Shah	1
+-dobj-a reconsideration of the deployment	2
+-dobj-a rectification	1
+-dobj-a requested visit by the USS Curtis Wilbur, a destroyer, to visit Hong Kong from April 5 to 9	1
+-dobj-a return to street violence when  the devaluation measure passes and companies seek to avoid  losses by raising prices for food and medicine	1
+-dobj-a routine port call in Hong Kong for an American naval vessel	1
+-dobj-a single currency for Mercosur	1
+-dobj-a spillover from the anti-terrorist campaign in Afghanistan and a perceived opportunity to legitimize measures against the Muslim Uighur activists under the anti-terrorism umbrella	1
+-dobj-a tax increase going toward the search for extraterrestrials	1
+-dobj-a two pronged approach	1
+-dobj-a victory	1
+-dobj-a voluntarist approach to the fight against global warming	1
+-dobj-access to the prisoners in  Guantanamo	1
+-dobj-acomp-the  poll	1
+-dobj-advcl-Russian  military and police abuse of civilians	1
+-dobj-advcl-dobj-conj-the Palestinian leadership	1
+-dobj-advcl-dobj-nn-smaller  nations that are expected to ratify the Kyoto Protocol could  start backing out	1
+-dobj-advcl-the justice of the Palestinian cause and the enormous injustice suffered by the Palestinians, who were expelled from their homeland, whose land was occupied, and who were deprived of the minimum political and human rights	1
+-dobj-advmod-human rights	1
+-dobj-advmod-the administration	1
+-dobj-al-Qa'ida fighters and members of the Taliban regime to enter Iran	1
+-dobj-all criticism	1
+-dobj-all the countries in the world to stand behind it in the fight against terrorism	1
+-dobj-amod-Security forces	1
+-dobj-an Inaugural fund-raising event	1
+-dobj-an MNLF rival in an election to be held Monday to choose the next ARMM governor	1
+-dobj-an abbreviated schedule	1
+-dobj-an early implentation of the Kyoto protocol	1
+-dobj-an election they said had been tainted  by months of political violence and intimidation, last-minute  changes to electoral laws, and the disenfranchisement of tens of  thousands of voters in Harare	1
+-dobj-an end to official exchanges between the two and to US weapons sales	1
+-dobj-an independent foreign policy	1
+-dobj-an independent policy	1
+-dobj-an independent state of East Turkestan and Tibetans associated with the Dalai Lama	1
+-dobj-an occupational policy	1
+-dobj-an offer of a 200,000 dollar commission for the sale	1
+-dobj-another worker	1
+-dobj-any form of official exchanges or military intercourse between the United States and Taiwan	1
+-dobj-any hurdle in this direction	1
+-dobj-any links to international terror	1
+-dobj-any role in the failed military coup	1
+-dobj-any steps that could plunge the country deeper into a recession that has already pushed unemployment, inflation and interest rates above 60 percent	1
+-dobj-anything like this	1
+-dobj-anything to do with countries and organizations that do not follow its orders or that always cause troubles to it	1
+-dobj-anything to do with the international treaties, mechanisms, and organizations that restrict or prevent US freedom	1
+-dobj-attacks on Israeli targets	1
+-dobj-aux-regional integration and economic globalization	1
+-dobj-both  countries, both the Republic of Taiwan, and of course China,  into the World Trade Organization	1
+-dobj-calls for Zimbabwe's suspension	1
+-dobj-ccomp-that view	1
+-dobj-ccomp-the question of who would lead the Union parties into the 22 September elections as chancellor candidate against incumbent Gerhard Schroeder	1
+-dobj-ccomp-the security	1
+-dobj-certain goals in relation to the debt, GDP, nominal deficits as a proportion of the six countries' GDPs, and maximum inflation	1
+-dobj-certain limitations on the villains of the crisis in Zimbabwe	1
+-dobj-change in the presidential elections	1
+-dobj-civilian casualties	1
+-dobj-communism and capitalism	1
+-dobj-confrontation with  the state	1
+-dobj-conj-any commitment by Greenpeace not to undertake demonstrations	1
+-dobj-conj-dep-rcmod-pobj-prep-pobj-prep-nsubj-any future military action	1
+-dobj-conj-the army's non-negotiable conditions	1
+-dobj-consultations amongst the international community	1
+-dobj-control of global warming without Russia is impossible	1
+-dobj-creation of "international instruments" to regulate emissions	1
+-dobj-crimes of war	1
+-dobj-criticism of the election	1
+-dobj-criticism of the poll	1
+-dobj-csubj-The fence which is built out of bricks or concrete	1
+-dobj-democratic methods	1
+-dobj-dep-dep-what Bustani wanted to do	1
+-dobj-dep-the U.S Administration	1
+-dobj-developing countries including South Korea to take part in the reduction of greenhouse gases earlier than planned	1
+-dobj-each other	1
+-dobj-economic exchanges between Taiwan and all nations	1
+-dobj-entrepreneurs from China to invest in Lebanon	1
+-dobj-environmental protection, including prevention of pollution or degradation, bio-diversity protection, and improvement of the environment in industrial zones and in both urban and rural areas	1
+-dobj-every demand made by the United States	1
+-dobj-everything that       Goodwill has done for me	1
+-dobj-expansion of the anti-terrorism coalition	1
+-dobj-freedom in  America	1
+-dobj-help from the science of paleoclimatology	1
+-dobj-him and EU foreign policy chief Javier Solana to meet with PA Chairman Yasser Arafat in Ramallah	1
+-dobj-him in the presidency	1
+-dobj-him to act as an intermediary in the sale of the nuclear fuel from the Kozlodui nuclear power plant	1
+-dobj-him to bring pictures	1
+-dobj-him to do his best for  saving the peace process between Palestinians and Israel	1
+-dobj-him to do so	1
+-dobj-him to promote the ratification by Russia of the Kyoto Protocol on climate change	2
+-dobj-his allies to feel the same way about them as well	1
+-dobj-his country's decision to condemn Zimbabwe's presidential election	1
+-dobj-his declaration of support for the interim Venezuelan Government headed by industrialist Pedro Carmona	1
+-dobj-his journey	1
+-dobj-his request	1
+-dobj-his return to the power on Sunday	1
+-dobj-his victory	2
+-dobj-hostile fire	1
+-dobj-human rights	5
+-dobj-human rights violation	1
+-dobj-humanitarian situation in Iraq	1
+-dobj-immediate withdrawal of Israeli troops from Palestinian leader Yasser Arafat's residence	1
+-dobj-improving the environment through technological progress	1
+-dobj-increasing investment in health and relevant areas like education, water and agricultural development; the establishing of a temporary National Commission on Macroeconomics and Health (NCMH), chaired jointly by the Ministers of Health and Finance to organize and lead the medical as well as economic war against AIDS and other diseases	1
+-dobj-increasingly close ties between the United States and Taiwan	1
+-dobj-independence for Taiwan, the policy of "two Chinas" or "one China, one Taiwan"	1
+-dobj-independent regional and international policies	1
+-dobj-indications by Japan, New Zealand and Norway that they are preparing for ratification	1
+-dobj-industry and consumers to demonstrate environmental public spiritedness	1
+-dobj-innocent  people	1
+-dobj-international human rights issues	1
+-dobj-international pressure to back down from his  controversial land reforms	1
+-dobj-intervention or blockade	1
+-dobj-it that removing Arafat could bring about the Palestinian surrender, and halt violence	1
+-dobj-it to be prolonged	1
+-dobj-it to halt what she called targeted killing of Palestinians	1
+-dobj-its commitment	1
+-dobj-its commitments in the current situation	1
+-dobj-its covert motive	1
+-dobj-its obligations as an Occupying Power	1
+-dobj-its position of not recognizing the  Israeli settlements in the Occupied Palestinian Territory as a  legitimate part of Israel	1
+-dobj-its terms to "assassinate' the rights of Palestinians	1
+-dobj-kisses" of its leaders	1
+-dobj-last Tuesday's terror attacks in the United States	1
+-dobj-life at Camp X-Ray	1
+-dobj-mainland China's support for the anti-terrorism campaign at the expense of Taiwan	1
+-dobj-mark-ref-prep-pobj-five national  television channels	1
+-dobj-me to send this information inviting you to join       the Georgia O'Keeffe Circle of the Indianapolis Museum of Art's Second       Century Society (SCS)	1
+-dobj-measures to reduce emissions at the lowest economic cost, including an EC-wide emissions trading scheme to begin in 2005	1
+-dobj-meetings in the South American continent	1
+-dobj-members of the Jemaah Islamiyah terrorist group for allegedly plotting to blow up US targets there	1
+-dobj-more concrete support from the Brazilian Government for Argentina	1
+-dobj-more cooperation opportunities in China	1
+-dobj-movements that opposed American intervention in the region	1
+-dobj-my life	2
+-dobj-nothing from Washington but to understand their cause and stand beside right and justice	1
+-dobj-nsubj-nsubj-rcmod-dep-the US	1
+-dobj-nsubj-nsubj-xcomp-prep-pobj-the Bush plan	1
+-dobj-nsubj-ref-pobj-prep-prep-pobj-recognition of a Palestinian state [as published] in an Arab neighborhood, in return for recognition of the Palestinians' right to their own country	1
+-dobj-only its own profit	1
+-dobj-orders of the interim  government	1
+-dobj-other countries	1
+-dobj-others in the Muslim world,  in the Arab world, who are trying to make their societies more  democratic	1
+-dobj-pcomp-human rights violations in Iran	1
+-dobj-pcomp-prep-advmod-conj-the US policy	1
+-dobj-pcomp-prep-dobj-pcomp-prep-nsubj-prep-pobj-the shaping of the accord  on their soil	1
+-dobj-pcomp-prep-dobj-pcomp-prep-the shaping of the accord  on their soil	1
+-dobj-pcomp-prep-mark-ref-rcmod-ccomp-advcl-xcomp-the environment	1
+-dobj-pcomp-prep-nsubj-ref-nsubjpass-a charge	1
+-dobj-pcomp-prep-pcomp-prep-pobj-prep-dobj-the Department of Defense	1
+-dobj-pcomp-the government	1
+-dobj-pcomp-the victory and restoration of the legitimate government of  President Hugo Chavez	1
+-dobj-peaceful protests	1
+-dobj-phased actions to restrict emissions of greenhouse gases and to create an appropriate system of ecological-economic relations	1
+-dobj-plenty to do	1
+-dobj-political asylum in Hong Kong	1
+-dobj-political dialogue between Moscow and the Chechen insurgents	1
+-dobj-possible action by the group against Zimbabwe	1
+-dobj-prep-pobj-Iran, Iraq and North Korea	1
+-dobj-prep-pobj-a bill for ratification  of the Kyoto Protocol as well as a revision bill on measures to  fight global warming	1
+-dobj-prep-pobj-the United States	1
+-dobj-prep-pobj-the election	1
+-dobj-prep-pobj-the poll	2
+-dobj-prep-pobj-vmod-dobj-Mugabe's  government	1
+-dobj-prep-pobj-your support	1
+-dobj-prep-rules and decisions	1
+-dobj-prep-the difficulties	1
+-dobj-proposals for "peaceful reunification	1
+-dobj-prospects for cooperation	1
+-dobj-radical interpretations that  have led them to an unorthodox battlefield against the so-called  Great Satan, the United States	1
+-dobj-rcmod-prep-pobj-If they don't trust me with their needs, they don't get it	1
+-dobj-regional exposure and global competitivenes	1
+-dobj-regional integration in southern Africa	2
+-dobj-reporters to record audio and report the  landings live via cell phone for the first time since the  flights began arriving Jan. 11	1
+-dobj-reports about an assault on the Cathedral of the Nativity in Bethlehem, which allegedly began recently	1
+-dobj-reports that the Taleban had concentrated large forces near the border with Uzbekistan	1
+-dobj-research and development into climate change	1
+-dobj-restitution of constitution in Venezuela	1
+-dobj-security for the Jewish state	1
+-dobj-share good news at the same       time	1
+-dobj-similar commitments to the ROC	1
+-dobj-some of the prisoners	1
+-dobj-someone like Chavez	1
+-dobj-someone who can give us food, hospitals, school  fees	1
+-dobj-space tourists	1
+-dobj-state-sponsored violence and human rights abuses against the  opposition	1
+-dobj-such an arrangement	1
+-dobj-such duplicity	1
+-dobj-suggestions Tuesday that  it quietly encouraged the removal of Chavez	1
+-dobj-supporters to back Chavez	1
+-dobj-taking into account Russia's interests	1
+-dobj-terrorist organizations, such as the Hezbolah	1
+-dobj-that idea	1
+-dobj-that one	1
+-dobj-the  Convention's de jure applicability to the Occupied Palestinian  Territory, including East Jerusalem	1
+-dobj-the  Democratic People's Republic of Korea, Iran and Iraq	1
+-dobj-the  Israeli settlements in the Occupied Palestinian Territory as a  legitimate part of Israel	1
+-dobj-the  United States	1
+-dobj-the  arrival of Endeavour	1
+-dobj-the  assistance of friendly countries towards that end	1
+-dobj-the  country	1
+-dobj-the  election	2
+-dobj-the  idea	1
+-dobj-the  purported election of President Robert Mugabe as Zimbabwe's  president in this election	1
+-dobj-the  suspension of Zimbabwe from the Commonwealth	1
+-dobj-the "Kyoto Protocol	2
+-dobj-the "axis of evil" countries	1
+-dobj-the (Movement for Democratic Change)	1
+-dobj-the (Movement for Democratic Change) win	1
+-dobj-the American detainee camp	1
+-dobj-the Argentine government to ensure the life and property safety of the overseas Chinese and Argentine citizens with Chinese origin	1
+-dobj-the Australian planned space station	1
+-dobj-the Bush plan	1
+-dobj-the Chinese Government's efforts to protect the indigenous cultural and religious heritage while developing the local economy	1
+-dobj-the Commission's proposal for a decision to ratify the Kyoto Protocol	1
+-dobj-the Commonwealth's suspension of Zimbabwe	1
+-dobj-the FMLN that it does not cause damage to this country	1
+-dobj-the Israeli side to fulfill its pledges and to  respond favorably to endeavors aimed at reaching a settlement in  the Middle East through negotiations	1
+-dobj-the Judiciary officials	2
+-dobj-the Kyoto Protocol	7
+-dobj-the MDC	2
+-dobj-the Marines who guard them	1
+-dobj-the Mugabe  government	1
+-dobj-the Palestinian leadership	1
+-dobj-the Palestinians	1
+-dobj-the Palestinians to be part of the same country, or have one of their own	1
+-dobj-the Phalange to assume responsibility	1
+-dobj-the Philippines	1
+-dobj-the Prime Minister	1
+-dobj-the Protocol	1
+-dobj-the Protocol to enter into force before the World Summit on Sustainable Development this summer	1
+-dobj-the September 11 terrorist attacks on New York and Washington	1
+-dobj-the Soviet Union	1
+-dobj-the Supreme Court to nullify  the results	1
+-dobj-the Turkish world to resist to that as much as Turkey does and to act consciously to defend the law and justice	1
+-dobj-the US	1
+-dobj-the US  State Department Report on human rights	1
+-dobj-the US "anti-terrorism military operation" now being prepared	1
+-dobj-the US Taiwan Affairs Act	1
+-dobj-the US defense of Taiwan	1
+-dobj-the US efforts	1
+-dobj-the US fight against global terrorism and its bombing campaign of terrorist targets in Afghanistan	1
+-dobj-the US hunt for terrorists	1
+-dobj-the US in fighting terrorism	1
+-dobj-the US to strictly abide by the serious commitments that it had made to the Chinese government and Chinese people	1
+-dobj-the US war-mongering actions and tactics	1
+-dobj-the United  States	1
+-dobj-the United Nations	1
+-dobj-the United Nations to allow a freer flow of food and medicine into Iraq	1
+-dobj-the United Nations to convene an international meeting on terrorism	1
+-dobj-the United States	6
+-dobj-the United States  "allow a 'competent tribunal' to decide the legal status of the  detainees, as required by the Geneva Convention	1
+-dobj-the United States expansionist policies	1
+-dobj-the United States to commit to the Kyoto Protocol on climate change	1
+-dobj-the United States to curb such Israeli infractions	1
+-dobj-the United States to return to the Kyoto process	1
+-dobj-the WTO	1
+-dobj-the Washington Post report that said the Bush administration was considering such a move, specifically to allow sales of spare parts for mainland Chinese-owned helicopters as another weapon in the US war on terrorism	1
+-dobj-the World Community	1
+-dobj-the Zimbabwean leader	1
+-dobj-the Zimbabwean leader of stirring up the emotive land issue	1
+-dobj-the Zimbabwean presidential election	1
+-dobj-the Zionist regime's occupation of  Palestinian territories	1
+-dobj-the ability to look ahead, not let oneself be carried by the difficulties of the moment	1
+-dobj-the accomplishment	1
+-dobj-the achievements of the exhibition	1
+-dobj-the acquisition of mass destruction weapons	1
+-dobj-the action of several military generals	1
+-dobj-the action of the IMF	1
+-dobj-the active participation of local and foreign companies at Iran's First International Police and Security Equipment exhibition	1
+-dobj-the adoption of a decision for approval of the Kyoto Protocol on climate change	1
+-dobj-the adoption of the "Kyoto Protocol	1
+-dobj-the agreement of others	1
+-dobj-the announcement of climate change policy by the government of the United States	1
+-dobj-the assessment of the report about Pakistan, and the  tendency of some states to sit in judgement over others	2
+-dobj-the attacks on Afghanistan	1
+-dobj-the banning and seizure of satellite dishes in Iran	2
+-dobj-the barbarities it committed on the innocent Afghan people, women, children and the elderly	1
+-dobj-the biggest US arms package to Taiwan since 1992	1
+-dobj-the brutality of the occupying forces' practices	1
+-dobj-the candidacy on behalf of the bigger sister party	1
+-dobj-the charge	1
+-dobj-the claim	1
+-dobj-the computers	1
+-dobj-the conduct of the poll	2
+-dobj-the conflict in Chechnya	1
+-dobj-the constructive and cooperative ties	1
+-dobj-the content of the US Human Rights Report	1
+-dobj-the content of the video	1
+-dobj-the coup	1
+-dobj-the coup government of "Pedro Carmona	1
+-dobj-the criticism	1
+-dobj-the cutbacks in child benefits	1
+-dobj-the de-militarised zone dividing South Korea from its hardline communist northern neighbour	1
+-dobj-the decision	1
+-dobj-the decision by the Commonwealth troika	1
+-dobj-the decision to lump his nation in with Pakistan	1
+-dobj-the decision to temporarily place prison suits,  handcuffs and blindfolds on the terrorists during transfer to  protect the military personnel guarding them	1
+-dobj-the decisions of another or other states	1
+-dobj-the declared results	1
+-dobj-the decline of human rights in Malaysia	1
+-dobj-the definition of a series of priorities	1
+-dobj-the delegates not to even discuss the possibility of a new round of trade negotiations unless the US this week in Doha ratifies the Kyoto Protocol	1
+-dobj-the designation of delegates to represent DRC political parties	1
+-dobj-the detainees	1
+-dobj-the detainees as  prisoners of war	1
+-dobj-the difference between the US and Israeli cases	1
+-dobj-the dollar value of debt to remain constant	1
+-dobj-the draft regulations	1
+-dobj-the election	3
+-dobj-the election and therefore Mugabe as the head of State	1
+-dobj-the election process	1
+-dobj-the elections	1
+-dobj-the electoral and polling  officers	1
+-dobj-the entire world community	1
+-dobj-the fact that the Bush administration has now completed its policy review and has put forward what the US intends to do in terms of domestic climate change policy	1
+-dobj-the fact that the United States is not committing itself to an ambitious climate protection program	1
+-dobj-the fact that the actual elections and subsequent processes have proceeded without any significant conflict among the participants	1
+-dobj-the fact that the humanitarian operations are taking place alongside them	1
+-dobj-the fact that their presence has not been needed in Afghanistan	1
+-dobj-the failed coup	1
+-dobj-the final  tally	1
+-dobj-the fishermen's boat	1
+-dobj-the four journalists	1
+-dobj-the frizzy mane of curls	1
+-dobj-the good	1
+-dobj-the government	5
+-dobj-the government's poor response to Suhakam's numerous recommendations thus far	1
+-dobj-the implementation of the "Biological Weapons Convention"	1
+-dobj-the independence of his country in the face of foreign interference	1
+-dobj-the interference of others in the condition and destiny of the poor nations	1
+-dobj-the international community	1
+-dobj-the international convention of human rights	1
+-dobj-the international treaties that benefit the US security and economy and globalization	1
+-dobj-the intervention of foreign powers in the country	1
+-dobj-the involvement of parents in career building of their wards	1
+-dobj-the island	1
+-dobj-the legal punishments like floggings and executions of murderers and major drug traffickers that are applied based on the Shria, or Islamic law	1
+-dobj-the legality of LOMA in the Supreme Court	1
+-dobj-the lobbying	1
+-dobj-the long lines of voters unable to vote  despite waiting many hours	1
+-dobj-the man	1
+-dobj-the message of the crises that is devastating the neighboring country	1
+-dobj-the minister not to attack Blair frontally over Britain's negative position regarding Zimbabwe, but to deal with the presidential election preparations in a dispassionate and precise manner	1
+-dobj-the need to establish a just peace based on the need for the Palestinian people to regain their freedom and independence	1
+-dobj-the occupation	1
+-dobj-the opinion that Russia can gain from perturbations of the climate	1
+-dobj-the opposition	2
+-dobj-the oppositions	1
+-dobj-the other	4
+-dobj-the outbreak	1
+-dobj-the outcome	1
+-dobj-the outcome of the election	3
+-dobj-the outcome of the presidential  poll	1
+-dobj-the outcome of the presidential election	1
+-dobj-the package	1
+-dobj-the peaceful settlement in the Middle East	1
+-dobj-the people	1
+-dobj-the performance of student artists who presented cultural items	1
+-dobj-the plan	1
+-dobj-the poll	2
+-dobj-the possibility of  participation in such an arrangement	1
+-dobj-the possibility of seeing such animosity reflect negatively on relations with Lebanon and Syria - and on the region in general	1
+-dobj-the pragmatism and unilateralism position	1
+-dobj-the predicted amount of future warming	1
+-dobj-the premier to call on Bush to return to the Kyoto Protocol at an early stage and to inform him of Japan's plan to ratify the Kyoto Protocol after the Diet approves ratification during the current Diet session	1
+-dobj-the president of Zimbabwe to remain the  president of Zimbabwe	1
+-dobj-the problem	1
+-dobj-the protocol	3
+-dobj-the ratification by Russia of the Kyoto Protocol on climate change	1
+-dobj-the reason for them	1
+-dobj-the recent violent activities in Israeli territory	1
+-dobj-the reduction of polling stations  in opposition urban strongholds	1
+-dobj-the remark	1
+-dobj-the removal of Chavez	1
+-dobj-the repor	1
+-dobj-the report's allegation of human rights in Vietnam	1
+-dobj-the reports	1
+-dobj-the representatives of the Turkish world to bring this message to their friends	1
+-dobj-the resignation of a new board of directors appointed  by President Hugo Chavez	1
+-dobj-the resolutions issued by the United Nations	1
+-dobj-the restoration  by the Palestinian people of their legitimate rights including  the right to establish the Palestinian State	1
+-dobj-the result	1
+-dobj-the result as legitimate	1
+-dobj-the result of the election	1
+-dobj-the result or its  legitimacy	1
+-dobj-the results	3
+-dobj-the return of calm to the  country	1
+-dobj-the return of the UN arms inspectors	1
+-dobj-the return to stability of Venezuela's domestic situation	1
+-dobj-the role of Cassandra to the Philippine National Police under the new administration	1
+-dobj-the ruling party	1
+-dobj-the sanctions option	1
+-dobj-the sentiments of South Africa's Independent Electoral Commission (IEC) chairwoman Brigalia Bam that Zimbabwe election did not conform to international standards	1
+-dobj-the severe consequences that climate change could have	1
+-dobj-the sin	1
+-dobj-the stance taken by multilateral institutions like the IMF	1
+-dobj-the statesmen in different countries to heed the religious teachings calling for respect for human rights	1
+-dobj-the strikes	1
+-dobj-the surgeon	1
+-dobj-the suspension	1
+-dobj-the terror attacks	1
+-dobj-the terrorist acts	1
+-dobj-the three countries	3
+-dobj-the use  of strong measures	1
+-dobj-the use of force	1
+-dobj-the visits by the chief of state to countries that are on the black list of supporters of terrorism, published by the administration of President George W. Bush, including Cuba, Libya, and Iraq	1
+-dobj-the vote	2
+-dobj-the wishes and interests of a small but powerful group	1
+-dobj-the world environment	1
+-dobj-the world to accept the brutality of the occupying forces' practices	1
+-dobj-their commitment to allow free access to the people of the country to the ship and vice versa	1
+-dobj-their continued support against what he called hostile international attention	1
+-dobj-their involvement in terrorism or proliferation of mass destruction weapons	1
+-dobj-their own conditions	1
+-dobj-their parents and teachers	1
+-dobj-their success	1
+-dobj-them to give up their wish and policy to throw us from the island	1
+-dobj-them to have the same kinds of       memories of the holidays you will have	1
+-dobj-them to stay calm	1
+-dobj-them to the visit	1
+-dobj-these counties	1
+-dobj-these countries	1
+-dobj-these figures	1
+-dobj-these representatives to explain the fact to the EU	1
+-dobj-this  former British colony to be led by Tsvangirai and his political  party, the Movement for Democratic Change	1
+-dobj-this US proposal	2
+-dobj-this decision	1
+-dobj-this invitation	1
+-dobj-this issue	1
+-dobj-this meeting to be a success	1
+-dobj-this move	1
+-dobj-this neocolonial attempt	1
+-dobj-this opportunity to make this a memorable holiday season for       a family in need	1
+-dobj-this result	1
+-dobj-this suicidal attack	1
+-dobj-this vacation	1
+-dobj-this weekend's election	1
+-dobj-this year's US State Department report on human rights	1
+-dobj-those  concerns	1
+-dobj-those companies which emerged superior at the exhibition	1
+-dobj-those countries	1
+-dobj-those rudiments suce to jump over Hume' s naturalistic fallacy	2
+-dobj-those three countries	1
+-dobj-tonight's planned launch of space shuttle  Endeavour on a station delivery mission	1
+-dobj-total submission of Muslims across the globe	1
+-dobj-understanding and cooperation from European countries that are critical of the President	1
+-dobj-undivided support" for the fight against terrorism	1
+-dobj-upgraded accommodations	1
+-dobj-us to touch them	1
+-dobj-vmod-a peaceful solution to all disputes between the two sides of the Taiwan Strait	1
+-dobj-vmod-dobj-amod-the resignation of De la Rua, his  unpopular economy minister and aides to Rodriguez Saa who were  suspected of corruption	1
+-dobj-vmod-dobj-conj-the poll	1
+-dobj-vmod-his victory speech	1
+-dobj-vmod-pcomp-prep-xcomp-ccomp-aux-nsubj-prep-the food spicier	1
+-dobj-vmod-pobj-prep-the  treatment of the captured Taliban and al Qaeda terrorists being  detained at Guantanamo Bay, Cuba	1
+-dobj-vmod-the country to reducing greenhouse emissions by 5.2% by 2012	1
+-dobj-vmod-vmod-nsubj-the soft-spoken  Bangladesh immigrant	1
+-dobj-xcomp-dobj-nsubj-ccomp-dobj-Israeli terrorist attacks against Palestinian activists	1
+-dobj-xcomp-international pressure to grant the Taliban prisoners the status  of prisoner of war	1
+-dobj-xcomp-nsubjpass-dobj-pcomp-the death of one of the detainees	1
+-dobj-xcomp-the US support for the "one China" policy as well as its desire to see a peaceful solution to all disputes between the two sides of the Taiwan Strait	1
+-dobj-xcomp-the assessment of the report about Pakistan, and the tendency of  some states to sit in judgment over others	1
+-dobj-xcomp-the opposition	1
+-dobj-xcomp-the results of a rigged election	1
+-dobj-you to consider sponsoring one of our families	1
+-dobj-you to continue to support the mission       and the message	1
+-dobj-you to donate 45, $10 gift       certificates	1
+-dobj-you to join       the Georgia O'Keeffe Circle of the Indianapolis Museum of Art's Second       Century Society (SCS)	1
+-dobj-you to seek       additional support through your company, church, or service       organization	1
+-dobj-you're gong to see more of an  effect from this administration	1
+-dobj-your help in continuing the work of Jameson Camp	1
+-dobj-your suppor	1
+-dobj-your support	1
+-expl-Kyoto Protocol	2
+-expl-dialogue with Iraq	1
+-expl-situation in which we have put British troops into the ground civil war	1
+-expl-the situation there	1
+-iobj-any connection their policies and the current situation	1
+-iobj-dobj-the election	1
+-iobj-each one of you to make a personal       contribution of $50, $100 or even $1,000 to show that you believe in the       work that we do and are willing to support it with both your time and       your finances	1
+-iobj-the  civil rights advocates	1
+-iobj-the Kyoto pact	1
+-iobj-the draft regulations to put the "Kyoto Protocol" into force	1
+-iobj-the terms unlawful combatants or battlefield  detainees	1
+-mark-If yum	1
+-mark-ccomp-that show of support	1
+-mark-give a little more	1
+-mark-his Venezuelan counterpart, President Hugo Chavex, that the return of the legitimate president and government to power	1
+-mark-if there were a civilian who had committed himself to call for elections	1
+-mark-mark-that positive contact	1
+-mark-recognize  the results of a rigged election	1
+-mark-ref-rcmod-dobj-neither political  party nor their supporters are prepared to accept the final  tally	1
+-mark-return you pledge       or gift within the next 30 days	1
+-mark-the gangs were after	1
+-mark-unexpected incidents took place to Arafat's safety	2
+-mark-we don't increase our base of private funding	1
+-neg-Foreign policy was an issue that he never wanted to deal with	1
+-neg-confrontation with the state	1
+-neg-firm military plans	1
+-neg-politically prudent Israeli	1
+-neg-renew the appointments of three commissioners	1
+-nn-. Extra vacation ti	1
+-nn-Abu Talib	1
+-nn-Action from the Brazilian Government	1
+-nn-Brian Tobin	1
+-nn-Hugo Chavez	1
+-nn-Hugo Chavez's closeness to countries that are not dependent on America	1
+-nn-Iran, Iraq and North Korea	1
+-nn-Iraq, Iran and North Korea	1
+-nn-Iraq, Iran, and North Korea	1
+-nn-Kuala Lumpur	1
+-nn-Mr.  Tobin	1
+-nn-Mr. Manley	1
+-nn-Mr. Mugabe	1
+-nn-Mr./Mrs. Name	1
+-nn-Mugabe Victory	1
+-nn-Mugabe's Victory	1
+-nn-Mugabe's government	1
+-nn-President  Robert Mugabe	1
+-nn-Russia to ratify Kyoto Protocol	1
+-nn-SAOM head, Dr Sam Motsuenyane	1
+-nn-Sheik Rida	1
+-nn-The lawyers	1
+-nn-U.S. Report	1
+-nn-U.S. Treatment of Detainees in Cuba	1
+-nn-U.S. public opinion and general public	1
+-nn-United States	2
+-nn-Use of 'Axis of Evil' in International Relations	1
+-nn-Washington's rapprochement with its traditional partners	1
+-nn-Wolfowitz's remarks	1
+-nn-Zimbabwe's "election	1
+-nn-Zimbabwe's election	2
+-nn-Zimbabwean leader Robert Mugabe	1
+-nn-Zionist Occupation	1
+-nn-amod-electoral victory	1
+-nn-contact Lisa Lusk or Marcia Whited	1
+-nn-dobj-Sean O'Keefe	1
+-nn-dobj-csubj-Zimbabwe's election system	1
+-nn-employment       barrier	1
+-nn-nn-J.Chris Graffeo Chair	1
+-nn-nn-Mr. Philanthropy	1
+-nn-nn-Osama bin Laden	1
+-nn-nsubj-Big Sisters one-to-one mentoring program	1
+-nn-nsubj-President Clinton	1
+-nn-nsubj-US human rights report	1
+-nn-nsubj-Zimbabwe's incumbent President Robert Mugabe	1
+-nn-nsubjpass-Zimbabwe's "election	1
+-nn-place, a biosphere	1
+-nn-pobj-prep-abortion timing	1
+-nn-quality       volunteers	1
+-nn-ratification draft	1
+-nn-removing Arafat	1
+-nn-ruling party militants	1
+-nn-that NASA's cost  estimate for finishing the "core" station between 2002 and 2008	1
+-nn-trade turnover between Uzbekistan and Japan in 2001	1
+-nn-violence after Zimbabwe vote	1
+-nn-vote rigging	1
+-nn-world climate protection	1
+-npadvmod-advmod-a report	1
+-npadvmod-advmod-the policy	1
+-npadvmod-cultural events	1
+-nsubj-4 February	1
+-nsubj-A Big Sister	1
+-nsubj-Abu Talib	1
+-nsubj-African leaders	2
+-nsubj-Al Qaeda	1
+-nsubj-All of this	1
+-nsubj-All this	1
+-nsubj-Alliance military success	1
+-nsubj-America's rulers	1
+-nsubj-Any cooperation with China over rights issues	1
+-nsubj-Big Sisters	2
+-nsubj-Britain and Zimbabwe	1
+-nsubj-Britain and its Western allies	2
+-nsubj-British Prime Minister Tony Blair	1
+-nsubj-Bush's alternative	1
+-nsubj-Bush's remarks	1
+-nsubj-Canada's Environmental Minister, David Anderson	1
+-nsubj-China's continuing deployment of forces and tactical missiles to areas across the straits from Taiwan	1
+-nsubj-Comparing it with 19 April 1810	1
+-nsubj-Conditions for detainees in Guantanamo Bay	1
+-nsubj-Cypriot nation	1
+-nsubj-Emissions of these gases	1
+-nsubj-Formations of the anti-Taleban coalition	1
+-nsubj-Freedom of the press and  freedom of assembly	1
+-nsubj-Future US modules	1
+-nsubj-H and R Block	1
+-nsubj-Her makeup	1
+-nsubj-His behaviour	1
+-nsubj-His comments	1
+-nsubj-His role	1
+-nsubj-His training in Russia combined with his knowledge of American techniques	1
+-nsubj-Human rights and development	1
+-nsubj-Iran, Iraq,  and North Korea	1
+-nsubj-Iran, Iraq, and the DPRK (North Korea)	1
+-nsubj-Iran, Pakistan and some other countries	2
+-nsubj-Iraqi President Saddam Hussein	1
+-nsubj-Israeli soldiers	1
+-nsubj-It knows how all right	1
+-nsubj-Japanese industry	1
+-nsubj-Latin American countries	1
+-nsubj-Mary Roth Tom Hirschauer	1
+-nsubj-Mbeki and Obasanjo	1
+-nsubj-Military tensions in the Taiwan Strait	1
+-nsubj-Mr  Mugabe	2
+-nsubj-Mr Chavez's exit	1
+-nsubj-Mr. Manley	1
+-nsubj-Mr. Tobin	1
+-nsubj-Mrs. Clinton	1
+-nsubj-Mugabe's re-election	1
+-nsubj-Mugabe's support base	1
+-nsubj-Mugabe's win	1
+-nsubj-Muslims rulers	1
+-nsubj-O'Keefe's appointment	1
+-nsubj-OPEC member states, particularly the Islamic Republic	1
+-nsubj-Our agency	1
+-nsubj-Our institutions	1
+-nsubj-Our position	2
+-nsubj-Pleasant Run Children's Homes	1
+-nsubj-Powell's position	1
+-nsubj-President Chavez	1
+-nsubj-President Yasir Arafat	1
+-nsubj-Russian  security forces in Chechnya	1
+-nsubj-South Africans	1
+-nsubj-Taiwan's WTO access	1
+-nsubj-Taiwan's WTO entry	1
+-nsubj-Taiwan-made products	1
+-nsubj-The   ditch	1
+-nsubj-The Kesas report	1
+-nsubj-The Kyoto Protocol	1
+-nsubj-The Lusaka accord	1
+-nsubj-The Taiwan issue	2
+-nsubj-The United States	2
+-nsubj-The United States military action in Afghanistan	1
+-nsubj-The Venezuelan experience during the past few days	1
+-nsubj-The assessment by the Foreign Ministry official	1
+-nsubj-The conditions my men live in	1
+-nsubj-The continual sale of arms by the United States or upgrading of relations with Taiwan	1
+-nsubj-The country	1
+-nsubj-The declaration	1
+-nsubj-The distance between the first and fourth bump	1
+-nsubj-The election	2
+-nsubj-The end result	1
+-nsubj-The government	3
+-nsubj-The issue of good housing and similar services	1
+-nsubj-The kids	1
+-nsubj-The latest move	1
+-nsubj-The local press	1
+-nsubj-The military	1
+-nsubj-The number of employees working on a temporary or daily basis	1
+-nsubj-The opposition	1
+-nsubj-The political players	1
+-nsubj-The presidential election  in Zimbabwe	1
+-nsubj-The recall conducted in China in 1999	1
+-nsubj-The relationships that are formed	1
+-nsubj-The release	1
+-nsubj-The remarks	1
+-nsubj-The report	1
+-nsubj-The report's reference to intelligence agents' monitoring the  activities of opposition politicians and tapping the phones of  certain government leaders	1
+-nsubj-The reports	1
+-nsubj-The role of chaplain	1
+-nsubj-The sale	1
+-nsubj-The shootings	1
+-nsubj-The situation	1
+-nsubj-The spreading AIDS epidemic	1
+-nsubj-The suspension	1
+-nsubj-The thickness of the fence	1
+-nsubj-The ultras	1
+-nsubj-The upgrading and especially the last part - the boosting unit	2
+-nsubj-The visit	1
+-nsubj-These circles	1
+-nsubj-These groups	1
+-nsubj-These proposals	1
+-nsubj-This action	1
+-nsubj-This event	1
+-nsubj-This mentality	1
+-nsubj-This priority	1
+-nsubj-This signing	1
+-nsubj-Those that want to secede from the nation and engage in terrorist activities	2
+-nsubj-Turkish Cypriots	1
+-nsubj-U.S. President George W.  Bush	1
+-nsubj-US arms sales to Taiwan and its elevation US-Taiwan relations	1
+-nsubj-US decision on greenhouse gases	1
+-nsubj-US human rights report	3
+-nsubj-US supremacy	1
+-nsubj-Venezuela's domestic policy	1
+-nsubj-Watching wildlife	1
+-nsubj-X or Y	1
+-nsubj-Your continued participation	1
+-nsubj-Your financial support of the development process	1
+-nsubj-Your generosity	1
+-nsubj-Your gift	1
+-nsubj-Your gift to Goodwill	2
+-nsubj-Your support	1
+-nsubj-Zimbabwe election	1
+-nsubj-Zimbabwe's future	1
+-nsubj-Zimbabwean President Robert Mugabe	1
+-nsubj-a causal relation  between unusual climatic phenomena and greenhouse gas emissions	1
+-nsubj-a decision	1
+-nsubj-a focus on partial-birth abortions	1
+-nsubj-abuses in Xinjiang and Tibet	1
+-nsubj-accept democratic methods to reach power	1
+-nsubj-advcl-dobj-the Kesas report	1
+-nsubj-advcl-help from the Turkish press	1
+-nsubj-advcl-nsubj-the countries	2
+-nsubj-advmod-The US naming of North Korea	1
+-nsubj-advmod-dep-dobj-vmod-prep-pobj-conj-the Israeli occupation's claims	1
+-nsubj-all nations in the world	1
+-nsubj-all parties	1
+-nsubj-all parties concerned	1
+-nsubj-amod-Daniel Yamins	1
+-nsubj-an  observation that the judiciary was subjected to political  pressure, but referring to it as being "independent in  principle."	1
+-nsubj-an active climate protection policy	1
+-nsubj-an election	1
+-nsubj-an expected increase in farm imports	1
+-nsubj-an outcome	1
+-nsubj-anti-Israeli decisions	1
+-nsubj-any progress in human communities	1
+-nsubj-appreciate the  Muslims' position	1
+-nsubj-argue with the master	1
+-nsubj-banks, real estate, construction projects, stock markets, investing in losing companies and gambling	1
+-nsubj-both the US and Jordan	1
+-nsubj-bring about an intervention or a blockade	1
+-nsubj-call them cages	1
+-nsubj-called Goodwill	1
+-nsubj-ccomp-US State Department's  country report on human rights situation in Pakistan	1
+-nsubj-ccomp-conj-the  occupation of the Palestinian territories	1
+-nsubj-ccomp-conj-the gunfire	1
+-nsubj-ccomp-dobj-Beijing could try to use the situation to gain the upper hand	1
+-nsubj-ccomp-dobj-ref-pobj-prep-xcomp-The relationships that are formed	1
+-nsubj-ccomp-dobj-the United States will negotiate with Taiwan to sign a free trade zone agreement between the two countries	1
+-nsubj-ccomp-dobj-with the  return of President Chavez the Venezuelan government would be  able to achieve its exalted objectives with the support of the  people	1
+-nsubj-ccomp-everyone to despair	1
+-nsubj-ccomp-nsubj-The claim	1
+-nsubj-ccomp-nsubj-prep-pobj-the Islamic Republic	2
+-nsubj-ccomp-nsubj-ref-nsubj-vmod-dobj-the vessel	1
+-nsubj-ccomp-offering cooperation	1
+-nsubj-ccomp-pcomp-the American treatment of prisoners in Cuba	1
+-nsubj-ccomp-rcmod-the NGOs	1
+-nsubj-ccomp-such concerns	1
+-nsubj-ccomp-the  re-election of his Zimbabwean counterpart Robert Mugabe	1
+-nsubj-ccomp-the EU plan	1
+-nsubj-ccomp-the United States	1
+-nsubj-ccomp-the Venezuelan president's ouster	1
+-nsubj-ccomp-the current Palestinian leadership	1
+-nsubj-ccomp-the government's tactics	1
+-nsubj-ccomp-the job	1
+-nsubj-ccomp-the piece	1
+-nsubj-ccomp-the sovereignty of all countries	1
+-nsubj-ccomp-the voting results	1
+-nsubj-ccomp-these speculations	1
+-nsubj-ccomp-this act of terrorism	1
+-nsubj-ccomp-this cooperation	1
+-nsubj-ccomp-two efforts	1
+-nsubj-ccomp-vmod-xcomp-dobj-rcmod-The United States	1
+-nsubj-ccomp-your company	1
+-nsubj-chip-related issues in Tokyo	1
+-nsubj-compel Iraq to rid itself of weapons of mass destruction	1
+-nsubj-conj-The move	1
+-nsubj-conj-The win	1
+-nsubj-conj-an election	1
+-nsubj-conj-dobj-the American treatment of prisoners in Cuba	1
+-nsubj-dep-conj-ccomp-nsubj-the election	1
+-nsubj-dep-conj-xcomp-advcl-xcomp-dobj-our efforts	1
+-nsubj-dep-nsubj-The urgency you feel to make changes	1
+-nsubj-dep-the accord	1
+-nsubj-dep-the ouster of the democratically  elected president of Venezuela	1
+-nsubj-dep-the the ouster of the democratically elected president of Venezuela	1
+-nsubj-dep-to share the results with his classmates in our desktop publishing       training program	1
+-nsubj-depending on you	1
+-nsubj-developing countries, such as China and India	1
+-nsubj-dobj-President Bush and America	1
+-nsubj-dobj-The  government	1
+-nsubj-dobj-amod-the program	1
+-nsubj-dobj-conj-Presidents Obasanjo and Mbeki	1
+-nsubj-dobj-dep-to pay Frank De Winne's ticket into space	1
+-nsubj-dobj-his policies	1
+-nsubj-dobj-its Annual Human Rights Report	1
+-nsubj-dobj-nn-events that shook the United States	1
+-nsubj-dobj-rcmod-theKyoto Protocol	1
+-nsubj-dobj-the CFL	1
+-nsubj-dobj-the Venezuelan regime's policies	1
+-nsubj-dobj-the images	1
+-nsubj-dobj-the report	1
+-nsubj-due regard to elders and teachers	1
+-nsubj-education and cultural work	1
+-nsubj-eliminate poverty and injustice and guarantee the independence of his country in the face of foreign interference	2
+-nsubj-enact a new law	1
+-nsubj-examine the module and its contents	1
+-nsubj-extra vigil	1
+-nsubj-fly to space	1
+-nsubj-friendship with Libya, Iraq and Cuba	1
+-nsubj-full economic sanctions	1
+-nsubj-give the engineers a real chance to practise what they studied in theory at university	1
+-nsubj-go on  14-hour flights to some guano rock in the Pacific	1
+-nsubj-growing up today	1
+-nsubj-his  party	1
+-nsubj-his  victory	1
+-nsubj-his visit	1
+-nsubj-improve the total health of the children socially,       emotionally, and physically	1
+-nsubj-incumbent Robert Mugabe	1
+-nsubj-instability across the country	1
+-nsubj-intensity target	1
+-nsubj-internal problems	1
+-nsubj-is a particularly difficult time	1
+-nsubj-is to add  thousands of refugees fleeing war and political turmoil	1
+-nsubj-is to both gain more knowledge and put together good preparedness strategies	1
+-nsubj-its participation in the ILO	1
+-nsubj-land mines	1
+-nsubj-land reforms	1
+-nsubj-large Russian capital and businesses	1
+-nsubj-lead them in the right       direction right now	1
+-nsubj-leaders of regional extremist cells	1
+-nsubj-listen to European representatives	1
+-nsubj-low-income countries	1
+-nsubj-maintaining and abiding by the "Anti-Ballistic Missile Treaty" on 29 November at the 56th United Nations General Assembly	1
+-nsubj-make it impossible for the MDC to campaign in rural areas	1
+-nsubj-many women and young people	1
+-nsubj-mark-ref-rcmod-ccomp-xcomp-prep-pobj-the developed and capitalist states	1
+-nsubj-multi-polar system	1
+-nsubj-not to ask India and China to reduce their greenhouse gas emissions	1
+-nsubj-not to use any	1
+-nsubj-nsubj-ccomp-dep-dobj-nn-finally got to vote	1
+-nsubj-nsubj-conj-prep-pobj-cut emissions by 20  percent	1
+-nsubj-o leave Al Qaeda without legal excu	1
+-nsubj-one company	1
+-nsubj-our technical equipment	1
+-nsubj-pcomp-Rodriguez Saa	1
+-nsubj-pcomp-Shuttleworth's efforts	1
+-nsubj-possibility of a military conflict in the Taiwan Strait	1
+-nsubj-prep-The Bush administration	1
+-nsubj-prep-pcomp-Washington's kid glove treatment of its so-called allies such as  Saudi Arabia and Pakistan	1
+-nsubj-prep-pcomp-interim leader Adolfo Rodriguez  Saa	1
+-nsubj-prep-pobj-cc-his  party	1
+-nsubj-prep-pobj-persuade the international community to accept the NMD and Russia to agree to revise the Anti-Ballistic Missile Treaty	1
+-nsubj-prep-pobj-rcmod-nsubj-nsubj-prep-pobj-prep-pobj-vmod-Mr. Tsvangirai	1
+-nsubj-prep-pobj-rcmod-was the beginning of the healing process	1
+-nsubj-prep-pobj-vmod-Mr. Stoiber	1
+-nsubj-prep-pobj-vmod-The placement of these two pieces	1
+-nsubj-put an "X" mark on the ballot in the space marked  "Robert Mugabe, ZANU-PF	1
+-nsubj-ratify the Kyoto Protocol	1
+-nsubj-rcmod-dep-Brian Tobin	1
+-nsubj-rcmod-greenhouse gases	1
+-nsubj-rcmod-his country's opposition movement	1
+-nsubj-rcmod-pobj-prep-the United States	1
+-nsubj-rcmod-something less than a mutual cease-fire agreement	1
+-nsubj-reach absolute accuracy using biological systems	1
+-nsubj-reach all youth and families interested in values-based programs	1
+-nsubj-reduce "the intensity of greenhouse gas emission generated by the US economy" by 18% over the next 10 years	1
+-nsubj-ref-dobj-rcmod-nsubj-changing our values and  our way of life	1
+-nsubj-ref-how to implement the Kyoto Protocol	1
+-nsubj-ref-pobj-prep-lost loved ones on September 11 or during the war in  Afghanistan	1
+-nsubj-regional stability	1
+-nsubj-remove Chavez from office	1
+-nsubj-repeated denunciations of Israel	1
+-nsubj-run against the wishes of Ms. Merkel and her party	1
+-nsubj-service ventures in the financial, transport and telecom sectors	1
+-nsubj-slow down and then stop the growth in the emissions of harmful gases and, if scientific studies justify it, diminish them	1
+-nsubj-speculation that Bush may sign a fresh communique with China in return for Beijing's support on issues such as anti-terrorism and prevention of nuclear proliferation	1
+-nsubj-struggle without casualties	1
+-nsubj-such a concept	1
+-nsubj-such technologies	1
+-nsubj-talk about their views of the  prisoners	1
+-nsubj-terrorists to find supporters	1
+-nsubj-the  Zimbabwean head of state	1
+-nsubj-the  government of Zimbabwe	1
+-nsubj-the  occupation of the Palestinian territories	1
+-nsubj-the American government	1
+-nsubj-the Bush Administration	1
+-nsubj-the CTBT	1
+-nsubj-the Central  Committee of the Communist Party of China authorized its rocket  production program a year before that	1
+-nsubj-the Chinese economy	1
+-nsubj-the EU	1
+-nsubj-the Govt's human rights record	1
+-nsubj-the Greenpeace	1
+-nsubj-the Islamic Republic	1
+-nsubj-the Israeli prime minister	1
+-nsubj-the March election	1
+-nsubj-the Pentagon	1
+-nsubj-the SOFA	2
+-nsubj-the September 11 incidents	1
+-nsubj-the State Department  pronouncement on Chechnya	1
+-nsubj-the Taipei authorities	1
+-nsubj-the Taleban	1
+-nsubj-the U.S. decision to reject the Kyoto  agreement	1
+-nsubj-the U.S. to decide whether to take part in the  protocol or not	1
+-nsubj-the US	2
+-nsubj-the US approach	1
+-nsubj-the US decision to adopt measures  to control greenhouse gases	1
+-nsubj-the US evaluation of the practice of human rights in other countries	1
+-nsubj-the US government	1
+-nsubj-the US war-mongering	1
+-nsubj-the United Nations	1
+-nsubj-the United Nations Framework Convention for Climate Change	1
+-nsubj-the United States	7
+-nsubj-the United States and every  other Kyoto signatory	1
+-nsubj-the WTO	2
+-nsubj-the Wall Street Journal editorial page's coverage of Juanita Broaddrick's rape charges against Bill Clinton	1
+-nsubj-the Zimbabwe poll	1
+-nsubj-the Zionist and US administrations	1
+-nsubj-the abrupt escalation of the conflict between Israel and Palestine	1
+-nsubj-the accord	2
+-nsubj-the agency's credibility	1
+-nsubj-the agency's objectives	1
+-nsubj-the arrest	1
+-nsubj-the banks	1
+-nsubj-the bust	1
+-nsubj-the chief of state	1
+-nsubj-the claim	1
+-nsubj-the coexistence of Israel with the state of Palestine	1
+-nsubj-the conditions in Zimbabwe	1
+-nsubj-the conduct of the  elections	1
+-nsubj-the cross-strait balance of military power	1
+-nsubj-the detainees	2
+-nsubj-the development of Tibet	2
+-nsubj-the distance between it and the building	1
+-nsubj-the dollarization process	1
+-nsubj-the draft regulations	1
+-nsubj-the economic open door policy and  reform in China	1
+-nsubj-the election	3
+-nsubj-the election of Mr. Mugabe	1
+-nsubj-the election result	1
+-nsubj-the elections	1
+-nsubj-the electoral  process	1
+-nsubj-the enemy	1
+-nsubj-the events in Chechnia	1
+-nsubj-the evidence	1
+-nsubj-the exercise	1
+-nsubj-the government	2
+-nsubj-the hard work of staff and those who benefit from our       services	1
+-nsubj-the hospital	1
+-nsubj-the idea	1
+-nsubj-the images of the protests at the Plaza de Mayo	1
+-nsubj-the incident	1
+-nsubj-the increased concentration of climate gases in the atmosphere and the slowness of the climate system	1
+-nsubj-the industrialized countries	1
+-nsubj-the initiative	1
+-nsubj-the international community	1
+-nsubj-the international conference against racism in Durban, South Africa August 31-September 7, 2001	1
+-nsubj-the international society	1
+-nsubj-the intifadah's structure	1
+-nsubj-the involvement of Jews in the 11 September events	1
+-nsubj-the island	1
+-nsubj-the killings	1
+-nsubj-the late prime minister Yitzhaq Rabin	1
+-nsubj-the loose structure of the smuggling ring	1
+-nsubj-the mayor	1
+-nsubj-the measures	1
+-nsubj-the message	1
+-nsubj-the method	1
+-nsubj-the new U.S. Government initiative	1
+-nsubj-the new U.S. plan	1
+-nsubj-the occupation policies of the Zionist  regime	2
+-nsubj-the past weekend's presidential election in the southern African country	1
+-nsubj-the poll	1
+-nsubj-the possible risks facing Indonesia	1
+-nsubj-the president's proposed alternative to the Kyoto  agreement	1
+-nsubj-the prisoners	1
+-nsubj-the proposed cut in child benefits	1
+-nsubj-the protection of its own interests worldwide	1
+-nsubj-the recovery	1
+-nsubj-the remarks by the US Government spokesman	1
+-nsubj-the result	4
+-nsubj-the results	1
+-nsubj-the return  of the legitimate president and government to power	1
+-nsubj-the right to development	1
+-nsubj-the shuttle's crew	1
+-nsubj-the situation	2
+-nsubj-the state of human rights in Malaysia	1
+-nsubj-the trend toward warmer weather and more precipitation	1
+-nsubj-the vote	1
+-nsubj-the wave of looting	2
+-nsubj-these suspicions	1
+-nsubj-these young people	1
+-nsubj-this agreement	2
+-nsubj-this approach	1
+-nsubj-this meeting	1
+-nsubj-this occupation and the settlements	1
+-nsubj-this process	1
+-nsubj-this tendency	1
+-nsubj-those remarks	1
+-nsubj-those tests	1
+-nsubj-timely control measures	1
+-nsubj-tiny DNA strands	1
+-nsubj-to comment to what extent the war would affect the local economy	1
+-nsubj-to define with clarity the fundamental issues of its basic regimes	1
+-nsubj-to do this	1
+-nsubj-to extract information from them to prevent future  attacks	1
+-nsubj-to guarantee the flow of revenues to the government	1
+-nsubj-to hear the criteria that they used to establish that benchmark	1
+-nsubj-to hold  elections now	1
+-nsubj-to take over as space  station commander from American Frank Culbertson	1
+-nsubj-to tarnish China's image and exert political pressure on the Chinese Government	1
+-nsubj-trade between China and Lebanon last year	1
+-nsubj-vmod-dobj-rcmod-conj-xcomp-the prisoners	1
+-nsubj-was the "most dangerous enemy of law-abiding citizens and an affront against law and democracy	1
+-nsubj-welfare reform	1
+-nsubj-were more indifferent	1
+-nsubj-whose continued validity	1
+-nsubj-xcomp-Robert Mugabe	1
+-nsubj-xcomp-The return of the United States to the system	1
+-nsubj-xcomp-ccomp-prep-pobj-vmod-dobj-ref-nsubj-Mugabe's  challenger Morgan Tsvangirai	1
+-nsubj-xcomp-ccomp-this move	1
+-nsubj-xcomp-dobj-Protesters, who ousted Hugo Chavez	1
+-nsubj-xcomp-dobj-Your support	1
+-nsubj-xcomp-prep-pobj-Political figures turn on each other from time to time	1
+-nsubj-xcomp-prep-pobj-the Venezuelan government	1
+-nsubj-xcomp-rcmod-Mr. Manley	1
+-nsubj-xcomp-vmod-xcomp-nsubj-dobj-nsubj-dobj-dep-1,500 children families	1
+-nsubj-your company	1
+-nsubj-your support	1
+-nsubjpass-An ``Action Plan`` on how the process should function in coming period and which issues that the process should focus on	1
+-nsubjpass-Captives at Camp X-ray	1
+-nsubjpass-Chinese mainland	1
+-nsubjpass-EU ratification to be guaranteed	1
+-nsubjpass-Fifty-five people, including former officials, businessmen and bankers	1
+-nsubjpass-Her clothing	1
+-nsubjpass-Israel's atrocities	1
+-nsubjpass-Israel's resettlement policies	1
+-nsubjpass-Its name	1
+-nsubjpass-Merchant vessels	1
+-nsubjpass-Our energy	2
+-nsubjpass-Ra'fat al-Bajjali	1
+-nsubjpass-Russian officers	1
+-nsubjpass-Secret gates	1
+-nsubjpass-Six successive bumps	1
+-nsubjpass-Suhakam's performance	1
+-nsubjpass-Sunday's inauguration ceremony	1
+-nsubjpass-Taiwan's interest	1
+-nsubjpass-That message	1
+-nsubjpass-The  cause of human rights	1
+-nsubjpass-The Annual Human Rights Report of the US State Department	1
+-nsubjpass-The Jameson Grill	1
+-nsubjpass-The Kyoto Protocol	1
+-nsubjpass-The Venezuelan president	1
+-nsubjpass-The cause of human rights	1
+-nsubjpass-The economic package	1
+-nsubjpass-The election	1
+-nsubjpass-The gift	1
+-nsubjpass-The international treaty to tackle climate change	1
+-nsubjpass-The new laws	1
+-nsubjpass-The people of the US	1
+-nsubjpass-The report	1
+-nsubjpass-The residents	1
+-nsubjpass-The ship	1
+-nsubjpass-These people	2
+-nsubjpass-This carnage	1
+-nsubjpass-U.S. President George Bush's decision to sell arms to Taiwan	1
+-nsubjpass-US crew members	1
+-nsubjpass-VVER-1000 technology	1
+-nsubjpass-WTO decisions	1
+-nsubjpass-Washington itself	1
+-nsubjpass-Your gift	1
+-nsubjpass-Zimbabwe's elections	2
+-nsubjpass-Zimbabwe's presidential election	1
+-nsubjpass-Zimbabwean President Robert Mugabe's reelection	1
+-nsubjpass-a government of national unity	1
+-nsubjpass-advcl-prep-pobj-Mr. Chavez	1
+-nsubjpass-anti-Soviet hysteria	1
+-nsubjpass-anti-terrorism campaigns	1
+-nsubjpass-be detained at Camp X-Ray	1
+-nsubjpass-ccomp-a diet of peanut butter and  bagel chips	1
+-nsubjpass-ccomp-the war	1
+-nsubjpass-dep-dep-Zimbabwean President Robert Mugabe's reelection	1
+-nsubjpass-human rights	1
+-nsubjpass-international observers	1
+-nsubjpass-its employees	1
+-nsubjpass-prep-The proposal	1
+-nsubjpass-prep-pobj-The joint demand and stand by the majority of countries attending the conference	1
+-nsubjpass-prep-pobj-This announcement	1
+-nsubjpass-prep-pobj-his subordinates	1
+-nsubjpass-regimes that are based on the votes and support of the masses and adopt relatively independent policies toward the big powers and especially America	1
+-nsubjpass-she and others of a similar view	1
+-nsubjpass-such a request	1
+-nsubjpass-the  election	1
+-nsubjpass-the American society	1
+-nsubjpass-the BBC	1
+-nsubjpass-the Bush administration	1
+-nsubjpass-the National Union of Namibian Workers	1
+-nsubjpass-the Palestinian leadership	1
+-nsubjpass-the Taiwan Strait issue	1
+-nsubjpass-the VVER-1000 technology to be contributed by Russian experts	1
+-nsubjpass-the adoption of the protocol	1
+-nsubjpass-the decision to defer the possible suspension until  Commonwealth observers report back on the election	1
+-nsubjpass-the disorganization in Harare	1
+-nsubjpass-the election	2
+-nsubjpass-the election campaign	1
+-nsubjpass-the establishment of a national quota system	1
+-nsubjpass-the issues moved at the conference	1
+-nsubjpass-the judiciary	2
+-nsubjpass-the matter	1
+-nsubjpass-the outcome	1
+-nsubjpass-the poll	2
+-nsubjpass-the prime suspect Usama bin Laden	1
+-nsubjpass-the report	1
+-nsubjpass-the trade balance	1
+-nsubjpass-the war	1
+-nsubjpass-these concerns over an alleged new front	1
+-nsubjpass-two parallel fences	1
+-nsubjpass-whose immunity	1
+-nsubjpass-xcomp-dobj-the system of joint electorates	1
+-nsubjpass-xcomp-nsubj-dep-xcomp-The gift	1
+-nsubjpass-your gift	1
+-num-reporting and, I guess, life	1
+-pcomp-Bush had referred to Taiwan as a  country	1
+-pcomp-Chavez had been removed from power by a military coup	1
+-pcomp-Mugabe, his government and his party,  Zanu-PF	1
+-pcomp-achieving "one goal, power  at all costs	1
+-pcomp-calling a referendum to redraft the Constitution and restore the balance of power	1
+-pcomp-carrying out a fifth missile interception test	1
+-pcomp-combating climate change	1
+-pcomp-completing and returning the enclosed pledge form	1
+-pcomp-creating international instruments for regulating emissions	1
+-pcomp-cutting off the supply of oil to countries that support Israel for one month	1
+-pcomp-dealing with the reality of Palestinian-Israeli struggle	1
+-pcomp-defeating the threat of international terrorism	1
+-pcomp-deploying the National Missile Defense System	1
+-pcomp-developing more dynamic and broader cooperation with Gazprom	1
+-pcomp-discrimination, torture, arbitrary detention	1
+-pcomp-dobj-The US president described him as a man of peace	1
+-pcomp-doing whatever it takes to help Taiwan defend itself	1
+-pcomp-dwindling moral values in the society	1
+-pcomp-eliminating injustice and poverty in his country	1
+-pcomp-eliminating its enemies by whatever means possible, legal or illegal	1
+-pcomp-eliminating poverty	1
+-pcomp-ending the occupation and dismantling the settlements	1
+-pcomp-engaging in an adventure" in Iraq	1
+-pcomp-establishing friendly relations with certain countries that pursued independent regional and international policies	1
+-pcomp-expanding economic ties between Iranian investors and businessmen in Soghd	1
+-pcomp-gaining superiority over Russia's nuclear capabilities	1
+-pcomp-having a good education system and a good health system	1
+-pcomp-having been democratically elected	1
+-pcomp-having clean industry	1
+-pcomp-helping aggressive Israel to put a traitorous agent at the head of the Palestinian Authority	1
+-pcomp-helping the "younger  brother" in the field of modernization	1
+-pcomp-how the country's obvious  problems are going to be solved	1
+-pcomp-imposing a weapons embargo on Israel and the Palestinian Authority	1
+-pcomp-imposing its expansionists policies under the pretext of the fight against terrorism	1
+-pcomp-improving ordinary people's lives	1
+-pcomp-investing in health in their overall development strategy	1
+-pcomp-judging for themselves	1
+-pcomp-launching a coaching class for various competitive exams	1
+-pcomp-launching a military strike against Iraq	1
+-pcomp-meeting the growing demand of tap water in various localities of Jammu	1
+-pcomp-opening  communication channels and achieving social harmony	1
+-pcomp-owning a piece of land in Britain	1
+-pcomp-playing an intermediary role in the Middle East crisis	1
+-pcomp-prep-being a journalist	1
+-pcomp-prep-casting ballots	1
+-pcomp-prep-cracking down on terrorism	1
+-pcomp-prep-dobj-hearing from you	1
+-pcomp-prep-having the procedure	1
+-pcomp-prep-hearing from you	1
+-pcomp-prep-helping Argentina	1
+-pcomp-prep-pobj-how safe their diplomats are in this country	1
+-pcomp-prep-pobj-prep-nsubj-dobj-lying on a stove	1
+-pcomp-prep-prep-pobj-separating its anti-terrorism campaign from the Taiwan Strait issue	1
+-pcomp-prep-protecting human rights	1
+-pcomp-prep-raising $16,000 for       camperships	1
+-pcomp-prep-ref-nsubj-vmod-advcl-prep-pobj-why Bush had referred to Taiwan as a  country	1
+-pcomp-prep-renewing your last gift of $ xxx	1
+-pcomp-presenting this matchmaker challenge to       your congregation	1
+-pcomp-protecting civil liberties and advancing human rights	1
+-pcomp-pursuing multilateral solutions to issues of global concern	1
+-pcomp-putting the "Kyoto Protocol" into force	1
+-pcomp-reaching a settlement in  the Middle East through negotiations	1
+-pcomp-rebuilding those statues	1
+-pcomp-reducing greenhouse gas emissions in the world	1
+-pcomp-returning home soon to continue terrorizing  the American people	1
+-pcomp-revitalizing its economies through good  government and expanded international trade	1
+-pcomp-seeing Mr Chavez' departure  from the country	1
+-pcomp-seeing the Kyoto Protocol take effect by  the Sustainable Development Summit (Rio+10)	1
+-pcomp-seeking revenge  against the military personnel who supported the failed attempt  to remove him from office	1
+-pcomp-signing the Kyoto Protocol	2
+-pcomp-solving the issue through diplomatic and other means	1
+-pcomp-strengthening military relations between the two countries	1
+-pcomp-strengthening our economy	1
+-pcomp-stressing its "commitment towards the  different international conventions	1
+-pcomp-stressing its "commitment towards the different international conventions	1
+-pcomp-supporting Big Sisters Annual Campaign and       our $200,000 goal	1
+-pcomp-suspending Germany's military aid for Israel, that is, possible EU economic sanctions against Tel Aviv	1
+-pcomp-tackling the issue for eradication of terrorism	1
+-pcomp-taking into account Russia's specific interests" in working out international documents concerning the regulation of emissions	1
+-pcomp-the US abandoning its (until now) well-known commitment to the principles of justice in treating the Al-Qa'ida and Taliban prisoners	1
+-pcomp-the issue of separatists	1
+-pcomp-thwarting the plan	1
+-pcomp-upholding religious and cultural values	1
+-pcomp-what the only world superpower intends in future	1
+-pcomp-winning the election	1
+-pcomp-working out practical measures to have it enter into force	1
+-pcomp-working with nations, particularly developing nations, to convince them that a better approach exists	1
+-pcomp-yet  another type of diplomatic isolation of Zimbabwe	1
+-pobj-"peaceful reunification	1
+-pobj-(US President George W.) Bush	1
+-pobj-Argentina's economy	1
+-pobj-Bush's "axis of evil" remark	1
+-pobj-Bush's alternative	1
+-pobj-Chavez and Bustani	1
+-pobj-Chavez' return	1
+-pobj-Chechen terrorism	1
+-pobj-Chinese customers	1
+-pobj-Cuban President Fidel Castro	1
+-pobj-Cuban, Libyan  and Iraqi leaders	1
+-pobj-European efforts	1
+-pobj-Greek Cypriots	1
+-pobj-Hugo Chavez	2
+-pobj-India and China	1
+-pobj-Iran, Iraq and DPRK	1
+-pobj-Iran, Iraq, and North Korea	1
+-pobj-Israel and the Palestinian Authority	1
+-pobj-Japan's debt relief for Pakistan	1
+-pobj-Kyoto Pact Backing	1
+-pobj-Kyoto Protocol	1
+-pobj-Libya, Iraq and Cuba	1
+-pobj-Miller to come to Romania on a working visit	1
+-pobj-Morgan Tsvangirai	1
+-pobj-Mr Chavez's resignation	1
+-pobj-Mr Tsvangirai	1
+-pobj-Mr.  Mugabe	1
+-pobj-Mr. Mugabe	1
+-pobj-Mr. Mugabe's regime	1
+-pobj-Mr. Tobin	1
+-pobj-Mugabe Government	1
+-pobj-Mugabe and his government	1
+-pobj-Mugabe or the elections	1
+-pobj-Mugabe's Zanu-PF party	2
+-pobj-OPEC member states	1
+-pobj-Palestinian solidarity	1
+-pobj-President Hugo Chavez's promise for a dialogue on national reconciliation	1
+-pobj-President Macapagal	1
+-pobj-Republican attack machine	1
+-pobj-Salvation--hers and that of the destitute she rescued from the gutters	1
+-pobj-Saturday, September 20,1997, from 2:00 p.m. until 7:00 p.m.	1
+-pobj-Sharon and other Israeli and Lebanese persons	1
+-pobj-Sino-U.S. ties	1
+-pobj-South Korea's heavily carbon-dependent industries	1
+-pobj-Special Field Force (SFF) members	1
+-pobj-Taliban and Al  Qaeda detainees the United States is holding at "Camp X-Ray" in  Guantanamo Bay, Cuba	1
+-pobj-Tsvangirai and his political  party, the Movement for Democratic Change	1
+-pobj-U.S. President George W. Bush's new policy to control greenhouse gas emissions	1
+-pobj-U.S. domination	1
+-pobj-U.S. power	1
+-pobj-U.S.-Taiwan trade relations	1
+-pobj-US President George W. Bush's China visit	1
+-pobj-US action on climate change	1
+-pobj-US sponsorship	1
+-pobj-US weapon sales to Taiwan	1
+-pobj-Venezuela under the generals who carried out the coup against him	1
+-pobj-WTO global policies	1
+-pobj-Washington's announcement Wednesday that defense department officials will soon visit Taiwan to discuss the sale of eight diesel electric submarines	1
+-pobj-Washington's decision to allow Taiwanese Defense Minister Tang Yao-ming to visit Florida for a military conference this month	1
+-pobj-Without attributing consciousness to an E. coli, or an autonomous agent we may create in the near future	2
+-pobj-ZANU-PF's land policy	1
+-pobj-Zimbabwe's  election	1
+-pobj-Zimbabwe's election	1
+-pobj-Zimbabwean leader Robert Mugabe	1
+-pobj-[Caracas Mayor Alfredo) Pena	1
+-pobj-a CANDU type of reactor	1
+-pobj-a better situation	1
+-pobj-a conference on the Middle East	1
+-pobj-a decision to ratify the Kyoto Protocol	1
+-pobj-a floating exchange rate system	1
+-pobj-a free and fair poll	1
+-pobj-a free election	1
+-pobj-a free hand regarding Chechnia, some understanding, or even that the Americans look the other way	1
+-pobj-a leader and chairman elected by his people	1
+-pobj-a longer protest	1
+-pobj-a new currency	1
+-pobj-a new, better-run election	1
+-pobj-a peaceful resolution of the lingering sovereignty dispute between Taipei and Beijing	1
+-pobj-a president with three years in office	1
+-pobj-a public campaign for change	1
+-pobj-a tougher policy against Mugabe	1
+-pobj-a violent reaction from Tsvangirai's  supporters	1
+-pobj-a zero deficit	1
+-pobj-advmod-Chavez' candidacy	1
+-pobj-an  inclusive democratic system in the country	1
+-pobj-an alleged new front	1
+-pobj-an early implementation of the Kyoto Protocol as well as cooperation and dialogue between ASEM members	1
+-pobj-an early quota system	1
+-pobj-an inquiry into the affair	1
+-pobj-an international or regional peace conference	1
+-pobj-an international outcry over  the American treatment of prisoners in Cuba	1
+-pobj-any country	1
+-pobj-any moral values	1
+-pobj-anyone in the world who is contemplating to use oil as a political tool in the future	1
+-pobj-basic human rights	1
+-pobj-bilateral cooperation between the two continents	1
+-pobj-certain countries that pursued independent regional and international policies	1
+-pobj-civic rights and electoral rules	1
+-pobj-claims by Senior Minister Lee Kuan Yew that terrorist leaders are at large in Indonesia	1
+-pobj-climate change	2
+-pobj-commonwealth  sanctions against Mugabe before the election	1
+-pobj-community support	1
+-pobj-conditions at the makeshift camp	1
+-pobj-conditions in  "Gitmo	1
+-pobj-conj-prep-pobj-prep-ccomp-values of "democracy" and "human rights	1
+-pobj-conquering power	1
+-pobj-criticism of their treatment of  Taliban and al-Qa'eda prisoners	1
+-pobj-curtailment of civil  liberties	1
+-pobj-defense cooperation with the United States	1
+-pobj-democracy, transparency, and corruption-free system	1
+-pobj-democratic principles and property  rights	1
+-pobj-developments in the war-ravaged country	1
+-pobj-donations of relief goods	1
+-pobj-each of these countries	4
+-pobj-economic globalization	1
+-pobj-economic revival	1
+-pobj-every American phone call	1
+-pobj-expansion in China	1
+-pobj-extremist Hindus in India	1
+-pobj-fellow black Zimbabweans	1
+-pobj-former President Carlos Andres  Perez	1
+-pobj-further EU emission reduction measures	1
+-pobj-future of CIS	1
+-pobj-global  warming	1
+-pobj-global warming	2
+-pobj-government  officials	1
+-pobj-government corruption, food shortages  and unemployment	1
+-pobj-help from the press	1
+-pobj-his  commitment to democracy	1
+-pobj-his  victory	1
+-pobj-his "axis of evil" rhetoric	1
+-pobj-his Millennium Economic Recovery Program	1
+-pobj-his Zimbabwean counterpart Robert Mugabe	1
+-pobj-his election victory	1
+-pobj-his policy	1
+-pobj-his power	1
+-pobj-holding opposition  rallies	1
+-pobj-housing and job creation	1
+-pobj-human rights	2
+-pobj-illegal slaughtering practices	1
+-pobj-incidents in the country	1
+-pobj-individual  countries	1
+-pobj-international political pressure	1
+-pobj-investments in the plant at Cernavoda	1
+-pobj-issues such as anti-terrorism and prevention of nuclear proliferation	1
+-pobj-its continued existence	1
+-pobj-its leaders	1
+-pobj-its position regarding the situation on the border	1
+-pobj-its relationship with the United States	1
+-pobj-its space centre	1
+-pobj-its traditional partners	1
+-pobj-its war on terror	1
+-pobj-its western neighbor	1
+-pobj-joint US-European action on Mideast	1
+-pobj-lack of development, poverty, hunger and poor health	1
+-pobj-liberation and independence	1
+-pobj-lower polluting emissions from 183 tonnes per million dollars of GDP to 151 tonnes in 2012	1
+-pobj-member states of the Organization of Petroleum Exporting Countries (OPEC)	1
+-pobj-millions of human beings	1
+-pobj-modern technology	1
+-pobj-monetary donations	1
+-pobj-more oil exports	1
+-pobj-my Big Sister	1
+-pobj-national reconciliation	1
+-pobj-new green deal	1
+-pobj-non-OPEC oil producers	1
+-pobj-oil production cuts	1
+-pobj-our Big Sisters       volunteers	1
+-pobj-our fellow citizen	1
+-pobj-over-reliance on the mainland market	1
+-pobj-overlooking Prime Minister Junichiro Koizumi's efforts	1
+-pobj-overseas Chinese communities	1
+-pobj-patch things up with the reporter he snapped at	1
+-pobj-pcomp-prep-such interaction with Europe	1
+-pobj-peace with Israel	1
+-pobj-permission to decide where and when we should visit a country	1
+-pobj-pobj-one for gene-cloning research	1
+-pobj-political stability and economic development	1
+-pobj-possible confrontation with the United States	1
+-pobj-prep-Chavez's governance	1
+-pobj-prep-Hafiz Al-Assad	1
+-pobj-prep-Iran, Iraq, North Korea	1
+-pobj-prep-President George W. Bush for his remarks that described Iran, Iraq and the Democratic People's Republic of Korea (DPRK) as "axis of evil"	1
+-pobj-prep-Putin's statement	1
+-pobj-prep-Russia's human rights record	1
+-pobj-prep-Taiwan's WTO entry	1
+-pobj-prep-U.S. interests	1
+-pobj-prep-U.S. military deployment in Central  Asia	1
+-pobj-prep-Yassir Arafat	1
+-pobj-prep-a job interview	1
+-pobj-prep-a lifting of sanctions	1
+-pobj-prep-acomp-ccomp-our children	1
+-pobj-prep-advcl-dep-nsubj-MDC candidate Morgan Tsvangirai	1
+-pobj-prep-advcl-nsubj-ref-nsubj-the former colonial  power Britain and other western nations	1
+-pobj-prep-advcl-the prisoners' treatment	1
+-pobj-prep-ccomp-a direction	1
+-pobj-prep-ccomp-a slight elevation	1
+-pobj-prep-ccomp-an idea	1
+-pobj-prep-ccomp-conj-an idea	1
+-pobj-prep-ccomp-nsubj-amod-the  result	1
+-pobj-prep-ccomp-state terrorism	1
+-pobj-prep-ccomp-the  weakening of the central government's prerogatives	1
+-pobj-prep-ccomp-the countries	1
+-pobj-prep-ccomp-the polluting policies	1
+-pobj-prep-ccomp-unemployment at its lowest point in years	1
+-pobj-prep-ccomp-xcomp-a just and acceptable political framework	1
+-pobj-prep-climate change	1
+-pobj-prep-conj-xcomp-prep-pobj-prep-pobj-the Islamic Republic	2
+-pobj-prep-dep-a treaty to combat climate change	1
+-pobj-prep-dep-advcl-relations between El Salvador and Venezuela	1
+-pobj-prep-dep-the United States	1
+-pobj-prep-dep-the three countries	1
+-pobj-prep-dobj-conj-the United States	1
+-pobj-prep-dobj-falling oil prices	1
+-pobj-prep-dobj-his re-election	1
+-pobj-prep-dobj-the decision to ratify the Kyoto Protocol before 1 June this year	1
+-pobj-prep-dobj-these two ideas	1
+-pobj-prep-dobj-universal human rights principles	1
+-pobj-prep-dobj-vmod-nsubj-dep-ccomp-dobj-nn-a new board of directors appointed  by President Hugo Chavez	1
+-pobj-prep-her hosts not to use the war against terror as an excuse for repression	1
+-pobj-prep-nsubj-The national government	1
+-pobj-prep-nsubj-appos-rcmod-dobj-det-the middle east	1
+-pobj-prep-nsubj-ccomp-nsubj-nsubj-dobj-Chavez's performance and policies	1
+-pobj-prep-nsubj-conj-ccomp-nsubj-this entity's right to exist	1
+-pobj-prep-nsubj-nsubj-ccomp-prep-pobj-the mess	1
+-pobj-prep-nsubj-prep-pobj-Chavez's performance and policies	1
+-pobj-prep-nsubj-ref-dobj-ccomp-some of these European weapons	1
+-pobj-prep-nsubj-ref-nsubj-the Zimbabwe presidential poll	1
+-pobj-prep-nsubj-ref-rcmod-prep-pobj-the ousting of Hugo Chavez	1
+-pobj-prep-nsubj-ref-rcmod-xcomp-conj-prep-pcomp-dobj-the Palestinians	1
+-pobj-prep-nsubj-the island	1
+-pobj-prep-nsubj-therapeutic help in their own       homes	1
+-pobj-prep-nsubjpass-his defense of the 1987 'Ops Lalang' where more than 100 people were detained under the ISA [Internal Security Act]	1
+-pobj-prep-our centers	1
+-pobj-prep-our children	1
+-pobj-prep-our current exhibition of Japanese Painting	2
+-pobj-prep-our residential homes	1
+-pobj-prep-people with       physical and mental disabilities	1
+-pobj-prep-pobj-prep-ccomp-a military insurgency	1
+-pobj-prep-pobj-prep-ccomp-conj-nsubj-the pact	1
+-pobj-prep-pobj-prep-dep-rcmod-the Kyoto Protocol	1
+-pobj-prep-pobj-prep-dobj-his administration's fight against terrorism and the proliferation of nuclear weapons	1
+-pobj-prep-pobj-prep-nsubj-unilateralism and pragmatism	1
+-pobj-prep-pobj-prep-pobj-prep-advmod-pcomp-prep-vmod-pobj-prep-nsubj-conj-the Kyoto Protocol	1
+-pobj-prep-pobj-prep-pobj-prep-advmod-pcomp-prep-vmod-pobj-prep-nsubj-the Kyoto Protocol	1
+-pobj-prep-pobj-prep-prep-pobj-action against Zimbabwe	1
+-pobj-prep-pobj-the lengthy impasse of negotiations for the hostages' release	1
+-pobj-prep-prep-pobj-climate change	1
+-pobj-prep-prep-pobj-some countries	1
+-pobj-prep-prep-pobj-the Kyoto Protocol	1
+-pobj-prep-prep-pobj-the United States	2
+-pobj-prep-prep-pobj-youth and families	1
+-pobj-prep-rcmod-Kyoto Protocol	1
+-pobj-prep-rcmod-Pedro Carmona	1
+-pobj-prep-rcmod-dobj-parataxis-Prime Minister Junichiro Koizumi's efforts	1
+-pobj-prep-rcmod-prep-pobj-him and his supporters	1
+-pobj-prep-rcmod-several military generals	1
+-pobj-prep-ref-nsubj-Zimbabwe's crucial election	1
+-pobj-prep-regulatory problems that have to be solved to put the "Kyoto Protocol" adopted in 1997 into force	1
+-pobj-prep-the       welfare system	1
+-pobj-prep-the Big Sisters program	1
+-pobj-prep-the Kyoto Protocol	1
+-pobj-prep-the March 9-11 vote by Commonwealth observers	1
+-pobj-prep-the U.S. State Department's criticism of  Russia's human rights record	2
+-pobj-prep-the US-led coalition in the war on international terrorism	1
+-pobj-prep-the United States	1
+-pobj-prep-the adoption of the "Kyoto Protocol	1
+-pobj-prep-the election process	1
+-pobj-prep-the government and Chechen fighters	1
+-pobj-prep-the idea of lying on a stove	1
+-pobj-prep-the life of the modern Cabinet officer	1
+-pobj-prep-the nation	1
+-pobj-prep-the new  U.S.-Russian partnership against international terrorism	1
+-pobj-prep-the ousting of Hugo Chavez	1
+-pobj-prep-the possibility that the United States could compromise Taiwan's interests in exchange for mainland China's cooperation in the current US-led war on global terrorism	1
+-pobj-prep-the process of making changes to which the country has been committed over the past years	1
+-pobj-prep-the putschists	1
+-pobj-prep-the report	1
+-pobj-prep-the swift arrest of Muslim leader Nur Misuari	1
+-pobj-prep-the trading of air	1
+-pobj-prep-the welfare cycle	1
+-pobj-prep-this entity's right to exist	1
+-pobj-prep-this period of transition of the Argentine crisis	1
+-pobj-prep-values-based programs	1
+-pobj-prep-vmod-Benz cars	1
+-pobj-presidential vote	1
+-pobj-prosperity and fair shares	1
+-pobj-rapid and decisive action	1
+-pobj-ratification of the pact	1
+-pobj-relations between the two states	1
+-pobj-reportorial autonomy	1
+-pobj-return of the period in which force and weapon had the last say in international relations	1
+-pobj-sanctions against Israel	1
+-pobj-section on Chechnya	1
+-pobj-severe joint pains	1
+-pobj-some  states	1
+-pobj-space tourism	1
+-pobj-state that in general the elections were transparent, credible, free and fair	1
+-pobj-targeted sanctions against President Mugabe and members of his Government	1
+-pobj-that of other developed states	1
+-pobj-the  detention of the prisoners in Cuba	1
+-pobj-the  different international conventions	1
+-pobj-the  government	1
+-pobj-the  nature of our relationship with Zimbabwe	1
+-pobj-the  opposition	1
+-pobj-the  principles of constitutional rule, legality and democracy	1
+-pobj-the  prisoners	1
+-pobj-the "One China" Principle	1
+-pobj-the "axis of evil," namely Iran, Iraq and North Korea	1
+-pobj-the "axis" concept	1
+-pobj-the "one China" policy	1
+-pobj-the "widespread" use of torture in China and the treatment of people in the regions of Tibet and Xinjiang	1
+-pobj-the AIDS pandemic in China	1
+-pobj-the ANC conclusion	1
+-pobj-the Almighty God and the people	1
+-pobj-the American people	1
+-pobj-the American psyche	1
+-pobj-the Americans	1
+-pobj-the Australian space project	1
+-pobj-the BWC	2
+-pobj-the CIS member countries	1
+-pobj-the Chinese government and Chinese people	1
+-pobj-the Christmas Island space station	1
+-pobj-the George W. Bush administration in its any decision and act against terrorists	1
+-pobj-the Government of the United States	1
+-pobj-the Iranian government and nation	2
+-pobj-the Islamic Republic	4
+-pobj-the Israeli  policies represented in military attacks, economic siege on  Palestinians and expansion of the Jewish settlements as well as  to the acts of violence against innocent civilians	1
+-pobj-the Israeli-Palestinian conflict	1
+-pobj-the Judiciary and its officials	1
+-pobj-the Koizumi Cabinet	1
+-pobj-the Kyoto Protocol	4
+-pobj-the Kyoto Protocol on climate change	1
+-pobj-the MDC	3
+-pobj-the MDC leader	1
+-pobj-the Middle East issues, the principle of land for  peace and commitment to agreements and notes of understandings  which have been reached	1
+-pobj-the Middle East mission US Secretary of State Colin Powell is going to undertake	2
+-pobj-the Mugabe regime	1
+-pobj-the Muslim nations	1
+-pobj-the President	2
+-pobj-the President and Government	1
+-pobj-the Saudi Arabian peace plan	1
+-pobj-the Taiwan issue	1
+-pobj-the U.S. holding of the Taliban and al-Qaeda prisoners in its territory	1
+-pobj-the U.S. initiative to be discussed in more detail in future international fora	1
+-pobj-the US	1
+-pobj-the US administration	1
+-pobj-the US, which is the greatest  gas-emitting country, to once again turn its back and present  something that is against Kyoto Protocol and the framework  convention on climate change	1
+-pobj-the US-Japan relationship	1
+-pobj-the United States	5
+-pobj-the United States and the European Union	1
+-pobj-the Venezuelan chief of state	1
+-pobj-the Venezuelan putschists	1
+-pobj-the Venezuelan situation	1
+-pobj-the abductions	1
+-pobj-the administration of Hugo Chavez	1
+-pobj-the agenda	1
+-pobj-the agrarian reforms	1
+-pobj-the agreement	1
+-pobj-the alternative he  announced last week	1
+-pobj-the anti-colonialist Mugabe	1
+-pobj-the anti-terror alliance meant good relations between the country were based purely on expediency	1
+-pobj-the anti-terrorism campaign	1
+-pobj-the appointment of five new commissioners which has led to Suhakam being made up mostly of retired civil servants	1
+-pobj-the appropriateness of antagonizing the governments of those nations	1
+-pobj-the attacks	2
+-pobj-the authenticity of the documents	1
+-pobj-the authorities	1
+-pobj-the battle of endurance	1
+-pobj-the boycott	1
+-pobj-the breaking-off of Venezuela's democratic system	1
+-pobj-the citizens who benefit from the company's services	1
+-pobj-the climate and for sustainable development	1
+-pobj-the climate sphere	1
+-pobj-the committee's  deliberations	1
+-pobj-the company's active investment policy	1
+-pobj-the concerns voiced by the Secretary of State and the disclosure of a video that presumably confirms relations between the Venezuelan Government and the Colombian rebel groups	1
+-pobj-the concrete enforcement plan of this convention	1
+-pobj-the conduct of the vote	1
+-pobj-the conflict	1
+-pobj-the consequences	1
+-pobj-the contents of the report	1
+-pobj-the country	1
+-pobj-the coup	1
+-pobj-the crescent moon pin stuck in your left lapel and the  lieutenant's bars on the right side of your uniform	1
+-pobj-the decisions made by Washington	1
+-pobj-the demand launched by those countries	1
+-pobj-the destinations of the presidential trips	1
+-pobj-the detainees	1
+-pobj-the different international conventions	1
+-pobj-the draft	1
+-pobj-the effort to  strengthen the democratic dialogue, the rule of law and human  rights in Venezuela	1
+-pobj-the election	2
+-pobj-the electoral process	1
+-pobj-the ending of the bombing of Afghanistan	1
+-pobj-the enemy	1
+-pobj-the expanding military presence by the United States at the international level	1
+-pobj-the fact that the people in some parts of the world are indifferent toward the expansionist policies of the United States and do not proceed to condemn them	1
+-pobj-the fatwa	1
+-pobj-the fight against terrorism	1
+-pobj-the former colonial  power Britain and other western nations	1
+-pobj-the fresh-meat  Pentagon press corps	1
+-pobj-the generals and local oligarchic elite	1
+-pobj-the government	1
+-pobj-the government of Chavez	1
+-pobj-the government's actions	1
+-pobj-the government's job	1
+-pobj-the history of the comity of nations	1
+-pobj-the idea of dollarizing the Brazilian economy	1
+-pobj-the illegal Israeli settlements	1
+-pobj-the interim Somali government	1
+-pobj-the interim Venezuelan Government headed by industrialist Pedro Carmona	1
+-pobj-the international community	1
+-pobj-the island	1
+-pobj-the issue	1
+-pobj-the just ended presidential election	1
+-pobj-the legitimate national rights of the Palestinian people	1
+-pobj-the manner in which the team had been treated	1
+-pobj-the nature  of impermanence	1
+-pobj-the need to draw a "distinction  between civilized society and the apocalyptic savagery of those  who would destroy it	1
+-pobj-the operations of the Israel Defense Forces in the territories	1
+-pobj-the overthrow the rule there	2
+-pobj-the overthrown leader	1
+-pobj-the pact	1
+-pobj-the people	1
+-pobj-the people of Zimbabwe	1
+-pobj-the plan	1
+-pobj-the poll	1
+-pobj-the position of the U.S.  government	1
+-pobj-the positioning of peace troops between the two warring sides	1
+-pobj-the presence of certain international observers to monitor the voting	1
+-pobj-the president	1
+-pobj-the prime minister's structural reform and measures to fight deflation	1
+-pobj-the principles of justice in treating the Al-Qa'ida and Taliban prisoners	1
+-pobj-the prisoners'  treatment	1
+-pobj-the prisoners' treatment	1
+-pobj-the program	1
+-pobj-the progress that had been made on the military, diplomatic and humanitarian fronts	1
+-pobj-the project	1
+-pobj-the purely voluntary nature of the actions proposed	1
+-pobj-the radical right wing in Israel	1
+-pobj-the re-election of President Robert  Mugabe as president of Zimbabwe	1
+-pobj-the rebels	1
+-pobj-the regime of President Robert Mugabe	1
+-pobj-the remarks	1
+-pobj-the renewed and the deserved presidential mandate the people of Zimbabwe have given you	1
+-pobj-the rhetoric of that kind	1
+-pobj-the right of the allies	1
+-pobj-the rising tension between India and Pakistan	1
+-pobj-the scenes of destruction that involved Manhattan, the World Trade Center, and the Pentagon	1
+-pobj-the situation	1
+-pobj-the situation on the border	1
+-pobj-the southern African country	1
+-pobj-the stepping-down of Hugo Chavez	1
+-pobj-the strong support expressed by the international community, particularly the SADC member states	1
+-pobj-the strong support received from the European Parliament to secure timely EU ratification	1
+-pobj-the success of such protocols and pacts, and implementation of the agreements	1
+-pobj-the sudden deterioration in the Middle East situation	1
+-pobj-the supremacy of human rights	1
+-pobj-the three countries	1
+-pobj-the unemployment problem	1
+-pobj-the use of such words in international  relations	1
+-pobj-the victory and restoration of the legitimate government of President Hugo Chavez	1
+-pobj-the violence in Ramallah, Nablus, Bethlehem, and the Palestinian refugee camps	1
+-pobj-the way the prisoners were transported from Afghanistan and the way they are being treated in captivity	1
+-pobj-the wording of "axis of evil	1
+-pobj-their administration	1
+-pobj-their cause	1
+-pobj-their goals	1
+-pobj-their neighbouring countries	2
+-pobj-their revision	1
+-pobj-their side	1
+-pobj-their treatment of  Taliban and al-Qa'eda prisoners	1
+-pobj-therapeutic help in their own       homes	1
+-pobj-these "evil" states	1
+-pobj-this country	1
+-pobj-this horrifying act of oppression	1
+-pobj-this idea	1
+-pobj-this issue	1
+-pobj-this matter	1
+-pobj-this menace	1
+-pobj-those stated in the interim Commonwealth report	1
+-pobj-three cuts in its production thus far this year, for the purpose of preventing the crude prices from becoming weaker	1
+-pobj-violence in the  worst crisis since the country's last military coup in 1976	1
+-pobj-vital security issues	1
+-pobj-voluntary limits on greenhouse gas emissions	1
+-pobj-voluntary limits on greenhouse gas emissions based on economic  growth rather than mandatory targets	1
+-pobj-you, Mr. President, to reconsider your climate policy plan immediately and re-enter the Kyoto Protocol	1
+-pobj-your generous contribution	1
+-pobj-your new climate change plan	1
+-pobj-your support	1
+-poss-Warn your close relatives	1
+-poss-Your contribution	1
+-poss-Your quick response	1
+-poss-Your support	1
+-poss-his government	1
+-poss-his victory	1
+-poss-its rights abuses	1
+-poss-its writers	1
+-poss-our commitment	1
+-poss-our farmers	1
+-poss-our human notions	1
+-poss-our work	1
+-poss-pobj-his  re-election	1
+-poss-pobj-their countries	2
+-poss-their boat	1
+-poss-their main problems	1
+-poss-your assistance	1
+-poss-your direct commander	1
+-predet-human rights report	1
+-prep-Bush's visits to China in October and last month	1
+-prep-Chinese language education among the vast number of Chinese communities in Southeast Asia	1
+-prep-Come one, Come all to the Inaugural Jameson Grill	1
+-prep-In anti-terror campaigns	1
+-prep-Israel's military occupation of the Palestinian Territory,  including East Jerusalem	1
+-prep-Israeli troops from the cities in the occupied areas	1
+-prep-London's ties with Harare	1
+-prep-Michael could not find a job	1
+-prep-Pakistan army for breeding terrorism in India to remain in power	1
+-prep-Salman Rushdie for insulting the Prophet (peace be upon him) and the holy Koran	1
+-prep-The Americans	1
+-prep-US policy towards the island	1
+-prep-US stance on Kyoto	1
+-prep-a       contribution in the amount of	1
+-prep-a consumer	1
+-prep-a new US strike against Iraq	1
+-prep-a place for Russia almost inconspicuously - in NATO	1
+-prep-a rival to Museveni in a presidential election	1
+-prep-allocation of oil export quotas to its Russian partners	1
+-prep-an  explanation on Saturday of why Bush had referred to Taiwan as a  country	1
+-prep-any "adventure" in Iraq	1
+-prep-application of the law for special measures to deal with terrorism	1
+-prep-at all times to maintain what he called "positive  control" over the prisoners	1
+-prep-by insisting that they adopt unrealistic greenhouse gas reduction targets	1
+-prep-changing our values and  our way of life	1
+-prep-conj-with all the evidence coming out	1
+-prep-cooperation among the members of the organization to protect producers' interests and bring price stability to world oil markets	1
+-prep-coordinated efforts among members of the Organization of Petroleum Exporting Countries (OPEC)	1
+-prep-dep-U.S. arms sales to Taiwan	1
+-prep-despite his joining the West in  criticizing Zimbabwean leader Robert Mugabe, he can work with  his troubled neighbor to prevent more violence, keep the economy  from collapsing, and find some political compromise	1
+-prep-dialogue and coexistence among peoples	1
+-prep-dobj-the US president's speech before the Japanese Diet on 19 February	1
+-prep-for Mercosur, something similar to what happened in the EU: "an ability to look decades ahead and not let oneself get beaten down	1
+-prep-for at-risk children and families	1
+-prep-for not realizing sooner that the subtext (and hence much of the appeal) of a Hillary Clinton-Rudy Giuliani Senate race would be Wronged Wife vs. Neglectful Husband.	1
+-prep-from the autonomous agent' s perspective	2
+-prep-him over his re-election victory	1
+-prep-his predecessor Bill Clinton's policy of engagement with China	1
+-prep-implementation of Kyoto Protocol by September	1
+-prep-in  his stead Peronist heavyweight Senator Eduardo Duhalde	1
+-prep-its implementation in 2002 being mentioned as  one of the goals for a global environmental agenda being drawn  up at the United Nations	1
+-prep-joined the anti-terrorist coalition of the United States	1
+-prep-more efforts from the  UnitedStates	1
+-prep-nothing but physical systems with a peculiar organization of processes and properties	1
+-prep-pcomp-xcomp-ccomp-nsubjpass-nn-the $40-billion figure	1
+-prep-people in Vietnam	1
+-prep-performance between the PNP under Lacson and the current PNP leadership	1
+-prep-pobj-ACEC has called for donations of relief goods on its Web site since early November	1
+-prep-pobj-An international tribunal for war crimes has been established in Rome and started its works officially last Thursday	1
+-prep-pobj-That contract, extended indefinitely in 1934,  can be broken	1
+-prep-pobj-comprehensive treatment of the Tarim River and the project to ship natural gas from Xinjiang to eastern China	1
+-prep-pobj-his victory in the poll	1
+-prep-pobj-rcmod-confrontation with  the state	1
+-prep-pobj-rcmod-the three men	1
+-prep-pobj-ref-nsubjpass-prep-pobj-rcmod-ccomp-countries that support Israel	1
+-prep-pobj-the Chechen independence movement	2
+-prep-pobj-the presidential election was substantially free and fair	1
+-prep-pobj-the prisoners are  getting coddled	1
+-prep-pobj-vmod-dobj-vmod-dobj-the president	1
+-prep-pobj-vmod-two Americans, a singer from the boy group NSYNC Lance  Bass and former NASA Associate Administrator Lori Garver	1
+-prep-prep-dep-dep-dep-excerpts about Lebanon in the US State  Department's annual report on human rights	1
+-prep-ratification of the 1997 Kyoto pact on global warming	1
+-prep-ratification of the Kyoto Protocol by Brazil	1
+-prep-rcmod-dobj-the return of the rule of law and reinstatement of  the legitimate government of President Chavez after the two-day  military collapsed	1
+-prep-relations between Taipei and Washington	1
+-prep-several actions by President Chavez and his ideas of what is a democratic system	1
+-prep-solutions to difficult problems	1
+-prep-some US politicians	1
+-prep-talking among the group	1
+-prep-tension between Brazil and Argentina, resulting from the floating of the real in 1999	1
+-prep-the Abu Sayyaf	1
+-prep-the Chechens to "unconditionally and without delay to terminate every contact with international terrorist groups," and that they accept Putin's offer to make peace	1
+-prep-the Pilot Program for Protection of Tropical  Forests (PPG-7) and German participation in the program	1
+-prep-the U.S. alternative to the 1997 pact	1
+-prep-the U.S. alternative to the Kyoto Protocol on curbing global warming	1
+-prep-the US in combatting terrorism	1
+-prep-the USS Curtis Wilbur with some 346 crew	1
+-prep-the Uighur population in Xinjiang	1
+-prep-the United States in promising not to mix up its counter-terrorism drive with the Taiwan Strait issue	1
+-prep-the actions against the government of Chavez	1
+-prep-the confirmation by the candidate countries that they are on track to ratify	1
+-prep-the establishment of a cooperation forum on the environment	1
+-prep-the future development of the country (both technological and economic as a whole)	1
+-prep-the imposition of a ban on the sale of light weaponry	1
+-prep-the neat stuff we'd like to see NASA do	2
+-prep-the negative impacts of the decade-old sanctions on Iraqi people	1
+-prep-the overhaul of nuclear power stations with a view to extending their safe and efficient operation, extending the service life of power units, resumption of the construction of power units and compiling a list of promising sites for future nuclear power stations	1
+-prep-the possibility of a Hizbullah attack against Israel within the next couple of days	1
+-prep-the problems	1
+-prep-the recent US-led attacks on Afghanistan	1
+-prep-the situation in areas like Tibet for example	1
+-prep-the use of such words as the "axis of evil"  in international relations	1
+-prep-this dictatorial move by the United States	1
+-prep-those responsible for the attacks	1
+-prep-thousands of his supporters in towns	1
+-prep-to detail what points Argentina should deal with to expand its program	1
+-prep-to elders and teachers	1
+-prep-to joining other nations in  fighting the problem and will adopt domestic measures	1
+-prep-to the family members of the victims	1
+-prep-to work	1
+-prep-voluntary limits on greenhouse gas emissions by companies in accordance with economic growth	1
+-quantmod-a job	1
+-rcmod-Alan Murray	1
+-rcmod-Any recommendation by a country friendly to Venezuela, especially a country that is Venezuela's No.1 trade partner	1
+-rcmod-British Prime Minister Tony Blair	1
+-rcmod-Hilda  Mafudze, an MDC member of Parliament	1
+-rcmod-If Mugabe announces that he has won the election	1
+-rcmod-In the event that the Mexican Government gives priority to its relationship with the United States	1
+-rcmod-Mr  Chavez's resignation	1
+-rcmod-Ncube, along with Tsvangirai and four other top  party officials	1
+-rcmod-President Bush's speech	2
+-rcmod-State-sanctioned land invasions	1
+-rcmod-Syria and Lebanon	1
+-rcmod-That the fight against Xinjiang "terrorists"	1
+-rcmod-The brother	1
+-rcmod-The world	1
+-rcmod-To cut the station's scope	2
+-rcmod-Washington alleges that Tehran has allowed al-Qa'ida fighters and members of the Taliban regime to enter Iran	1
+-rcmod-What we are saying is	1
+-rcmod-Your gift	1
+-rcmod-a suspension of broadcasts by private television  networks opposed to him	1
+-rcmod-allow cafeteria-style programming choices by subscribers	1
+-rcmod-an image of Venezuela	1
+-rcmod-any country	1
+-rcmod-any nation that continues to harbor or support terrorism	1
+-rcmod-ccomp-dobj-the American proposed Anti-Missile Defense System	1
+-rcmod-ccomp-the Member States' greenhouse gas reduction commitments	1
+-rcmod-charging MDC Secretary General  Welshman Ncube with high treason	1
+-rcmod-continues to make a significant       impact on the futures of families and kids in need of help	1
+-rcmod-decide whether or not to remove it from the international community of which it is part	1
+-rcmod-dobj-Any further policy to  reduce emissions	1
+-rcmod-dobj-agree with their cause	1
+-rcmod-general  strike	1
+-rcmod-greenhouse gases such as carbon dioxide	1
+-rcmod-his career	1
+-rcmod-his tough stand on P'yongyang	1
+-rcmod-hostility toward Hizbullah	1
+-rcmod-it goes on	1
+-rcmod-more are left unserved	1
+-rcmod-our Ravine       Garden	1
+-rcmod-prep-pobj-the Koizumi administration	1
+-rcmod-proposal on cutting off the supply of oil to countries that support Israel for one month	1
+-rcmod-rebel leaders such as Shamil Basayev and  the Jordanian-born Omar Ibn al Khattab	1
+-rcmod-the "leadership	1
+-rcmod-the US	1
+-rcmod-the White House official	1
+-rcmod-the adults we all need them to be	1
+-rcmod-the application of customer relationship management (CRM) capabilities	1
+-rcmod-the approach	1
+-rcmod-the country's agricultural problems	1
+-rcmod-the crises	1
+-rcmod-the domestic and international press	1
+-rcmod-the freedom of expression	1
+-rcmod-the government's human rights record	1
+-rcmod-the groups	1
+-rcmod-the infrastructure	1
+-rcmod-the militia leader	1
+-rcmod-the mission       and the message	1
+-rcmod-the most powerful country on earth	1
+-rcmod-the new US missile defense system	1
+-rcmod-the people	1
+-rcmod-the reporter	1
+-rcmod-the search for convergence of policies in a broader sense - structural, macro and microeconomic ones	1
+-rcmod-the sort of hooah  performance	1
+-rcmod-the top-of-the-front headline the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open--"Venus Brought Back to Earth	1
+-rcmod-the ultimate objective of the Convention	1
+-rcmod-the war on terrorism	1
+-rcmod-these people	1
+-rcmod-they need other resources for       encouragement to guide them along the way	1
+-rcmod-this hegemony	1
+-rcmod-to define their inflation goal system	1
+-rcmod-verify it first	1
+-rcmod-waste Allah's money	1
+-ref-Mr Colin Powell	1
+-ref-Those who submit to its policies	1
+-ref-Washington's "do-it-our-way" decision on  something that effects the whole globe	1
+-ref-dobj-dobj-The Kyoto pact	1
+-ref-dobj-dobj-the poll	1
+-ref-dobj-prep-pobj-the boycott	1
+-ref-dobj-that it's the worst violator	1
+-ref-nsubj-conj-points un its independent policies on oil	1
+-ref-nsubj-nn-A Namibian woman member of the Commonwealth observer mission	1
+-ref-nsubj-the West and whites	1
+-ref-people who were suffering from lack of development, poverty, hunger and poor health	1
+-ref-rcmod-conj-that the agreements reached at Genoa would help bring about beneficial results for the Bonn conference as well	1
+-ref-several countries that are members of the anti-terrorist alliance	1
+-ref-some countries	1
+-ref-the Latin American countries decided to invoke the OAS Democratic Charter	2
+-ref-those countries and nations	1
+-ref-who decide, who must say so	1
+-tmod-an April 26 to May 3 visit by Chinese Vice President Hu Jintao to Washington	1
+-vmod-Australia's decision to sign a climate change deal with the  United States	1
+-vmod-He also supported movements that opposed American intervention in the region	1
+-vmod-Israel's refusal to provide it with a list of  the Israeli factories operating in the Occupied Palestinian and  Arab Territories	1
+-vmod-Mexico's distancing from OPEC	1
+-vmod-Mugabe won	1
+-vmod-Saudi militant Osama bin Laden	1
+-vmod-Sharon and other Israeli and Lebanese persons	1
+-vmod-Taiwan's economy will become totally dependent on mainland China within the next few years	1
+-vmod-The majority report	1
+-vmod-US Secretary of State Colin Powell	1
+-vmod-a U.S. decision to  allow Taiwanese Defense Minister Tang Yiau-Ming into the United  States for talks with Defense officials	1
+-vmod-a figure	1
+-vmod-address the issue of global warming	1
+-vmod-adopt measures  to control greenhouse gases	1
+-vmod-affect change	1
+-vmod-all held in Gitmo	1
+-vmod-allow free access to the people of the country to the ship and vice versa	1
+-vmod-an allegation	2
+-vmod-another boat	1
+-vmod-anyone to determine the outcome of an African election in Europe	1
+-vmod-apologize" to President Chavez	1
+-vmod-be a stable,       positive and important part of each child's life for an entire       decade	1
+-vmod-buckle down on the issue	1
+-vmod-ccomp-Australia's plans to construct a space port on Christmas Island	1
+-vmod-choose an  interim leader to rule until 2003	1
+-vmod-congestion in the slums and failure to observe basic hygienic practices	1
+-vmod-cooperate in preventing an increase in air pollution	1
+-vmod-defer the possible suspension until  Commonwealth observers report back on the election	1
+-vmod-discuss its duty to cut down greenhouse gases from 2018	1
+-vmod-dobj-Rodriguez Saa's plans for a new currency	1
+-vmod-dobj-its efforts to protect the rights of Thai, Filipino, Indonesian and Vietnamese workers in Taiwan	1
+-vmod-dobj-ratify the Kyoto Protocol	1
+-vmod-dobj-the agreement	1
+-vmod-dobj-the move might raise the  hackles of Cuba's government	1
+-vmod-dobj-to define their inflation goal system	1
+-vmod-eliminate the requirement that religious minorities  be elected separately from the mainstream electoral system	1
+-vmod-enable the Kyoto Protocol to come into force by the World Summit on Sustainable Development in August/September 2002	1
+-vmod-ensure the stability of its border regions ahead of any US retaliatory strikes	1
+-vmod-environmental agreements	1
+-vmod-exert a decisive influence in political life	2
+-vmod-fight against international terrorism	1
+-vmod-give them the land currently owned by the country's white minority	1
+-vmod-help       change a life	1
+-vmod-his sudden departure from politics	1
+-vmod-import more Mongolian meat	1
+-vmod-join in the global campaign to reduce greenhouse gases	1
+-vmod-keep safeguarding  Zimbabwe's sovereignty and land in spirit when he dies	1
+-vmod-lump his nation in with Pakistan	1
+-vmod-make a       world of difference	1
+-vmod-make sure that the voice of the people is heard	1
+-vmod-meet in the near  future	1
+-vmod-meet in the near future	1
+-vmod-not to settle their dispute openly	1
+-vmod-nsubj-Preserving the unity of AL QAEDA	1
+-vmod-nsubj-ratifying the protocol	1
+-vmod-own handguns	1
+-vmod-pcomp-provide more aid,  trade, and investment only if Africa shows better governance and  democracy	1
+-vmod-pin the image of Microsoft on just one man	1
+-vmod-pobj-making a spectacle of prisoners	1
+-vmod-pobj-prep-considering this opportunity to make this a memorable holiday season for       a family in need	1
+-vmod-pobj-prep-finding out more about Jameson	1
+-vmod-pobj-prep-to endorse the sanctions option	1
+-vmod-prep-an objective	1
+-vmod-prep-pobj-prep-pobj-its implementation in 2002	1
+-vmod-purchase the video from an intelligence agent	1
+-vmod-ratify the Kyoto Protocol	1
+-vmod-ratify the Kyoto Protocol before 1 June this year	1
+-vmod-reject the Kyoto  agreement	1
+-vmod-sell arms to Taiwan	1
+-vmod-send Greek Cypriots from the island	1
+-vmod-sign the  protocol	1
+-vmod-slow the growth  of global warming gasses	1
+-vmod-solve the issue of the  Middle East	1
+-vmod-stay in power by every possible means	1
+-vmod-support an organization that impacts so many lives in       so many ways	1
+-vmod-temporarily place prison suits,  handcuffs and blindfolds on the terrorists during transfer to  protect the military personnel guarding them	1
+-vmod-the President's statement designed to deal with the "axis of evil	1
+-vmod-the Republic of China government was about to eliminate the minimum wage requirement for foreign workers	1
+-vmod-the US to end the campaign quickly	1
+-vmod-the advantages	1
+-vmod-the authorities charged with conducting the elections	1
+-vmod-the level of effort	1
+-vmod-the norms and standards of the SADC Parliamentary Forum	1
+-vmod-the vessel	1
+-vmod-thwart terrorist groups who want to "mate up" with regimes hoping to acquire weapons of mass destruction	1
+-vmod-to accept 438 mainly Afghan refugees rescued from a leaking ship and stranded at sea for days	1
+-vmod-to demand that everything be done in one or two weeks	2
+-vmod-to ease sanctions against mainland China	1
+-vmod-to get 30 leading industrialized countries such as Japan and members of the European Union (EU) to lessen greenhouse gas emissions by amounts as high as 95 percent of levels in the 1990's	1
+-vmod-to have a coordinated and collaborative       effort to financially support the services MCCOY offers to the community       as a whole	1
+-vmod-to present to the West the Chechen independence movement as a chapter of "international terror	1
+-vmod-to sacrifice himself for the CDU in an election that once looked impossible to win	1
+-vmod-to sell their products now that Beijing had joined the World Trade Organization	1
+-vmod-to take her on in a divisive vote if necessary	1
+-vmod-undertake demonstrations	1
+-vmod-visit the Marco Polo Bridge, the site of the 1937 clash that led to an eight-year war between Japan and China, and a nearby museum commemorating China's anti-Japanese movemen	1
+-vmod-what we're finding out as we go through this	1
+-vmod-win developing countries over to his plan	1
+-vmod-xcomp-ccomp-conj-these practices	1
+-xcomp-Arafat 's personal safety to be ensured	1
+-xcomp-Bush's "axis of evil" rhetoric	1
+-xcomp-Chavez's  promise to set up dialogue tables	1
+-xcomp-Duhalde's proposal to devalue the  peso and scrap a policy known as convertibility that kept the  peso's worth the same as a U.S. dollar	1
+-xcomp-Israel to "withdraw immediately" from all Palestinian areas that have recently been occupied	1
+-xcomp-Make a world worthy of the children that your generation will       bear	1
+-xcomp-Mbeki  to denounce the results and provide some reassurance that the  continent is committed to democratic principles and property  rights	1
+-xcomp-They're getting	1
+-xcomp-Tsvangirai to confront the  government	1
+-xcomp-a set of rules to implement the climate change treaty	1
+-xcomp-a worrying trend in a number of countries to use the excuse of combating terrorism to clamp down on freedom of expression and legitimate dissent which is not violent	1
+-xcomp-abruptly withdraw from the climate change treaty	1
+-xcomp-accelerate his controversial land reforms	1
+-xcomp-accelerate his land-reform program	1
+-xcomp-acquire weapons of mass destruction	1
+-xcomp-act quickly	1
+-xcomp-administrator Daniel  Goldin	1
+-xcomp-alleviate the cash crunch by minting the  "argentino" to circulate alongside pesos	1
+-xcomp-allow cameras	1
+-xcomp-allow that (suspension)	1
+-xcomp-announce the success of this year's       campaign at the Annual Meeting on April 27	1
+-xcomp-apply against Venezuela a charter  requiring sanctions for any member that abandons democracy	1
+-xcomp-assassinate Mugabe	1
+-xcomp-assassinate the President	1
+-xcomp-attack Palestinian ruled  areas	1
+-xcomp-attract  more funding to contribute to the international community's  efforts in reducing greenhouse gases	1
+-xcomp-attract more funding to contribute to the international community's efforts in reducing greenhouse gases	1
+-xcomp-avoid  losses	1
+-xcomp-avoid a "superficial" exercise	1
+-xcomp-back an MNLF rival in an election to be held Monday to choose the next ARMM governor	1
+-xcomp-back the US in fighting terrorism	1
+-xcomp-be an integral part of this fabulous	1
+-xcomp-be formally bound to the Kyoto accord, and complete the ratification by June 1 this year	1
+-xcomp-become an integral part of this fabulous event	1
+-xcomp-become the masters of the world	1
+-xcomp-blow up US targets there	1
+-xcomp-bombing the Palestinian targets in the West Bank and Gaza Strip	1
+-xcomp-bring engineers from Jordan to work in the Gulf	1
+-xcomp-buy those quotas they need or introduce measures to reduce emissions	1
+-xcomp-calling the detainees prisoners of war	1
+-xcomp-cancel naval exchanges with the United States in retaliation	1
+-xcomp-cause damage to the country	1
+-xcomp-come up with policies that will result in the creation of more jobs for the youths and those leaving school and colleges	1
+-xcomp-comment further on the status of Interpol's collaboration	1
+-xcomp-comment on that one	1
+-xcomp-comment on the allegations of sanctions busting and the massing of guns at army bases around the country	1
+-xcomp-comply with the Bonn Conference [resolution]	1
+-xcomp-concentrate on its core European markets	1
+-xcomp-confer POW status on alleged al  Qaeda members	1
+-xcomp-consider a gift of the       same in 1999	1
+-xcomp-consider the Zimbabwe Democracy and Economic Recovery Bill	1
+-xcomp-continue diplomatic efforts	1
+-xcomp-continue the dialogue with the US on this basis	1
+-xcomp-continue with his government's controversial land reform program	1
+-xcomp-converting mortgages, car loans  and other consumer debt under $100,000	1
+-xcomp-convince other parties of these two ideas	1
+-xcomp-cooperate  together with other countries, including developing nations, on  the issue of global warming	1
+-xcomp-cooperate on that  issue	1
+-xcomp-cooperate with Egypt in the  technological field at various levels	1
+-xcomp-counter terrorism	1
+-xcomp-countries less relevant to it	1
+-xcomp-cover al Qaeda prisoners  with the same treatment	1
+-xcomp-cover it	1
+-xcomp-curb the increase in harmful gas emissions	1
+-xcomp-cut off the tongues of his crew if they didn't  agree to pretend they'd reached Asia	1
+-xcomp-destroy the "infrastructure" behind the suicide attacks against the Israelis	1
+-xcomp-die rather than be captured	1
+-xcomp-direct the process	1
+-xcomp-disclose details about their  two-day negotiations	1
+-xcomp-discuss details of the transfer	1
+-xcomp-disguise the failed date of 4 February	1
+-xcomp-do anything which could undermine FBI investigations	1
+-xcomp-do in terms of domestic climate change policy	1
+-xcomp-do otherwise	1
+-xcomp-dobj-The United States earlier this week hinted it may expand its war against terrorism beyond Afghanistan to Iraq	1
+-xcomp-dobj-prep-protesting managers from state oil company PDVSA	1
+-xcomp-dobj-the system of joint electorates  has been introduced	1
+-xcomp-doing a book	1
+-xcomp-dump Kyoto	2
+-xcomp-encourage others in the Muslim world,  in the Arab world, who are trying to make their societies more  democratic	1
+-xcomp-end a decade of billing in  dollars at the gas pump, or for fixed and cellular phone  services, water and power bills and the like	1
+-xcomp-engineer any reckless action	1
+-xcomp-ensure instability or militancy does not leak over the frontiers	1
+-xcomp-ensure that people from all corners of the country are allowed to express their views	1
+-xcomp-escape abroad	1
+-xcomp-establish an independent state of East Turkistan	1
+-xcomp-establish diplomatic relations with any nation that maintains official contact with Taiwan	1
+-xcomp-exercise "world dictatorship	1
+-xcomp-exert yourself	1
+-xcomp-expand "constructive and cooperative" relations with the United States	1
+-xcomp-explore the mainland Chinese market	1
+-xcomp-extend our full support to the George W. Bush administration in its any decision and act against terrorists	1
+-xcomp-extend the range of sanctions against Zimbabwe	1
+-xcomp-fight President Mugabe's rule	1
+-xcomp-focus on is development	1
+-xcomp-follow up on Saudi Arabia	1
+-xcomp-form a bilateral free-trade area	1
+-xcomp-further strengthen friendship and cooperation with the country	1
+-xcomp-give the Philippines a  $100 million antiterrorism aid package that would include  weapons, training and shared intelligence	1
+-xcomp-give up the facility	1
+-xcomp-giving back  the land	1
+-xcomp-go back	1
+-xcomp-go back to the other places	1
+-xcomp-go to Germany	1
+-xcomp-gradually reduce arms sales to Taiwan	1
+-xcomp-grant them POW status	1
+-xcomp-have Mr. Mugabe assassinated	1
+-xcomp-have Venezuela  come out from the Organization of the Petroleum Exporting  Countries (OPEC)	1
+-xcomp-have Venezuela come out from the Organization of the Petroleum Exporting Countries	1
+-xcomp-have it (Mexico) as a trading partner and, at the same time, close to OPEC	1
+-xcomp-help fight sandstorms	1
+-xcomp-help us help them	1
+-xcomp-helping young people in Marion County toward more       positive youth development by becoming a supporter of the Marion County       Commission on Youth, Inc	1
+-xcomp-house captured al Qaeda terrorists  and Taliban fighters for an undetermined time at the base on the  island's isolated eastern coast	1
+-xcomp-implement a cap-and-trade system covering 46% of all CO2 emissions in 2010	1
+-xcomp-implement his policy of eliminating poverty	1
+-xcomp-impose  financial restrictions against any assets in the US held by  Mugabe and senior members of his government	1
+-xcomp-impose sanctions  against Zimbabwe	1
+-xcomp-improve the relationship still further during visits by President Jiang Zemin and Vice President Hu Jintao to Washington later this year	1
+-xcomp-increase its annual cotton target in 2002	1
+-xcomp-increase the number of trainees to 1,000 graduates	1
+-xcomp-influence Israel in the political arena	1
+-xcomp-international action to ensure a free and fair presidential election	1
+-xcomp-invade them	1
+-xcomp-investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition	1
+-xcomp-invoke the OAS Democratic Charter	1
+-xcomp-join the EU unilaterally and as if it was the legitimate government of Cyprus	1
+-xcomp-join the ratification	1
+-xcomp-joining the Chairman's       Roundtable with a gift of $1,000	1
+-xcomp-keep Al Qaeda united	1
+-xcomp-kill Americans	1
+-xcomp-kill an American before he left	1
+-xcomp-kill innocent Americans through war or  terror	1
+-xcomp-kill themselves, others	1
+-xcomp-leave the Pilgrim's House	1
+-xcomp-let him govern until the end of his term in 2007	1
+-xcomp-let the "Comprehensive Test Ban Treaty" "freeze" in the Senate	1
+-xcomp-listen to Indonesia's objections	1
+-xcomp-look at ways of helping Zimbabwe with land reform and food aid	1
+-xcomp-look for a comparison	1
+-xcomp-make Dubai a center of modern economy	1
+-xcomp-make Dubai a new trading center	1
+-xcomp-make a final judgement on the conduct of  the weekend presidential poll	1
+-xcomp-make this government fail	1
+-xcomp-making them a "public curiosity	1
+-xcomp-mate up" with regimes hoping to acquire weapons of mass destruction	1
+-xcomp-mediate in talks between the two sides	1
+-xcomp-mix up its counter-terrorism drive with the Taiwan Strait issue	1
+-xcomp-move the goal posts to  disenfranchise people	1
+-xcomp-not to be identified	1
+-xcomp-offer our youth a small       reward for their participation by presenting them with gift certificates       from Target	1
+-xcomp-offer the Palestinians their own state with acceptable borders and conditions	1
+-xcomp-open a dialogue with it	1
+-xcomp-other countries to ratify the protocol and work to enforce it	1
+-xcomp-others, notably Russia, to do the same	1
+-xcomp-pay for their long due OPCW membership fees	1
+-xcomp-phase out  production of gases that erode the Earth's protective ozone  layer	1
+-xcomp-plans to kill innocent  people	1
+-xcomp-play a conspicuous role and exert increasing pressure as far as the oil issue is concerned	1
+-xcomp-play a front and centre role in the intricate international game of oil prices and the free flow of this all-important strategic product otherwise known as the "Black Gold	1
+-xcomp-play an active role in this process	1
+-xcomp-play an active role internationally	1
+-xcomp-point to a significant reduction of climate gate emissions before 2005	1
+-xcomp-prep-pcomp-that everything be done in one or two weeks	1
+-xcomp-preserve the independence of his country in the face of American pressure	1
+-xcomp-press ahead with the reforms	1
+-xcomp-pressure to suspend Zimbabwe from the  Commonwealth of Britain and its former territories	1
+-xcomp-pretend they'd reached Asia	1
+-xcomp-prevent a steep fall in oil prices	1
+-xcomp-proceed with ratification of the Kyoto Protocol by June 2002	1
+-xcomp-properly utilize Venezuela's vast natural riches, namely oil	1
+-xcomp-protect the environment	1
+-xcomp-provoke protests	1
+-xcomp-pull out of the Chinese market	1
+-xcomp-put friendly faces in the Presidential Palace of Latin American nations	1
+-xcomp-put its citizens on a foreign spaceship	1
+-xcomp-ratify the  accord	1
+-xcomp-ratify the Kyoto protocol	1
+-xcomp-ratify the protocol	1
+-xcomp-rcmod-instigating OPCW member states to vote out Bustani	1
+-xcomp-reach some form of agreement or understanding about those issues	1
+-xcomp-ready and able to contribute to       society	1
+-xcomp-reduce greenhouse gas emissions relative to Gross Domestic Product or economic activities	1
+-xcomp-renewing your gift today	1
+-xcomp-renewing your support	1
+-xcomp-reoccupy parts of the main West Bank cities	1
+-xcomp-repeat his father's mistake, being defeated in the next elections because of economic factors	1
+-xcomp-replace the facility with  something more permanent	1
+-xcomp-resettle blacks on white-owned farms	1
+-xcomp-resolve all issues peacefully	2
+-xcomp-restore constitutional order	1
+-xcomp-returning the territory to Cuba	1
+-xcomp-reveal the source of the documents	1
+-xcomp-scale back US  involvement to a "core" station with a crew of three instead of  six	1
+-xcomp-see further efforts"  on the part of the US	1
+-xcomp-see that international laws are not selective and that they are not applied for political, cultural and ideological considerations	1
+-xcomp-see the US taking military action	1
+-xcomp-seeking the aid of infidels	1
+-xcomp-seize farms from whites and resettle blacks	1
+-xcomp-sell it arms	1
+-xcomp-senators  and deputies to hold a legislative assembly today	1
+-xcomp-send my warm congratulations	1
+-xcomp-serve as a substitute agent to Israel	1
+-xcomp-serve in the future Afghan government	1
+-xcomp-set the stage for Norway to ratify the Kyoto Protocol next year	1
+-xcomp-settle their differences quietly	1
+-xcomp-she's very smart, and she's an amazing speaker	1
+-xcomp-show demonstrable progress in the reduction of climate emissions by 2005	1
+-xcomp-sign, ratify, or implement international treaties	1
+-xcomp-sound his voice	1
+-xcomp-speak with me	1
+-xcomp-specialise in the electrical or computer disciplines	1
+-xcomp-spend the money	1
+-xcomp-sponsoring one of our families	1
+-xcomp-stabilize the economy	1
+-xcomp-start offering Internet telephony services in the near future and deploy Voice over Internet Protocol to strengthen its ILD presence	1
+-xcomp-step up efforts to gradually change our energy structure and reduce greenhouse gases by promoting research on renewable energy and energy-efficient technologies	1
+-xcomp-stick to a course of arrogant unilateralism when conducting his foreign policy	1
+-xcomp-supporting the oppositions in Venezuela to stage this coup	1
+-xcomp-suspend Zimbabwe from the  Commonwealth of Britain and its former territories	1
+-xcomp-suspend Zimbabwe from the councils of the Commonwealth for one year with immediate effect	1
+-xcomp-suspend economic ties with Israel	1
+-xcomp-suspend the  country after the vote	1
+-xcomp-take all necessary steps to ensure the approval by the Diet of the Kyoto Protocol as well as the enactment of the required legislation during the current Diet session	1
+-xcomp-take gas exports  and direct that money to shoring up banks	1
+-xcomp-take into consideration the Russian Fuel and Energy Ministry's recommendations" related to allocation of oil export quotas to its Russian partners	1
+-xcomp-take it over	1
+-xcomp-take justice to pre-historic times	1
+-xcomp-take measures	1
+-xcomp-take out 'travel insurance' for our 'cosmonaut	1
+-xcomp-take tougher action against alleged terrorist leaders	1
+-xcomp-target these countries in the same manner as ! Afghanistan	1
+-xcomp-the Palestinians to give up the West Bank and look for what they called another homeland	1
+-xcomp-the U.S. to stop all air raids on Afghanistan, cease nuclear experiments and reduce U.S. military bases in Japan	1
+-xcomp-the U.S. to take leadership in helping developing countries through "peaceful dialogue and fair economic support	1
+-xcomp-the United States to "assume its responsibilities under the framework agreement on climate change	1
+-xcomp-the United States to participate in the global framework for addressing climate change	1
+-xcomp-the concerned parties to agree to them, or, at least, to the first one	1
+-xcomp-the fundamental institutions of the nation whose right to exist	1
+-xcomp-the nation and the opposition to reconcile to  address the pressing economic needs	1
+-xcomp-the people of Zimbabwe to accept the results	1
+-xcomp-the plans to build a rocket launch pad	1
+-xcomp-the public to assist the police with information that might lead to the re-arrest of the prisoners	1
+-xcomp-the rules to implement the 1997 Kyoto Protocol	1
+-xcomp-themes characterizing the world environment	1
+-xcomp-throw us off the island for four decades	1
+-xcomp-to       have families matched with sponsors non later than xxxx	1
+-xcomp-to       provide a measure of financial support for those leaving our       programs	1
+-xcomp-to  classify as prisoners of war	1
+-xcomp-to  collectively have overcome the era of coup d'etats in the  region	1
+-xcomp-to  expand cooperation in the area of environment and sustainable  development	1
+-xcomp-to  remain in power	1
+-xcomp-to also ratify the Kyoto Protocol soon	1
+-xcomp-to be back home on the Rock  playing with his bag of marbles and collecting his parliamentary  pension	1
+-xcomp-to be fun for campers, their       families, friends of the camp, neighbors, staff, and anyone interested in       finding out more about Jameson	1
+-xcomp-to be nothing but fun	1
+-xcomp-to be sent to Gitmo	1
+-xcomp-to be there	1
+-xcomp-to become an ally	1
+-xcomp-to bring down each other	1
+-xcomp-to carry out two space launches from the Baikonur cosmodrome in April this year	1
+-xcomp-to comment further	1
+-xcomp-to decide what action should be taken on the situation in Zimbabwe	1
+-xcomp-to discuss details about the growing  American involvement in the Philippines	1
+-xcomp-to ease the  pain on an increasingly angry middle class	1
+-xcomp-to extend military aid to several countries in the alliance to enable them to root out terrorists without using US forces	1
+-xcomp-to extend that notion to much of the subtle signaling, chemical and otherwise, within and between autonomous agents, as exemplified by plants that upon infestation by a particular insect secrete a secondary metabolite chemical that  ``warns''  other members of the same species that an insect infestation is happening and to turn on defensive anti-insect secondary metabolites	1
+-xcomp-to find out whether the United Nations or relief agencies needed to handle things differently, or whether "Iraq needs to get out of the way and let us do the job	1
+-xcomp-to get guns to "shoot" President Mugabe "out of office	1
+-xcomp-to give details of the messages exchanged between the vessel and the North Korean sid	1
+-xcomp-to give details on the manner in which the federal government's secretariats establish the price of crude in the General Criteria for Economic Policy	1
+-xcomp-to go home	1
+-xcomp-to go into depth about a case still before the courts	1
+-xcomp-to go peacefully	1
+-xcomp-to go with       you to talk to these group if you need their help	1
+-xcomp-to hand over the chief suspect in the Sept. 11 attacks on New York and Washington, Saudi-born dissident Osama bin Laden [Usama Bin Ladin]	1
+-xcomp-to help Argentina pay 132 bn USD debt	1
+-xcomp-to keep alight the flame of a single currency in the region in future, even if a distant one	1
+-xcomp-to leave AL-QAEDA without a legitimate excuse	1
+-xcomp-to let U.S. Rep. Tony Hall visit the country next week	1
+-xcomp-to live in friendship and cordiality with their neighbours	1
+-xcomp-to modernize and extend the service life of 11 power units in its nuclear power stations by 2005	1
+-xcomp-to move boldly into the       next century	1
+-xcomp-to open former Soviet military airfields to American armed forces in three (former Soviet) Central Asian countries	1
+-xcomp-to overthrow the ruling Taliban system	1
+-xcomp-to prevent the severe consequences that climate change could have	1
+-xcomp-to put India in communal flames	1
+-xcomp-to put Misuari on trial for rebellion in connection with a revolt on Monday which claimed at least 113 lives	1
+-xcomp-to secede from the nation and engage in terrorist activities	1
+-xcomp-to see further efforts on the part of the  U.S.	1
+-xcomp-to seem a Clinton stooge	1
+-xcomp-to supply any additional information you may       need	1
+-xcomp-to support it with both your time and       your finances	1
+-xcomp-to support the US "anti-terrorism military operation" now being prepared	1
+-xcomp-to take advantage of his trip to forge a consensus with U.S. allies in the Asia-Pacific area on his administration's fight against terrorism and the proliferation of nuclear weapons	1
+-xcomp-to take it	1
+-xcomp-to tell their       own stories of success	1
+-xcomp-to testify	1
+-xcomp-to think the worst about things	1
+-xcomp-to use civil service  employees to monitor the vote-counting and bar independent  monitors from nonprofit organizations from assisting in such  routine tasks as transporting ballot boxes to counting stations	1
+-xcomp-to yield on Brazil's having its own currency	1
+-xcomp-try the al-Qa'ida and Taliban detainees in military courts	1
+-xcomp-undermine the situation	1
+-xcomp-use oil as a political tool in the future	1
+-xcomp-violently remove President Mugabe from power last year	1
+-xcomp-visit Turkmenistan	1
+-xcomp-vmod-dobj-economic self-sufficiency,       healthy family, social relationships, and involvement in the community	1
+-xcomp-vmod-to secure timely EU ratification	1
+-xcomp-vote for Mr. Tsvangirai	1
+-xcomp-work in partnership with developing countries to get the proper assessment of the impact of the WTO instead of a new round of trade negotiations	1
+-xcomp-work on Iran and North Korea through Japan's own diplomatic channels for settlement of the issue	1
+-xcomp-work together with the US side to narrow differences, expand common ground, increase exchanges and promote cooperation	1
+-xcomp-work with our friends and allies in the world on ways of dealing with such regimes	1
+-xcomp-working and making money	1
+-xcomp-xcomp-promoting and protecting human rights	1
+-acomp-poor	1
+-advmod-Baghdad	1
+-advmod-March	1
+-advmod-They	1
+-advmod-Zimbabwe	1
+-advmod-argued	1
+-advmod-individuals	1
+-advmod-nsubj-China	1
+-advmod-rcmod-nsubj-They	1
+-advmod-she	1
+-advmod-we	1
+-amod-American	1
+-amod-Iran	1
+-amod-Israeli	1
+-amod-Soviet	1
+-amod-They	1
+-amod-US	1
+-amod-We	1
+-amod-amod-American	1
+-amod-amod-pressures	1
+-amod-amod-prisoners	1
+-amod-argument	1
+-amod-cheating	1
+-amod-children	1
+-amod-choices	1
+-amod-citizens	1
+-amod-efforts	1
+-amod-environmental	1
+-amod-event	1
+-amod-gift	1
+-amod-ground	1
+-amod-headline	1
+-amod-impact	1
+-amod-juncture	1
+-amod-kids	1
+-amod-methods	1
+-amod-militant	1
+-amod-mistake	1
+-amod-news	1
+-amod-nsubj-xcomp-nsubj-prep-pobj-Chavez	1
+-amod-ones	1
+-amod-options	1
+-amod-pobj-him	1
+-amod-prisoners	1
+-amod-rights	1
+-amod-services	1
+-amod-terrorism	1
+-amod-year	1
+-aux-suspension	1
+-ccomp-Youth	1
+-ccomp-cop-This	1
+-ccomp-election	1
+-ccomp-problems	1
+-ccomp-they	1
+-conj-entity	1
+-conj-pobj-Argentina	1
+-conj-pobj-Palestine	1
+-conj-vmod-police	1
+-conj-vmod-prep-pobj-Pakistan	1
+-csubj-Mugabe	1
+-dep-Arafat	1
+-dep-Goodwill	1
+-dep-Remarks	1
+-dep-That	1
+-dep-This	1
+-dep-You	1
+-dep-dep-Chavez	1
+-dep-dep-It	1
+-dep-election	1
+-det-det-They	1
+-det-det-adversities	1
+-det-det-offense	1
+-det-options	1
+-det-prep-pcomp-dobj-This	1
+-det-unification	1
+-dobj-Afronaut	1
+-dobj-America	1
+-dobj-Bin-Ladin	1
+-dobj-Blair	1
+-dobj-Bush	1
+-dobj-Chen	1
+-dobj-Cuba	1
+-dobj-Egypt	1
+-dobj-Flores	1
+-dobj-God	1
+-dobj-Iraq	1
+-dobj-Malaysia	1
+-dobj-Misuari	1
+-dobj-Pakistan	1
+-dobj-Powell	1
+-dobj-Suhakam	1
+-dobj-Taipei	1
+-dobj-Taiwan	1
+-dobj-Target	1
+-dobj-They	1
+-dobj-We	1
+-dobj-accreditation	1
+-dobj-advcl-nsubjpass-this	1
+-dobj-al-Qaeda	1
+-dobj-ccomp-ccomp-dep-America	1
+-dobj-ccomp-nations	1
+-dobj-ccomp-xcomp-nsubj-amod-Mugabe	1
+-dobj-conj-advcl-nsubj-nsubj-prep-pobj-rcmod-nsubj-Pakistan	1
+-dobj-conj-you	1
+-dobj-coup	1
+-dobj-democracy	1
+-dobj-dobj-welfare	1
+-dobj-evening	1
+-dobj-itself	1
+-dobj-mark-career	1
+-dobj-me	1
+-dobj-nsubj-ref-dobj-nsubj-him	1
+-dobj-one	1
+-dobj-peace	1
+-dobj-people	1
+-dobj-prep-Israel	1
+-dobj-prep-pcomp-them	1
+-dobj-prep-pobj-defenses	1
+-dobj-prep-pobj-poll	1
+-dobj-ratification	1
+-dobj-result	1
+-dobj-terror	1
+-dobj-terrorism	1
+-dobj-terrorists	1
+-dobj-that	1
+-dobj-this	1
+-dobj-violence	1
+-dobj-vmod-nsubj-it	1
+-dobj-we	1
+-iobj-Bush	1
+-iobj-dobj-it	1
+-iobj-it	1
+-neg-peace	1
+-neg-witch-hunting	1
+-nn-America	1
+-nn-Anderson	1
+-nn-Babylon	1
+-nn-Britain's	1
+-nn-Bush	1
+-nn-China	1
+-nn-Gitmo	1
+-nn-Iran	1
+-nn-Israeli	1
+-nn-It	1
+-nn-MOFA	1
+-nn-Miraflores	1
+-nn-Opposition	1
+-nn-Rabinowitz	1
+-nn-Taipei	1
+-nn-Taiwan	1
+-nn-Them	1
+-nn-U.S	1
+-nn-U.S.	1
+-nn-Washington	1
+-nn-You	1
+-nn-actions	1
+-nn-amod-book	1
+-nn-amod-kids	1
+-nn-amod-militant	1
+-nn-amod-work	1
+-nn-conj-terrorism	1
+-nn-cooperation	1
+-nn-det-evening	1
+-nn-development	1
+-nn-dobj-Iraq	1
+-nn-dobj-Taipei	1
+-nn-event	1
+-nn-freedom	1
+-nn-government	1
+-nn-him	1
+-nn-information	1
+-nn-injustice	1
+-nn-nn-U.S.	1
+-nn-nsubj-ccomp-China	1
+-nn-nsubj-decision	1
+-nn-nsubj-xcomp-dobj-Chavez	1
+-nn-nsubjpass-Zimbabwe	1
+-nn-opposition	1
+-nn-peace	1
+-nn-pobj-Argentina	1
+-nn-pobj-Bush	1
+-nn-pobj-Mugabe	1
+-nn-pobj-prep-U.S.	1
+-nn-pobj-prep-dobj-conj-xcomp-Washington	1
+-nn-pobj-prep-vmod-nsubj-Gitmo	1
+-nn-pobj-us	1
+-nn-pobj-you	1
+-nn-states	1
+-nn-that	1
+-nn-vmod-Mugabe	1
+-nsubj-AIDS	1
+-nsubj-AOL	1
+-nsubj-Afghanistan	1
+-nsubj-Africa	1
+-nsubj-Allah	1
+-nsubj-Arafat	1
+-nsubj-Brazil	1
+-nsubj-Britain	1
+-nsubj-CCI	1
+-nsubj-Canadarm2	1
+-nsubj-Food	1
+-nsubj-God	1
+-nsubj-Hizbullah	1
+-nsubj-Jameson	1
+-nsubj-Lebanon	1
+-nsubj-MCCOY	1
+-nsubj-MDC	1
+-nsubj-Mexico	1
+-nsubj-Mohammed	1
+-nsubj-Mwanawasa	1
+-nsubj-People	1
+-nsubj-Peronists	1
+-nsubj-Semantics	1
+-nsubj-She	1
+-nsubj-Tehran	1
+-nsubj-That	1
+-nsubj-Venezuela	1
+-nsubj-Welfare	1
+-nsubj-Who	1
+-nsubj-Zimbabwe	1
+-nsubj-advcl-dep-conj-US	1
+-nsubj-advcl-it	1
+-nsubj-advcl-you	1
+-nsubj-advmod-He	1
+-nsubj-amod-CCI	1
+-nsubj-aux-I	1
+-nsubj-ccomp-Mugabe	1
+-nsubj-ccomp-Shuttleworth	1
+-nsubj-ccomp-conj-plan	1
+-nsubj-ccomp-plan	1
+-nsubj-ccomp-xcomp-He	1
+-nsubj-climate	1
+-nsubj-conj-China	1
+-nsubj-conj-ccomp-Bush	1
+-nsubj-conj-pobj-Argentina	1
+-nsubj-conj-pobj-vmod-prep-pobj-rcmod-Argentina	1
+-nsubj-contribution	1
+-nsubj-cop-God	1
+-nsubj-cop-Misuari	1
+-nsubj-critics	1
+-nsubj-detainees	1
+-nsubj-dobj-CCI	1
+-nsubj-dobj-Miller	1
+-nsubj-dobj-Ratification	1
+-nsubj-dobj-Tsvangirai	1
+-nsubj-dobj-Zimbabwe	1
+-nsubj-dobj-prep-pcomp-He	1
+-nsubj-dobj-prep-pobj-prep-pcomp-dobj-prep-pcomp-they	1
+-nsubj-dobj-prep-pobj-prep-pcomp-they	1
+-nsubj-dobj-prep-pobj-they	1
+-nsubj-dobj-rcmod-ccomp-Pakistan	1
+-nsubj-dobj-vmod-prep-pobj-Israel	1
+-nsubj-election	1
+-nsubj-everything	1
+-nsubj-force	1
+-nsubj-globalization	1
+-nsubj-governments	1
+-nsubj-himself	1
+-nsubj-history	1
+-nsubj-insularity	1
+-nsubj-nations	1
+-nsubj-partnership	1
+-nsubj-pcomp-it	1
+-nsubj-people	1
+-nsubj-planning	1
+-nsubj-policymakers	1
+-nsubj-prep-pcomp-dobj-Zimbabwe	1
+-nsubj-prep-pcomp-pobj-Mugabe	1
+-nsubj-prep-pobj-he	1
+-nsubj-prep-pobj-prep-Parents	1
+-nsubj-prep-pobj-prep-pobj-prep-pobj-he	1
+-nsubj-prep-pobj-ref-pobj-prep-nsubjpass-Tsvangirai	1
+-nsubj-prep-these	1
+-nsubj-rcmod-dobj-pcomp-conj-pobj-they	1
+-nsubj-rcmod-he	1
+-nsubj-ref-nsubj-dobj-nsubj-prep-pobj-rcmod-Taiwan	1
+-nsubj-security	1
+-nsubj-that	1
+-nsubj-themselves	1
+-nsubj-work	1
+-nsubj-xcomp-Chavez	1
+-nsubj-xcomp-They	1
+-nsubj-xcomp-advcl-Stephanopoulos	1
+-nsubj-xcomp-ccomp-conj-nsubj-he	1
+-nsubj-xcomp-dobj-amod-Japan	1
+-nsubj-xcomp-prep-pobj-amod-citizens	1
+-nsubj-xcomp-them	1
+-nsubj-xcomp-us	1
+-nsubj-youngsters	1
+-nsubjpass-Africa	1
+-nsubjpass-Arabs	1
+-nsubjpass-Chavez	1
+-nsubjpass-Cyprus	1
+-nsubjpass-He	1
+-nsubjpass-Japan	1
+-nsubjpass-O'Keefe	1
+-nsubjpass-We	1
+-nsubjpass-abortions	1
+-nsubjpass-firearms	1
+-nsubjpass-prep-pobj-Chavez	1
+-nsubjpass-rulers	1
+-nsubjpass-we	1
+-nsubjpass-xcomp-dobj-This	1
+-num-Goodwill	1
+-parataxis-ZANU-PF	1
+-parataxis-xcomp-land	1
+-pcomp-America	1
+-pcomp-Argentina	1
+-pcomp-Taiwan	1
+-pcomp-Zimbabwe	1
+-pcomp-peace	1
+-pcomp-things	1
+-pobj-BSE	1
+-pobj-Brazil	1
+-pobj-Carmona	1
+-pobj-Chen	1
+-pobj-Cuba	1
+-pobj-Goodwill	1
+-pobj-Hamas	1
+-pobj-Hizbullah	1
+-pobj-Islam	1
+-pobj-Jerusalem	1
+-pobj-Lacson	1
+-pobj-Lashker-e-Toiba	1
+-pobj-Museveni	1
+-pobj-Sharon	1
+-pobj-Taipei	1
+-pobj-Taiwan	1
+-pobj-Venezuelans	1
+-pobj-Washington	1
+-pobj-ZANU-PF	1
+-pobj-Zimbabweans	1
+-pobj-answer	1
+-pobj-calm	1
+-pobj-globalization	1
+-pobj-hear	1
+-pobj-illumination	1
+-pobj-imperialism	1
+-pobj-journey	1
+-pobj-kids	1
+-pobj-know-how	1
+-pobj-land	1
+-pobj-mission	1
+-pobj-models	1
+-pobj-others	1
+-pobj-ours	1
+-pobj-pcomp-prep-Mercosur	1
+-pobj-persecution	1
+-pobj-pobj-offense	1
+-pobj-pobj-trouble	1
+-pobj-prep-Chavez	1
+-pobj-prep-India	1
+-pobj-prep-Zimbabwe	1
+-pobj-prep-aux-Goodwill	1
+-pobj-prep-aux-xcomp-nsubj-ccomp-prisoners	1
+-pobj-prep-ccomp-terrorists	1
+-pobj-prep-ccomp-vmod-Greece	1
+-pobj-prep-conj-Blair	1
+-pobj-prep-conj-land	1
+-pobj-prep-conj-us	1
+-pobj-prep-conj-vmod-ccomp-prep-terrorism	1
+-pobj-prep-disputes	1
+-pobj-prep-dobj-Argentina	1
+-pobj-prep-dobj-ccomp-job	1
+-pobj-prep-dobj-others	1
+-pobj-prep-dobj-vacation	1
+-pobj-prep-him	1
+-pobj-prep-nsubj-He	1
+-pobj-prep-nsubj-NASA	1
+-pobj-prep-nsubj-conj-prep-pobj-countries	1
+-pobj-prep-nsubj-xcomp-conj-vmod-ccomp-dobj-NASA	1
+-pobj-prep-pobj-prep-conj-Chavez	1
+-pobj-prep-pobj-prep-conj-advcl-nsubj-nsubj-prep-pobj-terrorism	1
+-pobj-prep-pobj-prep-nsubj-Chavez	1
+-pobj-prep-pobj-prep-pobj-prep-Goodwill	1
+-pobj-prep-pobj-prep-pobj-prep-ccomp-conj-reasons	1
+-pobj-prep-pobj-prep-pobj-prep-nsubj-industries	1
+-pobj-prep-pobj-prep-vmod-globalization	1
+-pobj-prep-rcmod-nsubj-We	1
+-pobj-prep-resign	1
+-pobj-prep-this	1
+-pobj-prep-vmod-pobj-prep-dobj-xcomp-nsubj-Kigali	1
+-pobj-prep-you	1
+-pobj-prisoners	1
+-pobj-victory	1
+-pobj-voting	1
+-poss-our	1
+-poss-partnership	1
+-poss-your	1
+-prep-This	1
+-prep-pobj-issues	1
+-prep-pobj-rulers	1
+-rcmod-Argentina	1
+-rcmod-Britain	1
+-rcmod-God	1
+-rcmod-Iraq	1
+-rcmod-Tsvangirai	1
+-rcmod-We	1
+-rcmod-changes	1
+-rcmod-children	1
+-rcmod-citizens	1
+-rcmod-elections	1
+-rcmod-kids	1
+-rcmod-language	1
+-rcmod-prisoners	1
+-rcmod-problems	1
+-rcmod-relationships	1
+-rcmod-security	1
+-ref-Publications	1
+-ref-nsubj-ccomp-vote	1
+-ref-nsubj-dobj-description	1
+-ref-nsubj-prep-pcomp-aux-there	1
+-ref-nsubj-prep-pobj-prep-pobj-Japan	1
+-ref-nsubj-which	1
+-ref-nsubj-xcomp-Israel	1
+-ref-those	1
+-root-root-It	1
+-vmod-It	1
+-vmod-Palestinians	1
+-vmod-They	1
+-vmod-figure	1
+-vmod-organizations	1
+-vmod-permission	1
+-vmod-programs	1
+-vmod-rebels	1
+-vmod-separatists	1
+-vmod-this	1
+-xcomp-Mugabe	1
+-xcomp-Rwanda	1
+-xcomp-apologize	1
+-xcomp-do	1
+-xcomp-remove	1
+-xcomp-them	1
+-xcomp-water	1
+-amod-election	2
+-amod-prize	2
+-amod-security	2
+-dobj-Iran	2
+-dobj-Washington	2
+-dobj-Zimbabwe	2
+-dobj-election	2
+-dobj-there	2
+-dobj-xcomp-we	2
+-nn-Argentina	2
+-nn-Brazil	2
+-nn-Friend	2
+-nn-Mexico	2
+-nn-Name	2
+-nn-Stephanopoulos	2
+-nn-Zimbabwe	2
+-nn-dissidents	2
+-nn-dobj-China	2
+-nn-it	2
+-nn-nsubj-Mugabe	2
+-nn-pobj-Israel	2
+-nsubj-Australia	2
+-nsubj-Canada	2
+-nsubj-China	2
+-nsubj-He	2
+-nsubj-Indonesia	2
+-nsubj-Israel	2
+-nsubj-Japan	2
+-nsubj-Sharon	2
+-nsubj-These	2
+-nsubj-one	2
+-nsubj-she	2
+-nsubjpass-CO 2 concentrations	1
+-nsubjpass-They	2
+-nsubjpass-he	2
+-nsubjpass-prep-abortions	2
+-pobj-Afghanistan	2
+-pobj-China	2
+-pobj-Kyoto	2
+-pobj-Suhakam	2
+-pobj-democracy	2
+-pobj-duty	2
+-pobj-it	2
+-pobj-prep-Iran	2
+-pobj-prep-dobj-nsubj-Iran	2
+-pobj-prep-her	2
+-pobj-prep-pobj-prep-nsubj-America	2
+-dobj-Israel	3
+-dobj-themselves	3
+-nn-Chavez	3
+-nn-Goodwill	3
+-nsubj-America	3
+-nsubj-Chavez	3
+-nsubj-Russia	3
+-nsubj-We	3
+-nsubj-cop-This	3
+-nsubj-him	3
+-nsubj-them	3
+-nsubjpass-This	3
+-pobj-Argentina	3
+-pobj-Iran	3
+-pobj-Mugabe	3
+-pobj-Zimbabwe	3
+-pobj-them	3
+-pobj-you	3
+-dobj-Chavez	4
+-dobj-Mugabe	4
+-dobj-them	4
+-nn-nn-Name	4
+-nsubj-Bush	4
+-nsubj-I	4
+-nsubj-Pakistan	4
+-nsubj-You	4
+-nsubj-these	4
+-pobj-Venezuela	4
+-pobj-terrorism	4
+-pobj-us	4
+-nsubj-Argentina	5
+-nsubj-Goodwill	5
+-nsubj-you	5
+-dobj-China	6
+-dobj-you	6
+-nsubj-Taiwan	6
+-nsubj-They	6
+-nsubjpass-it	6
+-pobj-him	6
+-nn-Mugabe	7
+-pobj-Chavez	7
+-nsubj-Mugabe	8
+-nsubj-this	9
+-nsubjpass-they	9
+-pobj-Israel	9
+-nsubj-It	11
+-num-September 11	1
+-dobj-him	12
+-ccomp-all 15 EU  nations should adhere to the Kyoto Protocol	1
+-dobj-it	16
+-nsubj-This	16
+-nsubj-he	16
+-nsubj-we	17
+-ref-dobj-ccomp-a 23-year-old woman from Menfi	1
+-nsubj-they	28
+-nsubj-it	53
+-xcomp-About 90 percent of foreigners' missing passports are Korean's, and the missing passports are being used mostly for crimes like illegal entry	1
+-pobj-vmod-dobj-The 110 al-Qaeda and Taliban prisoners admitted to "Gitmo"  by the end of last week	1
+-pobj-the 1987 'Ops Lalang	1
+-dobj-xcomp-the 1997 Kyoto protocol on climate change last year	1
+-pobj-the 1997 Kyoto Protocol	1
+-rcmod-the 1997 Kyoto pact on global warming	1
+-vmod-ensure 1997 Kyoto Protocol is put into effect in 2002	1
+-xcomp-build 2,000 cells at Camp  X-Ray	1
+-pobj-the 2001 report	1

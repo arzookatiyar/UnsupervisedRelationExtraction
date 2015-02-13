@@ -1,0 +1,1044 @@
+"We are in the middle of a very complicated process of changing almost completely our political and economic system...This process is long and painful, but we are determined to win."	we	to win
+we-26	to-29	-nsubjpass-prep
+"The possibility of a democratic, stable and prosperous Yugoslavia moving toward integration with Europe is something which we dared not hope for only eight months ago."	we	The possibility of a democratic, stable and prosperous
+we-18	possibility-2	-nsubj-dobj-ref-nsubj
+"The fact that Milosevic is on the way to be brought to justice is just a signal that my country is ready to respect all international obligations."	my country	to be brought to justice
+country-20	brought-11	-nsubj-ccomp-nsubj-dep-prep-pobj-vmod
+In Berlin, Bodo Hombach, coordinator of the Balkans Stability Pact, said several delegations to the Brussels conference told him it was now "easier and more motivating" to supply Belgrade with the aid it desperately needs.	it	easier and more motivating
+Balkans-8	"easier-23	-nn-pobj-prep-pobj-prep-ccomp-dep
+Another factor which might deter Beijing's military adventurism in the Taiwan Strait is Washington's "readiness to fight Beijing for Taiwan," which will bear witness to Washington's determination to remain a power in Asia, according to the magazine.	Washington	will bear witness
+Washington's-14	bear-23	-nn-vmod-dobj-rcmod
+"Weapons cannot prevent Taiwan from reuniting with China," he told Thai and Chinese media last week.	he	cannot prevent
+he-9	prevent-3	-nsubj-ccomp-pcomp-prep-pcomp-prep
+He said Beijing will maintain its pursuit of peaceful unification with Taiwan and welcomed the resumption of dialogue, bogged down since 1999.	Beijing	peaceful unification
+Beijing-3	unification-10	-nsubj-dobj-prep-pobj
+Taiwan is the only country in Asia that allows foreign laborers to enjoy the same salary levels as their local counterparts, which elevates its image in international society, Lin added.	international society	elevates its image
+international-27	elevates-23	-amod-pobj-prep
+In the remarks made by these political leaders, one point is interesting and calls for reflection: if these leaders reject the interference of others in the condition and destiny of the poor nations, while present themselves legitimate and competent to make far reaching decisions for them, then it must be said that they are only the elected [leaders] of their own nation [people], and this does not entitle them to act as representative or legal attorney of all people worldwide!	these leaders	legitimate and competent
+leaders-19	legitimate-37	-nsubj-advcl-pcomp-prep-advcl-dep-xcomp-dep
+Jacques Chirac, the French President, responding to the protests leveled by opponents of globalization, had said: "They have no right to present themselves as defenders of the world poor..."	They	defenders of the world poor
+"They-17	defenders-25	-advmod-rcmod-nsubj-xcomp-prep-pobj
+"In the meantime, doubling the number of monitors should help put people's minds at ease," he said.	he	should help put people's minds at ease
+"In-1	help-10	-dep
+The force, based in Lyon, France, will work non-stop to "help to filter any information coming from Interpol country members," Noble said.	Noble	will work non-stop
+Noble-21	work-8	-nn-pobj-prep-vmod-dobj-xcomp-vmod
+Nevertheless, one could not fail taking note of the fact that in the same response the United States called upon the Chechens to "unconditionally and without delay to terminate every contact with international terrorist groups," and that they accept Putin's offer to make peace.	Putin	make peace
+Putin's-40	make-43	-nsubj
+In reality, Putin asked for a free hand regarding Chechnia, some understanding, or even that the Americans look the other way.	Americans	a free hand regarding Chechnia
+Americans-17	hand-8	-nsubj-conj-pobj-vmod-prep-pobj
+Taiwan-made products stood a good chance of becoming even more competitive thanks to wider access to overseas markets and lower costs for material imports, he said.	he	even more competitive
+he-25	competitive-11	-nsubj-xcomp-vmod-acomp
+Taiwan-made products stood a good chance of becoming even more competitive thanks to wider access to overseas markets and lower costs for material imports, he said.	he	stood a good chance
+he-25	chance-6	-nsubj-xcomp-vmod-pcomp-prep
+Taiwan-made products stood a good chance of becoming even more competitive thanks to wider access to overseas markets and lower costs for material imports, he said.	he	thanks to
+he-25	thanks-12	-nsubj-xcomp-vmod-advmod
+Since the Sept. 11 terrorist attacks against the United States, countries across the world have been closely monitoring subsequent developments and have taken measures to cope with possible situations, Wu said, noting that short-term pains will eventually pass and everyday life will get back to normal soon.	Wu	everyday life will get back to normal
+Wu-30	get-43	-nn-pobj-prep-vmod-conj-conj
+Since the Sept. 11 terrorist attacks against the United States, countries across the world have been closely monitoring subsequent developments and have taken measures to cope with possible situations, Wu said, noting that short-term pains will eventually pass and everyday life will get back to normal soon.	Wu	short-term pains will eventually pass
+Wu-30	pass-38	-nn-pobj-prep-xcomp-ccomp
+Moreover, Taleban fighters "not stained with blood" could be in this government, too, he said.	he	not stained with blood
+he-14	"not-4	-nsubj-rcmod-pobj-prep-nsubj
+An increase in the extraction was possible thanks to the company's active investment policy which has been conducted since 2000, the press service says.	the press service	thanks to
+the-21	to-9	-det-dep-pobj-prep-nsubjpass-ref-pobj
+"We believe in the sincerity of the United States in promising not to mix up its counter-terrorism drive with the Taiwan Strait issue," Kao said, adding that relevant US officials have on many occasions reaffirmed similar commitments to the ROC.	We	sincerity
+"We-1	sincerity-5	-nsubj-prep-pobj
+Noting that the United States has consistently attached great importance to Asia-Pacific regional stability and security, Kao said the robust US arms sales package to Taiwan struck in April this year signifies that the United States is serious about security in the region.	the United States	great importance
+States-5	importance-10	-nsubj-dobj
+Noting that the United States has consistently attached great importance to Asia-Pacific regional stability and security, Kao said the robust US arms sales package to Taiwan struck in April this year signifies that the United States is serious about security in the region.	Kao	robust
+Kao-17	robust-20	-nsubj-dobj-amod
+Prior to his departure for Shanghai, Bush said during his meeting with mainland Chinese President Jiang Zemin, he will reaffirm to Jiang the US support for the "one China" policy as well as its desire to see a peaceful solution to all disputes between the two sides of the Taiwan Strait.	the two sides of the Taiwan Strait	peaceful
+sides-47	peaceful-39	-pobj-prep-pobj-prep-dobj-amod
+There is an evident international resolve to put an end to the Arab-Israeli conflict in all its aspects.	international	put an end
+international-5	put-8	-amod-vmod
+This is why the current meeting with the leader of the country, which is the OPEC chairperson now, is going to be interesting, he added.	he	is going to be interesting
+why-3	going-20	-advmod
+He stressed he was especially satisfied with the fact that "the Russian-Venezuelan dialogue has become stable and dynamic." In his opinion, this is a positive factor, especially from the point of view of ensuring stable oil supply on the world market.	he	has become stable and dynamic
+he-3	become-15	-nsubjpass-ccomp
+He stressed he was especially satisfied with the fact that "the Russian-Venezuelan dialogue has become stable and dynamic." In his opinion, this is a positive factor, especially from the point of view of ensuring stable oil supply on the world market.	he	this is a positive factor
+he-3	factor,-26	-nsubjpass-ccomp-acomp-conj-ccomp
+Asked whether signing the Kyoto Protocol will affect Jordan and US efforts to upgrade the Kingdom's environmental framework, Tbeishat said that signing the protocol will have a "positive" outcome on Jordan.	Tbeishat	positive
+Tbeishat-19	"positive"-28	-nsubj-rcmod-ref-mark-dobj-amod
+He also described cooperation among OPEC and non-OPEC countries as a boost to their national interests.	OPEC and non-OPEC countries	boost
+OPEC-6	boost-12	-pobj-prep-prep-pobj
+"Forming a world-wide coalition based on peace and justice to eradicate the ominous phenomenon of terrorism is a must," Khatami said.	Khatami	eradicate
+Khatami-20	eradicate-11	-nn-nsubj-vmod-xcomp
+"Forming a world-wide coalition based on peace and justice to eradicate the ominous phenomenon of terrorism is a must," Khatami said.	Khatami	based on peace and justice
+Khatami-20	based-5	-nn-nsubj-vmod
+He said Greenpeace looked forward to work in partnership with developing countries to get the proper assessment of the impact of the WTO instead of a new round of trade negotiations.	Greenpeace	proper
+Greenpeace-3	proper-16	-nsubj-xcomp-prep-pcomp-vmod-dobj-amod
+So, we will act very responsibly and I have given all guarantees to Sheikh (Hamad bin Faisal) al-Thani (chairman of the organising committee) that we would be responsible, peaceful and that we would act in a very constructive manner with them.	I	responsible
+I-8	responsible,-28	-nsubj-prep-pobj-vmod-ccomp-advmod
+So, we will act very responsibly and I have given all guarantees to Sheikh (Hamad bin Faisal) al-Thani (chairman of the organising committee) that we would be responsible, peaceful and that we would act in a very constructive manner with them.	I	will act very responsibly
+I-8	act-4	-nsubj-conj
+So, we will act very responsibly and I have given all guarantees to Sheikh (Hamad bin Faisal) al-Thani (chairman of the organising committee) that we would be responsible, peaceful and that we would act in a very constructive manner with them.	I	peaceful
+I-8	peaceful-29	-nsubj-prep-pobj-vmod-ccomp
+So, we will act very responsibly and I have given all guarantees to Sheikh (Hamad bin Faisal) al-Thani (chairman of the organising committee) that we would be responsible, peaceful and that we would act in a very constructive manner with them.	I	would act in a very constructive manner
+I-8	act-34	-nsubj-prep-pobj-vmod-ccomp-conj
+The WTO claims that it wants to protect the environment.	it	protect the environment
+it-5	protect-8	-nsubj
+If in six days time there has been no new round, this meeting will have been a success, because it will force the WTO to change, he said.	he	will force the WTO to change
+time-5	force-22	-nsubj-rcmod-advcl
+If in six days time there has been no new round, this meeting will have been a success, because it will force the WTO to change, he said.	he	a success
+time-5	success,-18	-nsubj-rcmod
+This is the only responsible course of action and it will be a historic success for Doha and we want this meeting to be a success.	we	a historic success
+we-19	success-15	-nsubj-conj
+This is the only responsible course of action and it will be a historic success for Doha and we want this meeting to be a success.	we	success
+we-19	success-15	-nsubj-conj
+This is the only responsible course of action and it will be a historic success for Doha and we want this meeting to be a success.	we	only responsible course of action
+we-19	action-8	-nsubj-conj-conj
+Parmentier said, on the one hand, the WTO claims to support sustainable development and environmental protection and on the other, it does virtually nothing to protect the environment.	the WTO	sustainable development and environmental protection
+WTO-8	sustainable-12	-nsubj-xcomp-acomp
+The foreign minister warned De la Rua personally about the leap into the void that would be represented by leaving Marx out of the negotiations, when he is one of the few to have a smooth-flowing dialogue with the IMF staff officials.	he	smooth-flowing
+The-1	smooth-flowing-36	-det-nsubj-advcl-prep-pobj-amod-xcomp-dobj-amod
+"We are ready to give sincere and earnest consideration to any effort that will contribute to stability and peace in Afghanistan," foreign ministry spokeswoman Zhang Qiyue told reporters.	We	stability and peace
+"We-1	stability-17	-nsubj-xcomp-prep-pobj-ref-nsubj-prep-pobj
+Although he questions whether biomolecular computers will ever become really useful, he believes they are a "step in the right direction."	he	step in the right direction
+he-2	"step-17	-nsubj-ccomp-acomp-ccomp-ccomp
+Although he questions whether biomolecular computers will ever become really useful, he believes they are a "step in the right direction."	he	really useful
+he-2	useful,-11	-nsubj-ccomp-acomp
+"The talks were very warm," Matsunaga said at the end of the meeting.	Matsunaga	very warm
+Matsunaga-6	warm,"-5	-nsubj-ccomp
+The campaign so far showed Alliance military success was the best way of getting food in, he said.	he	the best way
+The-1	way-12	-det-nsubj-ccomp
+"The situation obviously remains fluid from hour to hour but it seems to be going in the right direction," the spokesman said.	the spokesman	going in the right direction
+the-20	direction,"-19	-det-nsubj
+"The situation obviously remains fluid from hour to hour but it seems to be going in the right direction," the spokesman said.	the spokesman	seems to be
+the-20	seems-12	-det-nsubj-dep-conj
+This is not a reverse, it's actually an advance," he added.	he	This is not a reverse, it's actually an advance
+he-10	advance,"-9	-nsubj-rcmod
+British troops remained on 48 hour stand-by but the situation was "better than anybody could have hoped for", according to Mr Cook.	Mr Cook	better than anybody could have hoped for
+Cook.-22	hoped-17	-pobj-pcomp-prep
+"We will continue obviously to keep the situation under review, but frankly, I think we should welcome the fact that their presence has not been needed in Afghanistan.	I	should welcome the fact
+I-13	welcome-17	-nsubj-ccomp
+The lawyers deemed it wise to do this now because one of Collignon's questions is connected with the juridical consequences of a Lebanese amnesty law.	Collignon	wise
+Collignon's-13	wise-5	-nn-pobj-prep-nsubjpass-advcl-xcomp
+Moreover, it places this country, which claims to be a forerunner in the sphere of human rights in the world, in the same rank as countries which restrict civil rights under the pretext of security considerations.	this country	a forerunner in the sphere of human rights in the world
+country,-5	forerunner-11	-ccomp-xcomp
+The United States earlier this week hinted it may expand its war against terrorism beyond Afghanistan to Iraq, bringing swift criticism from both Germany and France, who called for restraint in the future of the military campaign.	Germany and France	restraint
+Germany-24	restraint-30	-pobj-prep-ref-nsubj-prep-pobj
+"While we recognize that the threat of terrorism requires specific measures, we call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent," a joint statement issued in Strasbourg, Geneva and Warsaw said.	we	legitimate dissent
+we-2	dissent,"-31	-nsubj-ccomp-dobj-rcmod-nsubj-nsubj-prep-pobj-ref-nsubj-conj-dobj
+"While we recognize that the threat of terrorism requires specific measures, we call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent," a joint statement issued in Strasbourg, Geneva and Warsaw said.	we	fundamental freedoms
+we-2	freedoms-27	-nsubj-ccomp-dobj-rcmod-nsubj-nsubj-prep-pobj-ref-nsubj-dobj
+In a meeting with 25 of the scholars Thursday, Tsai said in response to a question on whether Taiwan is afraid of over-reliance on the mainland market that the island will be able to achieve balanced economic growth as long as it strikes a balance between maintaining its sovereignty, developing its economy globally and normalizing relations with the mainland.	Tsai	will be able to achieve balanced economic growth
+Tsai-10	able-33	-nsubj-prep-pcomp-ccomp
+The United States realizes that the Palestinians are serious in their efforts to achieve a just peace.	the Palestinians	efforts to achieve a just peace
+Palestinians-7	efforts-12	-nsubj-prep-pobj
+In her view, Tsai said, both sides have been endeavoring to prevent the results of Taiwan's recent parliamentary and local government chief elections from affecting the stability of cross-strait relations.	her	have been endeavoring to prevent
+her-2	endeavoring-10	-poss-pobj-prep
+However, Chen said "one China" should not be a precondition for talks until such time as Taipei and Beijing have reached a mutually acceptable meaning for the the term through "wisdom and creativity."	Chen	wisdom and creativity
+Chen-2	"wisdom-31	-nsubj-ccomp-advcl-prep-pobj
+Toward the end of October, Israel declared that it would withdraw from some of the Palestinian autonomous areas where the situation was "relatively calm" and pretended to be abiding by the decision.	Israel	relatively calm
+Israel-6	calm"-24	-vmod-ccomp-advcl
+Also asking for help from the Turkish press, Denktas said that ``I ask for help from the press as I will negotiate for peace and compromise to solve Cyprus question.	I	peace and compromise
+``I-12	peace-24	-nsubj-advcl-nsubj-nsubj-xcomp-prep-pobj
+As for Argentina's decision not to pay its debt, the president said the measure would give the economy and people some breathing room.	the president	some breathing room
+president-11	room.-23	-dobj-csubj-ccomp-dobj
+"Everything must be done by everyone to bring about de-escalation," Mr Chirac added.	Mr Chirac	de-escalation
+Mr-11	de-escalation,"-10	-nn-nn
+While committing themselves to peace, Palestinians bear this patiently and suppress fury, hoping that the US-dominated world community will acknowledge that Palestinians seek calm and a just peace in order to end occupation and settlement in their territories and to enjoy freedom, dignity, and independence, like other world nations.	Palestinians	calm and a just peace
+Palestinians-6	calm-24	-pobj-prep-csubj-xcomp-ccomp-ccomp-dobj
+While committing themselves to peace, Palestinians bear this patiently and suppress fury, hoping that the US-dominated world community will acknowledge that Palestinians seek calm and a just peace in order to end occupation and settlement in their territories and to enjoy freedom, dignity, and independence, like other world nations.	Palestinians	in order to end occupation and settlement in their territories
+Palestinians-6	end-32	-pobj-prep-csubj-advcl
+While committing themselves to peace, Palestinians bear this patiently and suppress fury, hoping that the US-dominated world community will acknowledge that Palestinians seek calm and a just peace in order to end occupation and settlement in their territories and to enjoy freedom, dignity, and independence, like other world nations.	Palestinians	enjoy freedom, dignity, and independence
+Palestinians-6	enjoy-41	-pobj-prep-csubj-advcl-conj
+"But as we received it from a US official, we believe it is reliable," Hakansson said.	Hakansson	reliable
+Hakansson-15	reliable,"-14	-nn-nsubj-advcl-prep-pobj-rcmod-ccomp
+The CDU chose him because it believes in victory.	it	victory
+it-6	victory.-9	-nsubj-prep-pobj
+Rasul said they could not understand why the government was so hard on Misuari when it was lenient with other leaders who revolted in the past.	they	when it was lenient
+they-3	lenient-18	-nsubj-ccomp-advcl
+But the premier also said that although short, he thinks his visits to the countries are still meaningful.	he	still meaningful
+But-1	meaningful.-18	-cc-ccomp
+"I would like to visit various countries at a more leisurely pace -- meet with the people of the land and travel not only to the capital but also to rural cities for sightseeing," the premier told a gathering in Tokyo.	I	more leisurely pace
+"I-1	pace-12	-nsubj-xcomp-prep-pobj
+Tokyo, Jan. 17 Kyodo -- Prime Minister Junichiro Koizumi, who just completed a whirlwind tour of five Southeast Asian nations, said Thursday he longed for more leisurely trips -- but added that may have to wait until he leaves his post.	he	more leisurely
+five-17	more-26	-num-pobj-prep-nsubj-dep-prep-pobj-amod
+London meanwhile insists it supports US reassurances that the men are being treated humanely.	US	humanely
+US-6	humanely.-14	-nsubj-ccomp-dobj
+London has previously insisted it supports US reassurances that the men are being treated humanely.	US	are being treated humanely
+US-7	treated-14	-nsubj-ccomp
+"The British government's position is that prisoners, regardless of their technical status, should be treated humanely and in accordance with customary international law," said Foreign Secretary Jack Straw in a statement.	Foreign Secretary Jack Straw	humanely
+Straw-28	humanely-16	-dobj-conj-advmod
+The upgrading and especially the last part - the boosting unit - have made it possible "to surge on the foreign market" and provided for a great economic and commercial effect from the launch of an upgraded Proton rocket-booster, said Medvedev.	Medvedev	great
+Medvedev.-41	great-27	-nsubj-dep-conj-prep-pobj-amod
+The upgrading and especially the last part - the boosting unit - have made it possible "to surge on the foreign market" and provided for a great economic and commercial effect from the launch of an upgraded Proton rocket-booster, said Medvedev.	Medvedev	have made it possible
+Medvedev.-41	made-14	-nsubj-dep
+The upgrading and especially the last part - the boosting unit - have made it possible "to surge on the foreign market" and provided for a great economic and commercial effect from the launch of an upgraded Proton rocket-booster, said Medvedev.	Medvedev	surge
+Medvedev.-41	surge-18	-nsubj-dep-xcomp
+According to Koptev, such interaction with Europe would make it possible for six spacemen to be on board the ISS rather than the current three, as well as to use a Russian Soyuz rocket as a rescue spaceship.	Koptev	would make it possible
+Koptev,-3	make-9	-amod-pobj-pcomp-prep
+"To begin with, I have great confidence that what the Americans are doing in relation to these prisoners is reasonable.	I	is reasonable
+I-4	reasonable.-20	-nsubj-ccomp-xcomp-dep
+"Of course the United States has a point when it says that it can be difficult to decide who are terrorists and who are prisoners of war.	it	has a point
+the-3	has-6	-det-nsubj
+It is obvious that statements by US Defense Secretary Donald Rumsfeld that the detainees are "illegitimate fighters" upon home the Geneva convention on POW's does not apply have not helped alleviate world concern over the US abandoning its (until now) well-known commitment to the principles of justice in treating the Al-Qa'ida and Taliban prisoners.	the US	principles of justice
+US-36	principles-45	-nsubj-prep-pobj
+LONDON, Jan 24 (AFP) -- British Foreign Secretary Jack Straw said Thursday [24 January] it was "far preferable" that British prisoners held at the US Navy base at Guantanamo Bay in Cuba should face justice in Britain.	British Foreign Secretary Jack Straw	far preferable
+Straw-10	preferable"-18	-nsubj-xcomp-ccomp
+"It is far preferable if they are British citizens for them to come to the United Kingdom and face justice here," Straw told BBC radio.	Straw	far preferable
+Straw-22	preferable-4	-conj-pobj-prep-vmod-advcl
+"I know that not everybody will be entirely happy with the list, but it is a good list and let's support them and work with them."	I	good list
+"I-1	list-18	-nsubj-conj
+"I know that not everybody will be entirely happy with the list, but it is a good list and let's support them and work with them."	I	let's support them
+"I-1	support-21	-nsubj-conj
+Karzai reaffirmed his determination that the interim government would not interfere in the commission or Loya Jirga.	his	would not interfere
+his-3	interfere-11	-poss-dobj-ccomp
+Annan said he hoped the commission members "together with the UN will be successful in their work and give Afghanistan a fair Loya Jirga".	he	will be successful in their work
+he-3	successful-14	-nsubj-ccomp
+Annan said he hoped the commission members "together with the UN will be successful in their work and give Afghanistan a fair Loya Jirga".	he	fair
+he-3	fair-22	-nsubj-ccomp-conj-dobj-amod
+"We set out to get a group that would be independent, a group of men and women that would have integrity, who are highly respected within the society, to request them to help organise the Loya Jirga," Annan said.	Annan	that would have integrity
+Annan-38	that-18	-nn-nsubj-xcomp-dobj-ref-nsubjpass-dobj-ref
+"We set out to get a group that would be independent, a group of men and women that would have integrity, who are highly respected within the society, to request them to help organise the Loya Jirga," Annan said.	Annan	that would be independent
+Annan-38	that-8	-nn-nsubj-xcomp-dobj-ref
+"We set out to get a group that would be independent, a group of men and women that would have integrity, who are highly respected within the society, to request them to help organise the Loya Jirga," Annan said.	Annan	who are highly respected within the society
+Annan-38	who-22	-nn-nsubj-xcomp-dobj-ref-nsubjpass-dobj-ref-nsubj-dobj-ref
+One can imagine how Rumsfield, who is ordinarily so sure of himself and of his jokes, might have gone off his rocker once and, for an hour, could have ranted and raved against the "hyperbole," the exaggeration that, according to him, marked the reactions generated by this photograph, and reminded the world about the degree to which the US attitude was "humane, legal, and proper."	Rumsfield	humane, legal, and proper
+Rumsfield,-5	legal,-63	-nsubj-advcl-prep-pobj-rcmod-ccomp-conj-prep-pobj-rcmod
+One can imagine how Rumsfield, who is ordinarily so sure of himself and of his jokes, might have gone off his rocker once and, for an hour, could have ranted and raved against the "hyperbole," the exaggeration that, according to him, marked the reactions generated by this photograph, and reminded the world about the degree to which the US attitude was "humane, legal, and proper."	Rumsfield	"humane, legal, and proper."
+Rumsfield,-5	legal,-63	-nsubj-advcl-prep-pobj-rcmod-ccomp-conj-prep-pobj-rcmod
+"Bush is quite close to pulling off the impossible: losing the sympathy of the civilized world for the United States," an astonished The Daily Mirror wrote.	world	the civilized world
+world-16	the-14	-det
+In his 2001 New Year's speech, he proposed the ambiguous "conformity theory," which takes the tone of unification but promotes independence in nature.	he	promotes
+he-7	promotes-20	-nsubj-dobj-ref-nsubj-conj
+Support from Lee Teng-hui and overseas "Taiwan independence" forces makes him believe that "the situation is great."	him	the situation is great
+him-11	great."-17	-nsubj-ccomp
+But the Taiwanese authorities exaggerated Sino-US conflicts and placed hopes on seeking benefits from such conflicts.	the Taiwanese authorities	seeking benefits
+authorities-4	seeking-12	-nsubj-conj-prep-pcomp
+Cde Mugabe said the Government would do everything necessary to ensure the holding of a free and fair election, as it had done during all the previous elections conducted in the country since the attainment of independence in 1980.	the Government	free and fair
+Government-5	free-16	-nsubj-xcomp-nsubj-nsubj-dobj-prep-pobj-amod
+"Therefore, it is a positive development that all 'summits' will be held in Brussels as of 2003," Neyts said.	Neyts	it is a positive development
+Neyts-18	development-6	-nn-nsubj-ccomp
+"Therefore, it is a positive development that all 'summits' will be held in Brussels as of 2003," Neyts said.	Neyts	Therefore
+Neyts-18	"Therefore,-1	-nn-nsubj
+It is good, you can see they (the Americans) are here," he said smiling.	he	good
+see-6	good,-3	-ccomp
+In an interview with journalists later, NDDC Executive Director, Finance and Administration, Mr. Timi Alaibe, said that the choice of Odi was a deliberate policy to give the people of the area who are still recovering from the trauma of the 1999 sad incident a sense of belonging.	NDDC Executive Director, Finance and Administration, Mr. Timi Alaibe	sense of belonging
+Finance-10	sense-46	-nsubj-ccomp-vmod-dobj
+"With the combined goal of providing free quality health care in this rural areas through the dispensing of prescribed drugs as well as undertaking surgeries that came to the medical site daily, we made it to give the patients we come in contact with health advice and education, hopefully to prevent further problems in the future," Nortman said.	Nortman	hopefully
+Nortman-57	hopefully-49	-nn-pobj-prep-xcomp-advmod
+Eventually, making a sum of the proposals offered by his main advisers, President Bush admitted on Monday, following the National Security Council meeting, that the captives at Guantanamo Bay will be covered under the "spirit of the Geneva Convention," even if their special status comes from the fact that they will continue to be designated terrorists, rather than prisoners of war.	President Bush	spirit of the Geneva Convention
+Bush-14	"spirit-35	-pobj-prep-vmod-pobj-prep-dobj-xcomp-ccomp-prep-pobj
+"The Government continues to uphold the freedom of expression and there are no cases of anyone being tried or having been held in custody for expressing his or her own opinion since the Blantyre Summit."	anyone	The Government continues to uphold the freedom of expression
+anyone-16	continues-3	-pobj-prep-nsubj-conj
+"We in Sadc believe that the situation in Zimbabwe does not only require a careful and mature approach but also mutual understanding and patience because of its complexity," said Ms Patel.	Sadc	require a careful and mature approach
+Sadc-3	require-13	-pobj-prep-nsubj-ccomp
+"We in Sadc believe that the situation in Zimbabwe does not only require a careful and mature approach but also mutual understanding and patience because of its complexity," said Ms Patel.	Sadc	mutual understanding and patience
+Sadc-3	understanding-22	-pobj-prep-nsubj-ccomp-dobj-conj
+During the summit, Prime Minister Koizumi maintained a clear-cut collaborative stance towards the United States and emphasized: "I got the impression that the President was objective and circumspect," but suggested caution in resorting to military action.	Prime Minister Koizumi	objective and circumspect
+Koizumi-6	objective-26	-nsubj-ccomp-ccomp
+During the summit, Prime Minister Koizumi maintained a clear-cut collaborative stance towards the United States and emphasized: "I got the impression that the President was objective and circumspect," but suggested caution in resorting to military action.	Prime Minister Koizumi	caution
+Koizumi-6	caution-31	-nsubj-ccomp-conj-dobj
+Both topics covered complex issues wherein the future is clouded, but both leaders vowed to assume a bold challenge and exchanged firm handshakes.	both leaders	a bold challenge
+leaders-13	challenge-19	-nsubj-xcomp-dobj
+But, he said, "Investors will come to Indonesia not based on fears, somehow, that they would be physically threatened, but rather in the hope that the capital invested in Indonesia would be secure and that means transparency, rule of law, protection legally, etc.," Boyce told a press conference.	he	not based on fears
+he-2	based-10	-dobj-dep-prep-pobj-vmod
+According to some sources, the crisis is in a bind: the IMF is asking for more belt-tightening, and the government is asking for more money.	the IMF	more belt-tightening
+IMF-12	belt-tightening,-17	-nsubj-prep-pobj
+Of course the second side in the US axis is Israel, and definitely the third side will go to no one but Britain, as it conforms to the same criteria and because it completely supports the US stance and considers it the absolute right in all cases.	it	the absolute right in all cases
+and-12	right-44	-cc-rcmod-pobj-conj-conj-xcomp
+A spokesman for British Prime Minister Tony Blair said: "He clearly welcomes the decision by the Commonwealth troika and believes that it is absolutely the right thing to do."	He	absolutely the right thing to do
+"He-10	thing-27	-pobj-prep-nsubj-conj-ccomp
+"Personally I felt that one is going to be used here, but I nevertheless hoped the presence of outsiders in Zimbabwe would stop some illegal acts which may have been committed."	I	would stop
+I-2	stop-23	-nsubj-ccomp-nsubj-nsubjpass-xcomp-ccomp-ccomp
+In a preliminary, Motsuenyane declared the Zimbabwe poll "legitimate", adding they could, however, not be openly described as free and fair.	Motsuenyane	legitimate
+Motsuenyane-4	"legitimate",-9	-nsubj-ccomp
+Then Mudenge proposed that Britain and Zimbabwe bury past differences and work together in the future.	Mudenge	bury past differences
+Mudenge-2	bury-8	-vmod-ccomp
+Rather than issuing a letter of objection to the Australian Government, wouldn't it be better to join them in our own national interest?" he asked.	he	wouldn't it be better
+Rather-1	wouldn't-12	-advmod-pcomp-ccomp
+Rather we should the use the current to our mutual benefit," he said.	he	we should the use the current to our mutual benefit
+Rather-1	use-5	-advmod
+Speaking at the opening of the conference, Dervis defined the regional cooperation as formation of good neighborly field and said, ``the success of Western Europe after World War II laid in its creation of the good neighborly field.	Dervis	success of Western Europe after World War II laid in its creation of the good neighborly field
+Dervis-8	success-22	-pobj-prep-pobj-prep-nsubj
+Speaking at the opening of the conference, Dervis defined the regional cooperation as formation of good neighborly field and said, ``the success of Western Europe after World War II laid in its creation of the good neighborly field.	Dervis	formation of good neighborly field
+Dervis-8	formation-14	-pobj-prep-pobj-prep-dep-prep-pobj
+Recalling that the new tender law had enabled everyone to join public investment tenders, Dervis said that Greek investors could benefit from the law.	Dervis	could benefit
+Dervis-15	benefit-21	-nsubj-ccomp
+Speaking at the press conference, Dervis said, ``economic cooperation between Turkey and Greece will make an important contribution to the Balkans, Middle East and the Black Sea regions.	Dervis	will make an important contribution
+Dervis-6	make-15	-nn-rcmod
+Criticisms of Chavez's governance have been widespread in the democratic world, above all in the past year, in which he has taken to visiting dictators like Castro or Saddam Husayn and writing to terrorists like the famous Carlos, instead of meeting his promises of prosperity and fair shares.	his	fair shares
+his-42	shares.-48	-poss-prep-pobj
+Criticisms of Chavez's governance have been widespread in the democratic world, above all in the past year, in which he has taken to visiting dictators like Castro or Saddam Husayn and writing to terrorists like the famous Carlos, instead of meeting his promises of prosperity and fair shares.	his	prosperity
+his-42	prosperity-45	-poss-prep-pobj-nn
+This is another of the "privileges" mentioned by Rumsfeld.	Rumsfeld	privileges
+Rumsfeld.-9	"privileges"-6	-pobj-prep-vmod
+Translating roughly, what Minister Lafer tried to tell the Americans is that the financial cost of an international rescue of Argentina, now, led by the IMF and other multilateral credit agencies, will be lower than the cost of fighting, later on, chaos in its social, political, and - why not? - military forms on the continent.	Minister Lafer	will be lower
+Lafer-5	lower-34	-nsubj-dobj-ref-nsubj-ccomp
+However, it has been left to Iran's President, Mohammad Khatami, to reaffirm Teheran's sustainable advocacy of a "dialogue among civilizations" as the cultured answer to the "insults" that Mr. Bush has now heaped upon the Iranian people.	Teheran	dialogue among civilizations
+Teheran's-13	"dialogue-18	-nn-prep-pobj
+At the beginning of this year, for instance, our Republic's government clearly conveyed, again, its steadfast position and will to achieve the fatherland's reunification, the greatest ardent desire of the nation, within the first few years of the 21st century at all costs by the united efforts of the nation.	the nation	the fatherland's reunification
+nation,-31	reunification,-24	-pobj-prep-dobj
+As we all know, our Republic is currently exerting every effort possible for peace on and reunification of the Korean peninsula and for the world's peace and security.	our Republic	every effort possible
+Republic-6	effort-11	-nsubj-dobj
+The pursuit of the war on terrorism has given Americans a new illustration of his character and his confidence in the country's leadership," the New York Times said.	his	new illustration of his character
+his-15	character-16	-poss
+In his fellow countrymen's eyes, the test constituted by 11 September has revealed George Bush's talents as a war leader.	fellow countrymen	has revealed George Bush's talents as a war leader
+fellow-3	revealed-13	-amod-pobj-prep-ccomp
+4 February upset the lives of Venezuelans with the ghost of a military insurgency that we had all thought had been overcome, because it belonged to past eras and because the armed forces were fully within the legitimate order, complying with institutional precepts, far from the meddling forbidden by the constitution.	we	fully within the legitimate order
+we-16	fully-35	-nsubj-ccomp-vmod-nsubj-advcl-conj-advmod
+At any rate, Secretary Powell's remark about the US administration's readiness to enter dialogue with these "evil" states and with Washington's friends on ways of dealing with them involves some contradictions.	Secretary Powell	friends
+Secretary-4	friends-22	-nn-vmod-prep-conj-pobj
+He added: "We are prepared to initiate a dialogue, and we want to work with our friends and allies in the world on ways of dealing with such regimes."	we	our friends and allies
+we-11	friends-17	-nsubj-xcomp-prep-pobj
+As for the criticisms of the destinations of the presidential trips, she remarked: "In addition to the fact that we do not have to ask anyone for permission to decide where and when we should visit a country, the President has visited countries with which we have direct trade relations, countries that are OPEC members, with the specific objective of strengthening our economy."	the President	strengthening our economy
+President-40	strengthening-61	-nsubj-prep-pcomp-dobj-ref-nsubj-prep-pobj-prep-pcomp
+Regarding "Venezuela's friends," Rangel recalled that President Chavez is not the only one who visits those "strange countries."	Rangel	Venezuela's friends
+Rangel-4	friends,"-3	-nn
+Our position is clear, we support no Latin American guerrilla group, much less the Colombian guerrilla groups, and what we want is for peace to prevail in that country."	we	peace to prevail
+we-5	prevail-26	-nsubj-conj-dobj-nsubj-xcomp
+"We invite the people of Caracas to go into the streets en masse and defend and support President Hugo Chavez and the revolutionary process," Maduro said, flanked by other MVR deputies.	the people of Caracas	revolutionary process
+people-4	revolutionary-23	-dobj-conj-dobj-conj-amod
+"We invite the people of Caracas to go into the streets en masse and defend and support President Hugo Chavez and the revolutionary process," Maduro said, flanked by other MVR deputies.	the people of Caracas	go into the streets en masse and defend and support
+people-4	go-8	-dobj-vmod
+"The president must go, he should resign, and before he does so, he should organize elections so that he leaves the country with a democracy, in the hands of a civilian," Soto boldly proclaimed at the "pro-freedom" forum.	Soto	democracy
+Soto-32	democracy,-25	-pobj-prep-pobj-prep
+In another step to heal festering wounds, Karzai on Saturday pardoned 350 captured Taliban soldiers, saying they were "innocent" and part of a general amnesty that allowed foot-soldiers to go free.	Karzai	innocent
+Karzai-8	"innocent"-19	-dobj-xcomp-vmod-pobj-prep-nsubj-vmod-dep-ccomp
+"Significant results have already been achieved," said the final communique of finance ministers of Britain, Canada, France, Germany, Italy, Japan and the United States.	finance ministers of Britain, Canada, France, Germany, Italy, Japan and the United States	Significant results
+ministers-13	results-2	-pobj-prep-dobj-ccomp-nsubj
+There is no doubt whatsoever that the Palestinian people welcome and support the new European initiative because it is bold and fair and seeks to revive the peace process on realistic and just bases.	the Palestinian people	bold and fair
+people-9	bold-20	-nsubj-dobj-rcmod
+But Daschle also saw the three countries as threats to the United States, saying that Bush was "right in calling attention to the danger they pose to the United States."	Daschle	right
+Daschle-2	"right-18	-nsubj-prep-pobj-vmod-ccomp
+"The release was due to tremendous efforts by the citizens who benefit from the company's services," the company said in a statement received by AFP, without elaborating further.	the company	tremendous efforts
+the-14	efforts-7	-det-pobj-prep-nsubj-ref-pobj-prep-prep-pobj
+Washington had guaranteed Taipei that it would not dilute its backing for the island in return for better relations with Beijing, Taiwan's foreign ministry spokeswoman Chang Siao-yueh told AFP.	its	would not dilute its backing
+its-10	backing-11	-poss
+"He made it clear that relations between Taipei and Washington are getting better," said Joseph Wu, deputy director of National Chengchi University's Institute of International Relations.	He	are getting better
+"He-1	getting-12	-advmod-dep
+"He made it clear that relations between Taipei and Washington are getting better," said Joseph Wu, deputy director of National Chengchi University's Institute of International Relations.	He	getting better
+"He-1	getting-12	-advmod-dep
+"People who love freedom understand that we cannot allow nations that aren't transparent, nations with a terrible history, nations that are so dictatorial they're willing to starve their people, we can't allow them to mate up with terrorist organizations," Bush said.	Bush	People who love freedom
+Bush-40	"People-1	-nn-pobj-prep-nsubj-dobj-xcomp-rcmod-dobj-xcomp-acomp-ccomp-xcomp-ccomp-ccomp
+"We want to resolve all issues peacefully, whether it be Iraq, Iran or North Korea," Bush said, speaking next to Japanese Prime Minister Junichiro Koizumi.	Bush	resolve all issues peacefully
+Bush-16	resolve-4	-nn-nsubj-dep-ccomp
+"We also hope that Iraq gives a favourable response and allows UN weapon inspectors" to return to the country, he added.	We	favourable
+"We-1	favourable-8	-nsubj-ccomp-dobj-amod
+"We've made no secret of the fact that we think that the world will be much safer when the Iraqi people have a regime that they deserve instead of the regime that they have," National Security Adviser Condoleezza Rice told CBS television.	we	the world will be much safer
+we-9	safer-17	-nsubj-ccomp
+"We've made no secret of the fact that we think that the world will be much safer when the Iraqi people have a regime that they deserve instead of the regime that they have," National Security Adviser Condoleezza Rice told CBS television.	we	regime that they deserve
+we-9	deserve-27	-nsubj-ccomp-ccomp
+"We hope that the issue would be solved through peaceful means, with initiatives from the UN secretary general and a more active role by the UN," Foreign Minister Kamal Kharazi told a news conference.	We	would be solved through peaceful means
+"We-1	solved-8	-nsubj-ccomp
+"They understand that our commitment is not just in Afghanistan, that history has given us a unique opportunity to defend freedom," he added.	he	history has given us a unique opportunity to defend freedom
+"They-1	given-14	-advmod-dep
+Chien said he appreciated statements made by Bush prior to his departure that Taiwan is a friend of the United States and that the Taiwan Strait issue should be resolved peacefully.	he	peacefully
+he-3	peacefully.-31	-nsubj-ccomp-ccomp-conj-dobj
+Chien said he appreciated statements made by Bush prior to his departure that Taiwan is a friend of the United States and that the Taiwan Strait issue should be resolved peacefully.	he	a friend
+he-3	friend-17	-nsubj-ccomp-ccomp
+"The task force is working around the clock to monitor Bush's visit to Japan, south Korea and mainland China," he added.	he	working around the clock
+"The-1	working-5	-amod-nsubj
+"Bush hopes to take advantage of his trip to forge a consensus with U.S. allies in the Asia-Pacific area on his administration's fight against terrorism and the proliferation of nuclear weapons.	Bush	take advantage
+"Bush-1	take-4	-advmod-xcomp
+"The United States has more than once briefed us on the main purposes of Bush's Asia tour before his departure and repeatedly guaranteed that Taiwan's interests won't be sacrificed during Bush's trip," Chien told a news conference.	Chien	won't be sacrificed
+Chien-33	sacrificed-29	-pobj-prep
+"I believe the comments on the 'axis of evil' reflect the firm resolve of President Bush and the United States against terrorism.	I	reflect the firm resolve
+"I-1	reflect-10	-nsubj-ccomp
+Secretary-General of the Presidential Office Chen Shih-meng said the U. S. has repeatedly assured Taiwan that Bush will stick to his commitments to help protect Taiwan and he will not do or say anything that could damage Taiwan's interests while visiting mainland China.	the U. S	will not do or say anything that could damage
+S.-11	do-31	-nsubj-ccomp-conj
+Meanwhile, Chang Shiao-yue, spokeswoman for the Ministry of Foreign Affairs, reiterated that the United States had briefed Taiwan on Bush's mainland visit before his departure and made it clear that the trip would not hurt Taiwan's interests.	Taiwan	would not hurt Taiwan's interests
+Taiwan-18	hurt-35	-dobj-ccomp
+"In my meeting with President Bush, I have elaborated on the Chinese government's basic position of peaceful reunification and 'one country two systems' for the solution of the Taiwan question."	I	peaceful reunification and 'one country two systems
+"In-1	systems'-23	-nsubj
+"We believe in the peaceful settlement of this issue."	We	peaceful settlement
+"We-1	settlement-6	-nsubj-prep-pobj
+Chien voiced his gratitude to Bush for "having honored his commitment" he pledged to Taipei before his Asian trip, which also took him to Japan and South Korea.	his	honored his commitment
+his-3	honored-9	-poss-dobj-prep-pcomp-vmod
+"We believe in the peaceful settlement of this issue."	We	peaceful settlement
+"We-1	settlement-6	-nsubj-prep-pobj
+Both the Chinese and US sides hold that the visit has achieved positive and successful results.	the Chinese and US sides	the visit has achieved positive and successful results
+Chinese-3	achieved-12	-nsubj-ccomp
+On 22 February, in a speech at Tsinghua University, Bush again stated that "it is very hard for me to use words to describe the earth-shaking changes in China."	Bush	the earth-shaking changes
+Bush-10	changes-27	-vmod-ccomp-nsubj-nsubj-dobj-nsubj-dobj
+In addition, during his stay in China, Bush expressed "admiration" and "surprise" on several occasions regarding the development and changes in China in recent years and on China's tremendous development potential.	Bush	China's tremendous development potential
+Bush-8	potential.-31	-pobj-prep-pobj-prep-pcomp-prep-nsubj-prep-pobj-prep-pobj-prep-conj-pobj
+Thirty years later, the United States now considers itself the world's sole superpower.	the United States	the world's sole superpower
+States-6	superpower.-13	-nsubj-xcomp
+This displayed intentions of both the United States and China to make Bush's China visit a "new milestone" for the two countries' relations based on the trust built by Nixon's visit (as US Ambassador to China Clark Randt cited).	the United States and China	new milestone
+States-8	milestone"-18	-pobj-prep-dobj-vmod-ccomp-dobj
+The saying goes: "I'm an American and I'm damned proud of it."	I	I'm an American and I'm damned proud of it
+"I'm-4	proud-10	-xcomp
+According to Fernando Henrique, President Eduardo Duhalde has "quite a sharp insight" into the scope of the crisis.	Fernando Henrique	has "quite a sharp insight
+Fernando-3	"quite-9	-nn-rcmod
+"The United States believes that targeted travel restrictions against those who are responsible for Zimbabwe's crisis will advance positive change by signalling our support for the democratic forces in Zimbabwe and focusing international scrutiny on the appropriate actors," the US embassy said.	the US embassy	will advance positive change
+the-39	advance-18	-det-nsubj-ccomp-ccomp
+The Commissioner also stated that she was grateful for the strong support received from the European Parliament to secure timely EU ratification, and pleased with the confirmation by the candidate countries that they are on track to ratify.	she	timely
+she-6	timely-20	-nsubj-prep-pobj-vmod-xcomp-dobj-amod
+On the other hand, the report described South Korea as "generally respecting the human rights of its citizens" although problems remain in some areas.	the report	generally respecting the human rights of its citizens
+report-6	respecting-12	-nsubj-prep-pcomp
+The constitutional provisions for an independent judiciary and fair trials are not implemented in practice," the report said.	the report	fair
+the-16	fair-9	-det-dobj-pcomp-prep-nsubjpass-prep-pobj-conj-amod
+The constitutional provisions for an independent judiciary and fair trials are not implemented in practice," the report said.	the report	independent
+the-16	independent-6	-det-dobj-pcomp-prep-nsubjpass-prep-pobj-amod
+Meanwhile, the report called Afghanistan "a triumph for human rights in 2001," saying that after the U.S.-led war on terrorism, Afghan citizens have been released from the brutal and oppressive rule of the Taliban and Afghan women, who suffered violence and repression, are now beginning to resume their roles in society.	the report	triumph for human rights
+report-3	triumph-7	-vmod-dobj
+"President Jiang and President Bush held an important meeting in Shanghai in October where they agreed that both countries would work together to build a constructive and cooperative relationship.	they	constructive and cooperative relationship
+they-15	relationship.-29	-nsubj-ccomp-nsubj-nsubj-dobj
+"We are ready to work together with the US side to narrow differences, expand common ground, increase exchanges and promote cooperation in order to further push forward the constructive and cooperative ties," Foreign Minister Tang Jiaxuan told journalists.	Foreign Minister Tang Jiaxuan	further push forward
+Jiaxuan-36	push-26	-nsubj-dep
+"We are ready to work together with the US side to narrow differences, expand common ground, increase exchanges and promote cooperation in order to further push forward the constructive and cooperative ties," Foreign Minister Tang Jiaxuan told journalists.	Foreign Minister Tang Jiaxuan	constructive and cooperative ties
+Jiaxuan-36	ties,"-32	-nsubj-dep-dobj
+Madrid, 10 March: The government, the current holder of the rotating EU presidency, thinks that it is not appropriate to make further representations to the USA about the situation of the Taliban prisoners held at the Guantanamo base since it holds that the treatment they are receiving is "humane and reasonable".	it	humane and reasonable
+it-16	"humane-49	-nsubj-mark-ref-rcmod-ccomp-advcl-ccomp
+But he has described Osama bin Laden, the alleged mastermind of the September 11 attacks on the US, as "a true Muslim fighter".	he	a true Muslim fighter
+he-2	fighter".-23	-nsubj-dobj-vmod-prep-pobj
+"We do not have to reply, but we have been replying for years, because we believe in our good [human rights] record and feel that we have nothing to hide," Bawab said.	we	in our good [human rights] record
+we-8	in-17	-nsubj-ccomp-nsubj-nsubj-advcl-prep
+"We do not have to reply, but we have been replying for years, because we believe in our good [human rights] record and feel that we have nothing to hide," Bawab said.	we	we have nothing to hide
+we-8	have-27	-nsubj-ccomp-nsubj-nsubj-conj-ccomp
+As awareness increases and public institutions start addressing issues that were taboos only a few years ago, additional pressure is on the authors of human rights reports to be more accurate, Kilani noted.	Kilani	As awareness increases
+Kilani-32	As-1	-nn-nsubj-dep-advcl-mark
+According to human rights activist Saeda Kilani, reports by the State Department and other international watchdogs are no longer received with "shock" by public opinion and officialdom alike, thanks to increased public awareness and access to information.	public	thanks to increased public awareness and access to information
+public-24	thanks-29	-amod-pobj-prep-conj-dep-nsubj
+"Now more people will be able to judge if a report is not so well sourced, or thoroughly investigated," she said.	she	Now more people will be able to judge
+she-20	judge-8	-nsubj-ccomp-conj-advcl
+In a rally held in Syria, activists emphasized that "we will continue to strengthen our solidarity with the Korean people and always stand with them in the same trench steadfastly."	our	continue to strengthen
+our-15	strengthen-14	-poss-dobj
+In a rally held in Syria, activists emphasized that "we will continue to strengthen our solidarity with the Korean people and always stand with them in the same trench steadfastly."	our	stand with them in the same trench steadfastly
+our-15	stand-23	-poss-dobj-conj
+They make this request "convinced of the Russian Federation's resolute commitment to the Kyoto Protocol" and believing that in this manner the EU and Russia would continue to show the "leadership" which they believe they have shared "with such fruitful results, in international cooperation in the fight against climate change".	they	such fruitful results
+they-33	results,-41	-nsubj-dobj-ref-rcmod-ccomp-dobj
+The issue of good housing and similar services is also a top priority of the government," Mugabe said in a recent rally held in the capital Harare, the biggest political fortress for the MDC party.	Mugabe	a top priority
+Mugabe-17	priority-13	-pobj-prep
+My fist carries a force, which can make one tumble and roll over 77 times," Mugabe boasted in a recent rally.	Mugabe	can make one tumble and roll over 77 times
+Mugabe-16	roll-12	-dobj
+My fist carries a force, which can make one tumble and roll over 77 times," Mugabe boasted in a recent rally.	Mugabe	My fist carries a force
+Mugabe-16	force,-5	-dobj-conj-rcmod
+"We want to come up with policies that will result in the creation of more jobs for the youths and those leaving school and colleges.	We	that will result in the creation of more jobs
+"We-1	that-8	-nsubj-xcomp-prep-pobj-ref
+After defending his "crown" to his last-ditch efforts, the veteran statesman, who bragged him a "young old man" with abundant reserves of energy to continue ruling Zimbabwe, has finally won the political boxing match against Tsvangirai, a more youthful opponent, who celebrated his 50th birthday on Sunday.	the veteran statesman	abundant reserves of energy
+statesman,-11	reserves-21	-dobj-nsubj-prep-pobj
+After defending his "crown" to his last-ditch efforts, the veteran statesman, who bragged him a "young old man" with abundant reserves of energy to continue ruling Zimbabwe, has finally won the political boxing match against Tsvangirai, a more youthful opponent, who celebrated his 50th birthday on Sunday.	the veteran statesman	young old man
+statesman,-11	man"-18	-dobj-nsubj
+"People in the rural areas support the ruling party because our party has been genuine on its policy on land reform.	our party	our party has been genuine
+party-12	our-11	-poss
+During Mugabe's 22-year-rule, the country used to boast of having a good education system and a good health system, which was to some extent affected by the lackluster economy.	the country	good education system
+country-5	system-14	-nsubj-xcomp-prep-pcomp-dobj
+During Mugabe's 22-year-rule, the country used to boast of having a good education system and a good health system, which was to some extent affected by the lackluster economy.	the country	good health system
+country-5	system,-19	-nsubj-xcomp-prep-pcomp-dobj-conj
+Despite the economic hardships and food shortages currently experienced by Zimbabweans, analysts said there are other major achievements Mugabe's government is credited for.	analysts	other major achievements
+analysts-12	achievements-18	-pobj-prep-vmod-pobj-prep-nsubj
+Kenyan President Daniel arap Moi congratulated Mugabe on his reelection, saying his victory and that of his ZANU-PF party was " testimony of the confidence and high esteem the people of Zimbabwe hold in you".	the people of Zimbabwe	testimony of the confidence and high esteem
+people-30	testimony-22	-nsubj-rcmod
+"On the basis of observations made during the voting, verification and counting process on the ground and objective realities, the OAU observer team wishes to state that in general the elections were transparent, credible, free and fair," the team's leader Gertrude Mongella said.	the OAU observer team	transparent, credible, free and fair
+team-23	credible,-34	-nsubj-dep-ccomp
+Within the 14-nation Southern African Development Community (SADC), a team from the SADC Council of Ministers considered that the vote in Zimbabwe was a "true reflection" of the people's will.	people	true reflection
+people's-29	reflection"-26	-amod-pobj-prep
+"The people of Zimbabwe have re-elected you because you have been same (consistent) in defending their inalienable rights to their country's freedom, democratic and sovereign government," Mkapa said.	Mkapa	have been same (consistent)
+Mkapa-27	(consistent)-13	-nn-nsubj-dep-advcl
+"I am pleased to send my warm congratulations on the renewed and the deserved presidential mandate the people of Zimbabwe have given you," Mkapa said.	I	deserved
+"I-1	deserved-14	-advmod-xcomp-prep-pobj-conj-amod
+Since then, the United States has been raising artificial slogans of preservation of democracy and human rights and developing standards of living.	the United States	preservation of democracy and human rights
+States-5	preservation-12	-nsubj-dobj-prep-pobj
+In its 9 February editorial entitled "the World of Good and Evil," the influential newspaper Financial Times of the United Kingdom stressed that the United States should listen to the friendly countries' criticism of Bush's remarks calling the DPRK, Iran, and Iraq an axis of evil.	Bush's	friendly
+Bush's-35	friendly-31	-nn-pobj-prep-rcmod-ccomp-prep-pobj-amod
+Kenyan President Daniel arap Moi congratulated President Mugabe, saying his victory was "testimony of the confidence and high esteem the people of Zimbabwe hold you in".	the people of Zimbabwe	testimony of
+people-21	"testimony-13	-nsubj-rcmod
+As events unfold in Zimbabwe and the will of the people is realised with the election of Cde Mugabe, a senior State Department official said Washington was now expected to freeze any assets held by President Mugabe and his close associates in the United States.	the people	the will of the people is realised
+people-11	of-9	-pobj
+But the Sadc Ministerial Task Force said the election was free and fair.	the Sadc Ministerial Task Force	free and fair
+Force-6	free-11	-nsubj-ccomp
+The team met President Mugabe at Zimbabwe House where it briefed him of its opinion that the presidential election was substantially free and fair, despite a view to the contrary by the West.	the West	substantially free and fair
+West.-33	free-22	-pobj-prep
+Despite these negative reports, most observer groups have declared the election free and fair.	most observer groups	free and fair
+groups-7	free-12	-nsubj-dobj-amod
+We didn't come to vote and the results of the election were the true will of the Zimbabwean people.	the Zimbabwean people	true
+people.-19	true-14	-pobj-prep-amod
+President Thabo Mbeki and the South African government had adopted a serious, calm and forward-looking approach to Zimbabwe, a government statement said on Thursday night.	a government	serious, calm and forward-looking
+government-8	serious,-12	-conj-nsubj-dobj-amod
+Zuma also pledged continued support for Zimbabwe and its people, she said.	she	continued support
+she-11	support-5	-nsubj-rcmod-conj
+The South African government had taken note of the reports from various observer missions, including the Commonwealth, which had also urged "all Zimbabweans to put aside their differences and to work together for the future of the country", the statement said.	various observer missions	work together for the future
+missions,-14	work-31	-prep-pobj-ref-nsubj-dep-conj
+However, instead of withdrawing from the Arab land they occupy by force, the wily Israeli aggressors, dreaming of the creation of a "great Israeli empire," are scheming to make it their land permanently.	Israeli aggressors	great Israeli empire
+Israeli-15	empire,"-25	-amod-prep-pobj-prep-pobj
+Many African leaders have supported Mugabe's re-election victory in Zimbabwe's crucial election, which they said was " transparent, credible, free and fair".	they	transparent, credible, free and fair
+they-14	credible,-19	-nsubj-ccomp
+At the State House, where the ceremony was held, thousands of ZANU-PF supporters in clothing emblazoned with Mugabe's portrait, were singing and dancing to celebrate his victory, with a hope that Mugabe will finally deliver on his promises to give them the land currently owned by the country's white minority.	his	will finally deliver on his promises
+his-26	deliver-35	-poss-dobj-ccomp
+There are areas where we must work together because we have a common destiny," said Mugabe.	Mugabe	work together
+Mugabe.-16	work-7	-nsubj-dep-nsubj-rcmod
+There are areas where we must work together because we have a common destiny," said Mugabe.	Mugabe	we have a common destiny
+Mugabe.-16	have-11	-nsubj-dep-nsubj-rcmod-advcl
+"I, Robert Gabriel Mugabe do swear that I will be faithful to the laws of the Republic of Zimbabwe, so help me God," said Mugabe who was flanked by first lady Grace.	I	so help me God
+"I,-1	so-20	-nn-nsubj-ccomp-advcl-mark
+"We want to make sure that blacks play a meaningful role in the economy, and we will do that through the land reforms," said Mugabe.	Mugabe	play a meaningful role
+Mugabe.-25	play-8	-nsubj-dep-nsubj-nsubj-ccomp
+Africa is for Africans," said Mugabe.	Mugabe	Africa is for Africans
+Mugabe.-6	is-2	-dobj-advcl
+According to the Minister, Mercosur managed, after an "enormous technical effort,' something that did not exist in the region two years ago - the harmonization of the statistics of the member countries, Bolivia and Chile, which were not comparable before.	the Minister	enormous
+the-3	"enormous-9	-det-pobj-pcomp-prep-prep-pobj
+In Argentina's defense, Malan says that Brazil's Mercosur partner "has sought to define with clarity the fundamental issues of its basic regimes - foreign exchange (floating exchange rate regime), monetary (they intend, after phase of transition, to define their inflation goal system, which was important to Spain from 1995-1998) and fiscal."	Malan	In Argentina's defense
+Malan-4	In-1	-pobj
+But Caruana said that the banks "did their homework" and made provisions for their investments in Argentina.	Caruana	did their homework
+Caruana-2	"did-7	-nsubj-ccomp
+The Finance Minister says he hopes, for Mercosur, something similar to what happened in the EU: "an ability to look decades ahead and not let oneself get beaten down, like in some countries that dedicate themselves to lamenting, that see the difficulties as being insurmountable, and the problems as being unsolvable."	he	an ability to look decades ahead and not let oneself get beaten down
+The-1	look-20	-det-nsubj-xcomp-prep-pobj-xcomp
+The sources said the formation of a coalition government being pushed by Mbeki and Obasanjo was the most ideal way to stave off international isolation of Zimbabwe but has been received with mixed feelings by the governing party.	Mbeki and Obasanjo	the most ideal way
+Mbeki-13	way-20	-pobj-prep-vmod-pobj-prep-nsubj
+On Thursday the summit adopted a resolution that proposed the recognition of the Jewish state, normal relations, and an end to the conflict in return for Israeli withdrawal from the Palestinian territories that Israel has occupied for almost 35 years.	summit	normal relations
+summit-4	relations,-17	-nsubj-dobj-ref-nsubj-dobj-prep-pobj
+Arafat, as leader of the Palestinian people and one of the initiators of peace talks between Israel and Palestine, has made great efforts to push forward the Middle East peace process, Tang said, stressing that disastrous consequences would happen to the Middle East region if unexpected incidents took place to Arafat's safety.	Tang	great efforts to push forward
+Tang-32	efforts-23	-nn-nsubj-dep-dobj
+The pressing matter of the moment is that Israel and Palestine should both exercise maximum restraint and adopt concrete measures to stop the conflict immediately and create conditions for resumption of the peace talks, Tang said.	Tang	exercise maximum restraint 
+Tang-35	exercise-14	-nn-pobj-prep-pobj-prep-conj-vmod-conj
+Expressing concern over dwindling moral values in the society, the Chief Minister said that youngsters must get inspiration from their glorious past and respect their parents and teachers.	the Chief Minister	respect their parents and teachers
+Minister-12	respect-24	-nsubj-rcmod-ref-mark-conj
+Expressing concern over dwindling moral values in the society, the Chief Minister said that youngsters must get inspiration from their glorious past and respect their parents and teachers.	the Chief Minister	glorious past
+Minister-12	past-22	-nsubj-rcmod-ref-mark-prep-pobj
+'For their sustenance and survival, Pak generals have been throttling the voice of Pakistanis who wish to live in friendship and cordiality with their neighbours', the Chief Minister said while addressing a function organised by United Public High School at Channi Himat here this afternoon.	Pakistanis	to live in friendship and cordiality
+Pakistanis-14	live-18	-pobj-prep-ref-nsubj
+Leon added that the opposition has viewed the PDVSA conflict as "the perfect lifesaver for reviving civilian social pressure for Chavez' ouster from power, this following a cooling" of such pressure in recent days.	the opposition	perfect lifesaver
+opposition-5	lifesaver-14	-nsubj-prep-pobj
+In direct response, the Americans, who preach democracy to the entire planet, recognizing that they could no longer tolerate someone like Chavez reverted to their old bullying and dictatorial tactics and arranged for an army coup by several avowed pro-American generals, who managed to remove Chavez from power in a few short hours.	generals	pro-American
+generals,-41	pro-American-40	-amod
+As a friend of Venezuela, China hoped to further strengthen friendship and cooperation with the country, Zhang said.	China	friendship and cooperation
+China-6	friendship-11	-vmod-xcomp-dobj
+Most importantly, however, these criminals will have the largest illusion if they imagine that they have succeeded in liquidating the intifadah and destroying its infrastructure after having succeeded in liquidating or arresting a small or large number of the intifadah's leaders and strugglers	they	have succeeded in liquidating
+they-12	succeeded-17	-nsubj-ccomp
+Most importantly, however, these criminals will have the largest illusion if they imagine that they have succeeded in liquidating the intifadah and destroying its infrastructure after having succeeded in liquidating or arresting a small or large number of the intifadah's leaders and strugglers	they	destroying
+they-12	destroying-23	-nsubj-ccomp-prep-pcomp-conj
+It is thus an illusion for these criminal administrations to imagine that they have triumphed and that they are now in a position to dictate their own conditions on this great people.	these criminal administrations	have triumphed
+administrations-9	triumphed-15	-pobj-prep-vmod-ccomp
+The conclusion to which we come is that the Zionist and US administrations have aggravated the Zionist entity's historical impasse through the crime they have committed together when they had the illusion that "force" can break the Palestinian people's will and impose on this people what other means failed to impose.	they	failed to impose
+they-24	failed-49	-nsubj-advcl-ccomp-conj-prep-pobj-rcmod
+"There is no international problem, but rather a manipulation of the subject domestically; and once again I want to ask the FMLN that it does not cause damage to this country.	I	no international problem
+I-17	problem,-5	-nsubj-dep
+Flores maintained that "this is a position that is not unique to El Salvador; it is the position of all the European countries, it is the position of the United States; this is in our view totally reasonable when so little information is available."	our	totally reasonable
+our-35	reasonable-38	-poss-pobj-prep
+He added "we understood that if there were a civilian who had committed himself to call for elections he should receive a vote of confidence."	we	he should receive a vote of confidence
+"we-3	receive-21	-nsubj-ccomp
+He believes that "in any negotiation there may be someone who tries to impose conditions by cheating" and said that in the case of Argentina, "the cheaters were the IMF," who "praised the policies (of the last decade) and held them up as an example" and now "they cannot tell us that they did not know what was going on."	they	the cheaters were the IMF
+"they-48	IMF,"-30	-advmod-conj
+Regarding the draft law from the executive branch on swapping bonds for fixed-term deposits, he believes that if the Senate "debates and approves it today" the deputies can "debate the issue tomorrow and pass it, so that on Wednesday [24 April] the financial system would be open."	he	so that
+Regarding-1	so-36	-prep-pcomp-dobj-rcmod-ccomp-ccomp-conj-advcl-advmod
+Unlike the STD [subscriber trunk dialing] services where a further rate cut may not be feasible, in the international services there is scope for more improvement," he said.	he	scope for more improvement
+Unlike-1	scope-23	-prep-nsubj
+"I remember when the late prime minister Yitzhaq Rabin did away with the discrimination that had existed for years and equalized child benefits regardless of whether parents had served in the army or not," Zaydan said.	Zaydan	did away with the discrimination that had existed for years
+Zaydan-35	did-10	-nn-conj-pobj-prep-pcomp-prep-advmod-conj
+"We applauded this move because it was not only just, but it made us begin to feel that we, as Arabs, were an integral part of Israeli society.	We	not only just
+"We-1	just,-10	-nsubj-advcl
+"We applauded this move because it was not only just, but it made us begin to feel that we, as Arabs, were an integral part of Israeli society.	We	integral
+"We-1	integral-24	-nsubj-advcl-ccomp-ccomp-nsubj-nsubj-ccomp-amod
+South Africans should be looking up smiling when he returns, Shuttleworth replied.	Shuttleworth	should be looking up smiling
+Shuttleworth-11	smiling-7	-nn-dobj-advcl
+Speaking via a live satellite link from Bloemfontein, the president praised the so-called "Afronaut" for his contribution to science and Africa's renaissance.	the president	for his contribution to science and Africa's renaissance
+president-10	for-15	-nsubj-prep
+"I have had moments of terror and moments of sheer exhilaration," he proclaimed.	he	moments of sheer exhilaration
+of-9	exhilaration,"-11	-pobj
+I cannot imagine anything as beautiful as that." The 28-year-old Internet millionaire said he was sleeping comfortably, and the food was not too bad either.	The 28-year-old Internet millionaire	not too bad either
+millionaire-12	bad-24	-nsubj-conj
+I cannot imagine anything as beautiful as that." The 28-year-old Internet millionaire said he was sleeping comfortably, and the food was not too bad either.	The 28-year-old Internet millionaire	cannot imagine anything as beautiful as that
+millionaire-12	that."-8	-nsubj-dep
+I cannot imagine anything as beautiful as that." The 28-year-old Internet millionaire said he was sleeping comfortably, and the food was not too bad either.	The 28-year-old Internet millionaire	comfortably
+millionaire-12	comfortably,-17	-nsubj-ccomp-dobj
+The president then toasted Shuttleworth with a glass of champagne, saying: "I am sure this will go down in our history as one of those moments where we made quite a leap forward."	I	quite a leap forward
+"I-12	forward."-33	-pobj-prep-pobj-prep-nsubj-ccomp-advcl-dobj
+I am sure the American food will be just as good," Shuttleworth told the president.	Shuttleworth	will be just as good
+Shuttleworth-12	good,"-11	-nn
+His training in Russia combined with his knowledge of American techniques will put him at an advantage if the role of station commander should open up in the future, he said before his training started.	he	put him at an advantage
+if-18	put-13	-mark-advcl
+Instead of resorting to such measures, the commissioner said the NGOs should work with Suhakam for the advancement of human rights in this country.	the commissioner	should work
+commissioner-8	work-13	-nsubj-ccomp
+"Our concern is whether persons used to the role of policy implementors can objectively assess and critique executive policies which impinge on human rights," said Ramdas.	Our	objectively
+"Our-1	objectively-14	-nn-nsubj-ccomp-advmod
+"We are now looking at Suhakam as an institution to fulfill this promise," he stressed.	We	to fulfill this promise
+"We-1	fulfill-11	-nsubj-prep-pobj-vmod
+The calls in Washington for democracy, transparency, and corruption-free system are only made to serve US plans, not out of concern about nations' interests.	Washington	democracy, transparency, and corruption-free system
+Washington-4	transparency,-7	-prep-pobj
+Even the most radical Israeli hardliners expressed the idea of the transfer more politely than the most senior, elected US bodies, which called on the Palestinians to give up the West Bank and look for what they called another homeland.	they	give up
+they-37	give-28	-nsubj-pcomp-prep-conj
+The flagrant attack, which Condoleezza Rice launched on the Palestinian leadership yesterday, demonstrates how international dictatorship is practiced by the most powerful country on earth, which claims to be democratic and an advocate of nations' right to choose their leaders.	the most powerful country on earth	an advocate of nations' right to choose their leaders
+country-23	advocate-33	-pobj-prep-ccomp-dobj-ref-conj
+The flagrant attack, which Condoleezza Rice launched on the Palestinian leadership yesterday, demonstrates how international dictatorship is practiced by the most powerful country on earth, which claims to be democratic and an advocate of nations' right to choose their leaders.	the most powerful country on earth	democratic
+earth,-25	democratic-30	-ref-nsubj
+In countries such as China and India where AIDS was still at an early phase of the AIDS pandemic, timely control measures were critical to head off an explosive growth in infection, but these demanded heavy expenditure, he said.	he	timely
+where-8	timely-20	-advmod-advcl-nsubj-amod
+In countries such as China and India where AIDS was still at an early phase of the AIDS pandemic, timely control measures were critical to head off an explosive growth in infection, but these demanded heavy expenditure, he said.	he	 head off an explosive growth
+where-8	critical-24	-advmod-advcl
+The government should take urgent measures to prevent and cure HIV and AIDS, he said.	he	should take urgent measures
+The-1	take-4	-det-nsubj
+Talks between China and the Association of Southeast Asian  Nations (ASEAN) about a free trade area went smoothly, senior  officials said yesterday.	senior  officials	smoothly
+officials-22	smoothly,-19	-amod
+But the official declined to disclose details about their  two-day negotiations, saying these are just working level talks  and more substantial progress will be made at the China and  ASEAN economic ministers' meeting in September.	the official	more substantial progress
+official-3	progress-24	-nsubj-xcomp-prep-pobj-vmod-dep-conj-nsubjpass
+Chinese and ASEAN officials said the decision by Chinese and  ASEAN leaders to establish a free trade area is a "historic  milestone in economic co-operation between China and ASEAN" and  "demonstrates strong commitments by China-ASEAN leaders to  regional integration and economic globalization as they pursue  peace and stability and prosperity in the region."	Chinese and  ASEAN leaders	historic  milestone
+leaders-13	milestone-24	-pobj-prep-vmod-ccomp
+Chinese and ASEAN officials said the decision by Chinese and  ASEAN leaders to establish a free trade area is a "historic  milestone in economic co-operation between China and ASEAN" and  "demonstrates strong commitments by China-ASEAN leaders to  regional integration and economic globalization as they pursue  peace and stability and prosperity in the region."	Chinese and  ASEAN leaders	peace and stability and prosperity
+leaders-13	peace-51	-pobj-prep-conj-vmod-advcl-dobj
+Chinese and ASEAN officials said the decision by Chinese and  ASEAN leaders to establish a free trade area is a "historic  milestone in economic co-operation between China and ASEAN" and  "demonstrates strong commitments by China-ASEAN leaders to  regional integration and economic globalization as they pursue  peace and stability and prosperity in the region."	Chinese and  ASEAN leaders	demonstrates strong commitments
+leaders-13	"demonstrates-34	-pobj-prep-conj
+"What we have done all along is (said) that they are being  treated humanely in accordance with the Geneva Convention,"  Clarke told reporters.	we	humanely
+we-2	humanely-15	-nsubj-advmod-dep-ccomp-advmod
+"If restraints are necessary, they must be applied humanely,  with adequate opportunity for the prisoner to move limbs, use  the bathroom and eat and drink," the group said in a statement.	group	adequate
+group-29	adequate-12	-dobj-conj-vmod-nsubj-advcl-dobj-prep-pobj-amod
+"If restraints are necessary, they must be applied humanely,  with adequate opportunity for the prisoner to move limbs, use  the bathroom and eat and drink," the group said in a statement.	group	humanely
+group-29	humanely,-9	-dobj-conj-vmod-nsubj-advcl-dobj-nn
+"I don't believe that it is going to affect our transfer  of detainees because, quite simply, we have adequate security  for that."	I	adequate
+"I-1	adequate-20	-amod-nsubj-ccomp-nsubj-nsubj-xcomp-ccomp-dobj-amod
+Asked if he would accept the results of the hotly contested  election, Mugabe said: "I will accept it, more than accept it  because I will have won."	he	I will have won
+he-3	won."-29	-nsubj-advcl-nsubj-rcmod-advcl
+The latest move, a sign that the United States is stiffening in  its attitude toward the pact, will likely draw the ire of other  countries, including those in the European Union as well as  Japan, which want an early implentation of the Kyoto protocol.	other  countries	early
+countries,-27	early-42	-pobj-prep-conj-ref-nsubj-dobj-amod
+None has yet been charged with a crime, but Washington has  maintained that the prisoners are being treated humanely.	Washington	humanely
+Washington-10	humanely.-20	-nsubj-ccomp-dobj
+"It will not change their material life on a day-to-day basis:  they will continue to be treated well because that's what the  United States does," said Fleischer, who noted neither group  would be granted prisoner of war status.	Fleischer	treated well
+Fleischer,-29	treated-18	-dobj-dep-dep-xcomp
+"It is our considered view that the election was free and fair  and reflects the wishes of the people of Zimbabwe," Namibia's  observer team said in a statement, adding that the poll was  "watertight, without room for rigging".	the people of Zimbabwe	watertight
+people-20	"watertight,-37	-pobj-prep-nsubj-xcomp-ccomp
+"It is our considered view that the election was free and fair  and reflects the wishes of the people of Zimbabwe," Namibia's  observer team said in a statement, adding that the poll was  "watertight, without room for rigging".	the people of Zimbabwe	free and fair
+people-20	free-10	-pobj-prep-nsubj-ccomp-conj-dep-amod
+"It is our considered view that the election was free and fair  and reflects the wishes of the people of Zimbabwe," Namibia's  observer team said in a statement, adding that the poll was  "watertight, without room for rigging".	the people of Zimbabwe	without room for rigging
+people-20	without-38	-pobj-prep-nsubj-xcomp-ccomp-prep
+"The cause of human rights would be better served if all states,  in a spirit of cooperation and understanding address the  problems they face in promoting and protecting human rights," it  said.	it	better served
+spirit-16	served-9	-pobj-prep-nsubj-advcl
+"The cause of human rights would be better served if all states,  in a spirit of cooperation and understanding address the  problems they face in promoting and protecting human rights," it  said.	it	spirit of cooperation and understanding
+a-15	spirit-16	-det
+Recently the system of joint electorates  has been introduced respecting the wishes of the minority  communities, it said.	the minority  communities	respecting
+communities,-18	respecting-11	-vmod
+Amid widespread domestic criticism over curtailment of civil  liberties, US officials laboured to convince a disbelieving  press corps that the exercise was evenhanded.	US officials	evenhanded
+officials-12	evenhanded.-25	-nsubj-xcomp-ccomp
+Can you  point to any kind of tangible things?	you	any kind of tangible things
+you-2	kind-7	-nsubj-prep-pobj
+Craner: Can I talk about tangible advances in particular  countries?	I	tangible advances
+I-3	advances-7	-nsubj-prep-pobj
+Mugabe said the decision to defer the possible suspension until  Commonwealth observers report back on the election was "a  victory against Britain's attempts to introduce a new form of  apartheid" to serve Western interests in developing countries.	Commonwealth observers	victory
+observers-13	victory-22	-nsubj-advcl-vmod-nsubjpass-dobj
+HARARE, Zimbabwe: A defiant President Robert Mugabe said his  party had lost ground to the opposition through complacency, but  would win this weekend's presidential elections anyway, state  radio reported on Tuesday.	A defiant President Robert Mugabe	would win
+Mugabe-7	win-23	-nsubj-rcmod-nsubj
+"This is the world's best chance of dealing with a very serious  threat to it," Prescott told delegates from 65 nations at the  Globe 2002 conference in Vancouver that ended on Friday.	Prescott	world's best chance
+Prescott-17	chance-6	-pobj-prep-pcomp-prep
+This  is, in fact, the fear of all countries, as they feel that  democratic regimes are more restrained and responsible when it  comes to resorting to weapons of mass destruction.	they	more restrained and responsible
+they-12	restrained-20	-nsubj-ccomp
+The most succinct statement of the Bush policy came from  Secretary of State Colin Powell during his Senate confirmation  hearing in January 2001: "We expect and demand a peaceful  settlement, one acceptable to people on both sides of the Taiwan  Strait."	people on both sides of the Taiwan  Strait	peaceful
+sides-40	peaceful-31	-amod
+But I still try to treat them as a patient."	I	as a patient
+I-2	as-8	-nsubj-xcomp-prep
+While she sees the detainees as patients, she allows that  they're not "regular patients."	she	as patients
+she-2	as-6	-nsubj-prep
+As a  chaplain we approach them as a human being.	we	as a human being
+we-5	as-8	-nsubj-prep
+"Watching wildlife can be a lot of fun," says the sign.	the sign	can be a lot of fun
+sign.-11	lot-6	-nsubj-dep
+"The  security here I would consider tighter than death row in a  prison in the United States."	I	tighter than death row
+I-5	tighter-8	-nsubj-dobj
+But observers from South Africa, Namibia and Nigeria all said  Mugabe's re-election was legitimate.	observers from South Africa, Namibia and Nigeria	legitimate
+Namibia-6	legitimate.-15	-rcmod-ccomp
+A deep split appeared between Western nations and African  countries monitoring the vote, who closed ranks behind Mugabe,  calling the election legitimate.	African  countries monitoring the vote	legitimate
+vote,-14	legitimate.-24	-ref-nsubj-prep-pobj-vmod-dobj
+The human rights group Amnesty International voiced concern  about the "cages" used for accommodation, saying they would  "fall below minimum standards for humane treatment".	Amnesty International	humane
+International-6	humane-25	-nsubj-rcmod-nsubj-prep-pobj-prep-pobj-amod
+What we are operating is humane treatment, but we're not  offering comfort'."	we	humane
+we-2	humane-6	-nsubj-ccomp-amod
+The administration's approach, he plans to say, is based "on the  common-sense idea that sustainable economic growth is the key to  environmental progress - because it is growth that provides the  resources for investment in clean technologies," according to an  advance text.	he	common-sense
+The-1	common-sense-13	-det-nsubjpass-ccomp-dobj-amod
+"At least they're coming out with something," the official said.	the official	At least they're coming out with something
+the-8	something,"-7	-det-dobj
+For all its critics say it is ineffective, the Commonwealth has  nonetheless sought to project itself as an arbiter of democratic  legitimacy among often delinquent members.	the Commonwealth	arbiter of democratic  legitimacy
+Commonwealth-10	arbiter-20	-nsubj-xcomp-prep-pobj
+"I believe the economy can be stabilized and grow during a  transition government," said Governor Adolfo Rodr?ez Saa of  San Luis Province, an influential member of the opposition.	I	can be stabilized
+"I-1	stabilized-7	-ccomp-ccomp
+Depositors who worried that the  peso's fixed one-to-one exchange rate with the dollar was about  to be broken by a devaluation, despite Mr. Cavallo's insistence  to the contrary, were withdrawing dollars from bank accounts.	Mr. Cavallo	to the contrary
+Mr.-25	to-29	-nn-pobj-prep-prep
+- Top military leaders say their support of Carmona is  conditional upon his respecting democratic institutions and  allowing Chavez to leave Venezuela freely.	their	respecting
+their-6	respecting-15	-poss-nsubj-prep-pobj-amod
+- Top military leaders say their support of Carmona is  conditional upon his respecting democratic institutions and  allowing Chavez to leave Venezuela freely.	their	freely
+their-6	freely.-25	-poss-nsubj-xcomp-dobj-nsubj-dobj
+"Today more than  ever we also owe those in uniform the resources they need to  maintain a very high state of readiness," Mr. Bush said.	Mr. Bush	we also owe those in uniform the resources they need to  maintain a very high state of readiness
+Mr.-25	of-23	-nn-pobj
+However, the program has drawn sharp international rebuke,  particularly from former colonial power Britain, but Mugabe has  vowed to press ahead with the reforms.	Mugabe	press ahead
+Mugabe-17	press-22	-conj-nsubj-rcmod-pobj-prep-rcmod-nsubj
+Mugabe even talked about his desire to keep safeguarding  Zimbabwe's sovereignty and land in spirit when he dies, a dream  which the veteran leader said forced him to sacrifice a bright  teaching career in the 1950s to lead his compatriots out of  colonial rule.	the veteran leader	dream
+leader-26	dream-21	-nsubj-dobj-ref-nn
+Mugabe even talked about his desire to keep safeguarding  Zimbabwe's sovereignty and land in spirit when he dies, a dream  which the veteran leader said forced him to sacrifice a bright  teaching career in the 1950s to lead his compatriots out of  colonial rule.	the veteran leader	bright
+leader-26	bright-33	-nsubj-dobj-ref-dobj-advcl-vmod-pobj-prep-vmod-nsubj-dobj-nsubj-dobj-amod
+Mugabe even talked about his desire to keep safeguarding  Zimbabwe's sovereignty and land in spirit when he dies, a dream  which the veteran leader said forced him to sacrifice a bright  teaching career in the 1950s to lead his compatriots out of  colonial rule.	the veteran leader	compatriots
+leader-26	compatriots-43	-nsubj-dobj-ref-dobj-advcl-vmod-pobj-prep-vmod-nsubj-dobj-nsubj-vmod-dobj
+Zimbabwe's incumbent President Robert Mugabe Saturday predicted  victory in the country's two- horse presidential race, saying  that he will accept the outcome of the election because he will  have defeated Morgan Tsvangirai of the opposition Movement for  Democratic Change (MDC).	he	defeated
+in-10	defeated-33	-pobj-vmod-vmod-ccomp-advcl
+Zimbabwe's incumbent President Robert Mugabe Saturday predicted  victory in the country's two- horse presidential race, saying  that he will accept the outcome of the election because he will  have defeated Morgan Tsvangirai of the opposition Movement for  Democratic Change (MDC).	he	victory
+in-10	victory-9	-prep-dobj
+"I will accept the results more than anything because I will  have won," said Mugabe.	I	I will  have won
+"I-1	I-10	-nsubj-advmod-advcl-nsubj
+"We have to deliver and safeguard the most important heritage to  the young generation - land - which was taken from our  forefathers by force," he told a recent rally.	he	forefathers
+safeguard-6	forefathers-25	-conj-nsubj-nsubj-ccomp-prep-pobj
+"We have to deliver and safeguard the most important heritage to  the young generation - land - which was taken from our  forefathers by force," he told a recent rally.	he	most important heritage
+the-7	heritage-10	-det
+Japan and the U.S. can cooperate over the development of new  technologies in the field and that such technologies will help  notonly the environment but also economic development, they  agreed.	they	will help
+they-31	help-22	-dobj-dep-conj
+Last Wednesday when receiving a special delegation from the US  House of Representatives, Chen said that the strong support of  the US Congress - which led to US arms sales to Taiwan in April  last year - ensured a balanced cross-Straits military situation  and peace in the Taiwan Straits.	Chen	ensured
+Chen-15	ensured-41	-pobj-prep-pobj-prep-csubj-ccomp
+One of the group's goals is to promote US military ties with  Taiwan.	the group	promote
+the-3	promote-8	-det-pobj-prep-nsubj
+"We wish to express our solidarity with the Venezuelan people  and look forward to working with all democratic forces in  Venezuela to ensure the full exercise of democratic rights,"  said Philip T. Reeker, a State Department spokesman.	We	to ensure the full exercise of democratic rights
+"We-1	ensure-25	-nsubj-xcomp-conj-prep-pcomp-xcomp
+"Chavez was  right about the problems he saw in Venezuela.	he	Chavez was  right
+about-5	right-4	-prep
+The Chavez government, he added, suppressed a  peaceful demonstration and fired on unarmed protesters.	he	peaceful
+The-1	peaceful-9	-det-nsubj-ccomp-dobj-amod
+"They want to hold us  hostage and force us to buy goods that can be bought cheaper and  better quality imported."	They	better quality
+"They-1	quality-22	-advmod-xcomp-nsubj-nn
+"They want to hold us  hostage and force us to buy goods that can be bought cheaper and  better quality imported."	They	can be bought cheaper
+"They-1	bought-17	-advmod-xcomp-conj-dobj-nsubj-dobj-rcmod
+A better life," says Martha, explaining why she voted for  MDC candidate Morgan Tsvangirai.	Martha	A better life
+Martha,-5	life,"-3	-nsubj-dep-nsubj
+Despite everything, there is still hope in Zimbabwe that this  election may bring change.	Zimbabwe	may bring change
+Zimbabwe-8	bring-14	-pobj-prep-nsubj-ccomp
+The prisoners  will likely be formally charged and tried, though when I called  a senior Pentagon source to find out by whom and when, the  source said, "If you find out, will you please tell me?"	you	please
+you-32	please-37	-nsubj-rcmod-dobj-conj-ccomp-advcl
+WHILE public affairs officers these days are going to great  lengths to talk about how docile the prisoners are, detainees  have been reported biting a guard, spitting, and threatening to  kill Americans.	public affairs officers	how docile
+officers-4	docile-17	-nsubj-nsubj-nsubj-prep-pcomp
+"We will urge there be no provocation.	We	no provocation
+"We-1	provocation.-7	-nsubj-ccomp-nsubj
+O'Keefe's appointment "is a clear message from the  administration: NASA has to clean up its act before we can talk  about the neat stuff we'd like to see NASA do," says Patricia  Dasch of the National Space Society.	we	neat stuff
+we-19	stuff-26	-nsubj-prep-pobj
+China always holds that anti-terrorism campaigns should be based  on irrefutable evidence, and anti-terrorism attacks should not  be expanded arbitrarily, said Kong.	Kong	irrefutable
+Kong.-24	irrefutable-12	-nsubj-dep-ccomp-prep-pobj-amod
+''Thanks to the people of Zimbabwe for loudly saying: Never  again shall Zimbabwe be a colony,'' Mugabe said.	Mugabe	Thanks to the people of Zimbabwe
+Mugabe-18	''Thanks-1	-nn-nsubj
+He told an audience  assembled in the colonial-style State House mansion that his  victory was a triumph against the West and whites who he said  had aligned against him and his governing party, the Zimbabwe  African National Union-Patriotic Front.	he	his  victory was a triumph against the West and whites
+in-7	triumph-19	-prep-ccomp
+Investors and Western diplomats have said they might interpret  Mbeki's support for Mugabe or the elections as a sign that  Africa is not intent on revitalizing its economies through good  government and expanded international trade.	Mbeki	good  government
+Mbeki's-11	government-34	-nn-dobj-ccomp-prep-pcomp-prep-pobj
+''We have dealt a stunning blow to imperialism,'' he said.	he	We have dealt a stunning blow to imperialism
+he-9	imperialism,''-8	-nsubj-xcomp
+``All of this is pretty well-planned out because we have used it  to house illegal migrant detainees in the past, Cubans and  Haitians,'' Lucas said.	Lucas	pretty well-planned out
+Lucas-26	well-planned-6	-nn-conj-pobj-prep-nsubj-nsubj-xcomp-advcl
+U.S. Rep. Ileana Ros-Lehtinen, R-Miami, said she supported the  idea, in part, because it would underscore the naval base's  strategic importance at a time when some members of Congress  have urged returning the territory to Cuba.	she	strategic importance
+she-7	importance-23	-nsubj-advcl-dobj-vmod-dobj
+``It's an excellent location,'' she said.	she	excellent
+she-5	excellent-3	-nsubj-amod
+Following a campaign wracked by intense violence and  intimidation blamed on the ruling party, opposition leader  Morgan Tsvangirai said he was pleased to see so many people  voting, believing a strong turnout favored him over the man who  has ruled this country since independence in 1980.	he	a strong turnout favored him
+on-12	turnout-35	-prep-vmod-pobj-prep-vmod-pobj-prep-nsubj-vmod-dobj
+But have courage, people of Zimbabwe, the darkest hour  is always before the dawn," Tsvangirai said in a statement.	Tsvangirai	the darkest hour  is always before the dawn
+Tsvangirai-16	the-14	-det
+But have courage, people of Zimbabwe, the darkest hour  is always before the dawn," Tsvangirai said in a statement.	Tsvangirai	have courage
+Tsvangirai-16	have-2	-nsubj-advcl
+"I want to vote  for a good future."	I	for a good future
+"I-1	for-6	-nsubj-xcomp-dobj-prep
+Zimbabwe's opposition says it will only join Mugabe in a unity  government if he agrees to a new, better-run election.	he	new, better-run
+he-15	new,-19	-nsubj-prep-pobj-amod
+Leaving the prisoners "indefinitely beyond the  reach of any legal regime," said the Economist last week, "would  put America--pre-eminently a nation of laws--itself outside the  law."	the Economist	pre-eminently a nation of laws
+the-14	America--pre-eminently-21	-det-nsubj-ccomp-dobj
+But in  the European press, the prisoners' lot has become a public issue  of contention among those who demand that U.S. conduct be above  suspicion.	those	above  suspicion
+those-19	above-26	-ref-nsubj-ccomp-xcomp-prep
+And, of  course, I want it to be good things,'' he said, not ``like  Alcatraz or Devil's Island.''	I	good things
+I-5	good-10	-nsubj-xcomp
+The bloated budget was  passed through the Knesset to the sounds of ministerial  congratulations advertising "a great political triumph."	ministerial	a great political triumph
+ministerial-14	triumph."-21	-amod-pobj-prep-pobj-prep-xcomp-dobj
+U.S. President George W. Bush said yesterday he was worried  about Argentina, but was confident the country would "stay  together" until it chooses a new leader while offering	he	stay  together
+he-8	"stay-20	-nsubjpass-conj-ccomp
+I am  going to work hard and with honesty," he said.	he	work hard and with honesty
+he-11	honesty,"-10	-nsubj-xcomp
+"The ... team wishes to commend the electoral and polling  officers for the able manner in which they conducted the  elections," said Gertrude Mongella, leader of the OAU observers.	team	able
+team-3	able-15	-nsubj-xcomp-prep-pobj-amod
+"I think it's a result that maintains the Commonwealth's  credibility," Mr. Howard said.	I	maintains the Commonwealth's  credibility
+"I-1	maintains-7	-advmod-nsubj-ccomp
+"We welcome the suspension for the reason that it must be  regarded as an unambiguous message by the international  community that the rule of democracy will be upheld in every  part of the world," said Welshman Ncube, the MDC's  Secretary-General.	We	it must be  regarded as an unambiguous message by the international  community that the rule of democracy will be upheld in every  part of the world
+"We-1	regarded-13	-nsubj-ccomp
+At a joint meeting of the foreign affairs and defence  committees, Liberals Marlene Jennings and John Godfrey  challenged Canada's policy after Mr. Eggleton, the Minister of  National Defence, said he is satisfied the United States is  treating prisoners humanely and in accordance with international  law.	Mr. Eggleton	humanely
+Eggleton,-25	humanely-43	-rcmod-ccomp-ccomp-vmod-dobj-advmod
+HARARE - On the eve of the presidential vote, Robert Mugabe,  Zimbabwe's President, predicted he would once again storm to  victory, as the opposition charged wholesale rigging of the vote  and a minister said the army was on high alert.	Robert Mugabe	storm to  victory
+Robert-10	storm-20	-nn-nsubj-ccomp
+In its authoritative Feb., 2001, report  on the projected impacts of global warming, the  Intergovernmental Panel on Climate Change identified several  threats to Canadian ecosystems, but concluded that our farmers  would generally benefit from warmer temperatures.	the  Intergovernmental Panel on Climate Change	generally benefit
+Panel-18	benefit-37	-nsubj-conj-ccomp
+Internet entrepreneur Mark Shuttleworth is only the second  person to pay his own way into space, and by the look of it, he  considers the money well spent.	he	the money well spent
+only-6	spent.-30	-advmod-rcmod-dep-dep-pobj-prep-pobj-rcmod-xcomp
+''It's amazingly roomy,'' Shuttleworth told the president.	Shuttleworth	amazingly roomy
+Shuttleworth-4	roomy,''-3	-nsubj-ccomp
+''The whole continent is proud that, at last, we have one of our  own people from Africa up in space,'' said Mbeki, taking part in  celebrations for Freedom Day, marking the 1994 elections that  ended Apartheid.	Mbeki	at last
+Mbeki,-23	at-7	-amod-dobj-dep-prep
+With Chavez's ouster, jubilant executives at Venezuela's state  oil monopoly, who had been engaged in a work slowdown, promised  to bring production and exports up to speed as quickly as  possible.	executives	as quickly as  possible
+executives-5	quickly-31	-prep-pobj-ref-nsubjpass-prep-pobj-vmod-vmod-vmod-advmod
+"I urge Venezuelans to maintain calm, to keep faith, to continue  working on the road toward democracy, freedom and peace," said  retired Gen. Guaicaipuro Lameda, who until February headed the  oil company and was a leader of the movement to oust Chavez.	I	to maintain calm, to keep faith, to continue  working on the road toward democracy, freedom and peace
+"I-1	maintain-5	-vmod
+"SA wants Mugabe to accommodate the opposition in his new  government to form a coalition government," said an official  source.	SA	accommodate
+"SA-1	accommodate-5	-nsubj-xcomp
+President Daniel arap Moi of Kenya congratulated Mugabe, calling  his victory "testimony of the confidence and high esteem the  people of Zimbabwe hold in you."	people of Zimbabwe	testimony of
+people-22	"testimony-13	-dobj-dobj
+President Daniel arap Moi of Kenya congratulated Mugabe, calling  his victory "testimony of the confidence and high esteem the  people of Zimbabwe hold in you."	people of Zimbabwe	confidence and high esteem
+people-22	confidence-16	-dobj-prep-pobj
+Bush's secretary of state, Colin Powell, earlier concluded: "Mr  Mugabe may claim victory, but not democratic legitimacy."	Mr  Mugabe	victory
+Mugabe-11	victory,-14	-nsubj-dobj
+Chavez says that he has learnt a lesson from the events, and he  will be more attentive to the opposition's opinion in the  future.	the opposition	more attentive
+the-20	attentive-18	-det-pobj-prep
+Chavez says that he has learnt a lesson from the events, and he  will be more attentive to the opposition's opinion in the  future.	the opposition	learnt a lesson
+the-20	learnt-6	-det-pobj-prep-conj
+The Chinese leader said President Mubarak telephoned him after  last September 11th incidents urging him to do his best for  saving the peace process between Palestinians and Israel.	President Mubarak	saving
+Mubarak-6	saving-23	-nsubj-prep-pcomp-dobj-nsubj-prep-pobj-vmod
+The Chinese leader said President Mubarak telephoned him after  last September 11th incidents urging him to do his best for  saving the peace process between Palestinians and Israel.	President Mubarak	his best
+Mubarak-6	best-20	-nsubj-prep-pcomp-dobj-nsubj-dobj
+He said all parties concerned should work for resuming peace  negotiations as soon as possible, based on the United Nations  resolutions on the Middle East issues, the principle of land for  peace and commitment to agreements and notes of understandings  which have been reached.	the United Nations	as soon as possible
+the-19	possible,-16	-det-pobj-prep-dep
+He said China is prepared to cooperate with Egypt in the  technological field at various levels, indicating that there are  high prospects for cooperation in the fields of scientific  research, technology, industry and human resources development.	China	cooperate
+China-3	cooperate-7	-nsubj
+He said his country has repeatedly, through proper diplomatic  channels, urged the Israeli side to fulfill its pledges and to  respond favorably to endeavors aimed at reaching a settlement in  the Middle East through negotiations.	the Israeli side	fulfill its pledges
+side-15	fulfill-17	-dobj-dep
+He said his country has repeatedly, through proper diplomatic  channels, urged the Israeli side to fulfill its pledges and to  respond favorably to endeavors aimed at reaching a settlement in  the Middle East through negotiations.	the Israeli side	favorably
+side-15	favorably-24	-dobj-dep-conj-advmod
+He indicated that China would continue to play its role in  supporting the peaceful settlement in the Middle East adding  that he would discuss with President Bush, who will visit  Beijing next month, ways of reactivating the peace process  between Palestinians and Israelis.	China	peaceful
+China-4	peaceful-15	-nsubj-xcomp-prep-pobj-vmod-dobj-amod
+The Chinese President said China fully supports the restoration  by the Palestinian people of their legitimate rights including  the right to establish the Palestinian State, adding that China  recognized Palestinian State when it was declared in 1988.	China	legitimate
+China-5	legitimate-17	-nsubj-prep-pobj-prep-pobj-amod
+Referring to the difficult period the venezuelan nation went  through in the past week, President Chavez said the  anti-democractic attempts to topple his government failed with  the help of the Almighty God and the people.	President Chavez	help of the Almighty God
+Chavez-17	help-31	-nsubj-rcmod-pobj-prep-rcmod-pobj-prep-nsubj
+Tehran, April 20, IRNA -- President Mohammad Khatami on Friday  evening congratulated the Venezuelan government and nation for  the victory and restoration of the legitimate government of  President Hugo Chavez after a failed military coup in that  country.	President Mohammad Khatami	legitimate
+Khatami-8	legitimate-27	-nsubj-dobj-prep-pcomp-dobj-prep-pobj-amod
+During a telephone conversation, President Khatami told his  Venezuelan counterpart, President Hugo Chavex, that the return  of the legitimate president and government to power was a  victory of justice and freedom.	President Khatami	legitimate
+Khatami-6	legitimate-21	-nsubj-ccomp-nsubj-prep-pobj-amod
+During a telephone conversation, President Khatami told his  Venezuelan counterpart, President Hugo Chavex, that the return  of the legitimate president and government to power was a  victory of justice and freedom.	President Khatami	victory of justice and freedom
+Khatami-6	victory-30	-nsubj-ccomp
+The Iranian president also expressed the hope that with the  return of President Chavez the Venezuelan government would be  able to achieve its exalted objectives with the support of the  people.	the Venezuelan government	exalted
+government-18	exalted-26	-nsubj-xcomp-dobj-amod
+According to UN Information Center in Tehran, he appealed for  national reconciliation and underscored the importance of an  inclusive democratic system in the country.	UN Information Center in Tehran	reconciliation
+Tehran,-7	reconciliation-13	-ccomp-prep-pobj
+Brasilia, 13 (Agencia Brasil - ABr) - Today president Fernando  Henrique Cardoso declared that the US decision to adopt measures  to control greenhouse gases is positive, even though there was a  formal decision not to ratify the Kyoto Protocol.	president Fernando  Henrique Cardoso	positive
+Cardoso-13	positive,-28	-nsubj-ccomp
+Cardoso says US decision on greenhouse gases is positive	US	positive
+US-3	positive-9	-nn-nsubj
+"I only ask of all Argentines one thing: keep up the hope,"  Duhalde said.	I	keep up the hope
+"I-1	keep-9	-advmod-ccomp
+Violent protests in Argentina; president Duhalde calls for calm	president Duhalde	calm
+Duhalde-6	calm-9	-pobj-prep-nsubj-prep-pobj
+BUENOS AIRES - President Eduardo Duhalde yesterday pleaded for  patience as he works on the country's economic crisis.	President Eduardo Duhalde	patience
+Duhalde-6	patience-11	-nsubj-prep-pobj
+The elements in a more offensive climate policy are:       Initiatives between now and 2008: The government wants to show demonstrable progress in the reduction of climate emissions by 2005.	The government	demonstrable progress
+government-22	progress-27	-rcmod-xcomp-dobj
+For the next few years our goal is to both gain more knowledge and put together good preparedness strategies.	our	gain more knowledge
+our-6	gain-11	-poss-nsubj
+For the next few years our goal is to both gain more knowledge and put together good preparedness strategies.	our	good
+our-6	good-17	-poss-nsubj-xcomp-conj-dobj-amod
+They make this request "convinced of the Russian Federation's resolute commitment to the Kyoto Protocol" and believing that in this manner the EU and Russia would continue to show the "leadership" which they believe they have shared "with such fruitful results, in international cooperation in the fight against climate change".	they	leadership
+they-33	"leadership"-31	-nsubj-rcmod
+They make this request "convinced of the Russian Federation's resolute commitment to the Kyoto Protocol" and believing that in this manner the EU and Russia would continue to show the "leadership" which they believe they have shared "with such fruitful results, in international cooperation in the fight against climate change".	they	such fruitful results
+they-33	results,-41	-nsubj-dobj-ref-rcmod-ccomp-dobj
+A British newspaper maintains that the "X-ray prison camp" in Guantanamo is full of "cruelties" and "torture." British Secretary of Foreign Affairs Straw said: "All detainees, regardless of their identities, should receive the treatment in line with the humanitarian spirit and the principles of international law." Ann Crawd [name transliterated], chairwoman of the UN Human Rights Commission, pointed out: "The United States shall not play with human rights and may not violate the Geneva Convention Relative to the Treatment of Prisoners of War that we have signed."       US Strategy -- a Strategy for Testing the Next Moves       The US move of disclosing the state of the detainees in Guantanamo and allowing international organizations and the media to inspect is a wise one, otherwise the international community will have all sorts of misgivings about the treatment for the detainees.	British Secretary of Foreign Affairs Straw	humanitarian spirit
+British-18	humanitarian-39	-dep-dep
+Protesters carried banners reading, "Ratify the Kyoto Protocol," and "Koizumi say 'No' to Bush: Stick to Kyoto Protocol."	Koizumi	Stick to
+"Koizumi-10	to-16	-conj-nsubj-prep
+Meanwhile, Peace Boat also handed a separate letter addressed to the president to the guard, calling on the U.S. to take leadership in helping developing countries through "peaceful dialogue and fair economic support."	Peace Boat	fair
+Boat-3	fair-31	-nsubj-dobj-vmod-prep-pobj-vmod-xcomp-prep-pcomp-prep-pobj-conj-amod
+Meanwhile, Peace Boat also handed a separate letter addressed to the president to the guard, calling on the U.S. to take leadership in helping developing countries through "peaceful dialogue and fair economic support."	Peace Boat	peaceful
+Boat-3	"peaceful-28	-nsubj-dobj-vmod-prep-pobj-vmod-xcomp-prep-pcomp-prep-pobj-amod
+Seven months after having rejected the Kyoto Protocol because he considered it to be without scientific basis, detrimental to US economic interests, and unfair in not obliging medium-sized nations (like Brazil and India) to reduce their gas emissions in the same proportion as that imposed on industrialized countries, Bush made public the plan that, he promised, would not have any of the defects of the Kyoto Protocol and would achieve the same, if not better, results.	he	if not better
+rejected-5	not-74	-pcomp-prep-nsubj-ccomp-ccomp-conj-dobj-cc
+"In light of this, the Korean Government believes that consultations amongst the international community are needed to build understanding on the U.S. initiative," the statement noted, adding the Seoul government will actively participate in this process.	the Korean Government	build understanding
+Government-7	build-18	-nsubj-ccomp-pcomp-prep-nsubj
+The ! Korean government is of the view that in order for the U.S. initiative to be discussed in more detail in future international fora, greater elaboration is needed, including concrete methods to establish the levels of greenhouse gas intensity, it continued.	Korean government	concrete
+government-4	concrete-31	-nsubj-ccomp-prep-pobj-amod
+The ! Korean government is of the view that in order for the U.S. initiative to be discussed in more detail in future international fora, greater elaboration is needed, including concrete methods to establish the levels of greenhouse gas intensity, it continued.	Korean government	greater elaboration
+government-4	elaboration-27	-nsubj-ccomp-nsubjpass
+However, Koizumi said, "I take the remark as the indication of the President's strong resolve to fight terrorism."	the President	strong resolve
+the-12	resolve-15	-det
+Because of this, Koizumi noted the need for the international community to cooperate in tackling Iraqi issues and enthusiastically asked Bush to not take the bold course of launching military action.	Koizumi	cooperate
+Koizumi-4	cooperate-13	-pobj-prep-vmod
+In reply, the President said, "We want to resolve all issues peacefully, and we intend to continue diplomatic efforts." However, it is unclear whether Japan can actually prevent the US from taking military action.	we	peacefully
+we-14	peacefully,-12	-nsubj-conj
+"What Israel is doing in Palestine against the Muslims is also one of the worst examples of rights abuses but the US is again silent, but when Palestinians react to Israeli attacks America is quick to The logical solution to the Palestinian issue is a free and independent state for the people of Palestine as enshrined under UN resolutions, he said.	the US	enshrined
+US-22	enshrined-56	-nsubj-dep-conj-prep-pobj-rcmod-prep-pobj-prep-pobj-rcmod-prep-pobj-prep-pobj-prep-pobj-amod
+"What Israel is doing in Palestine against the Muslims is also one of the worst examples of rights abuses but the US is again silent, but when Palestinians react to Israeli attacks America is quick to The logical solution to the Palestinian issue is a free and independent state for the people of Palestine as enshrined under UN resolutions, he said.	the US	free and independent state
+US-22	state-49	-nsubj-dep-conj-prep-pobj-rcmod-prep-pobj-prep-pobj-rcmod
+"What Israel is doing in Palestine against the Muslims is also one of the worst examples of rights abuses but the US is again silent, but when Palestinians react to Israeli attacks America is quick to The logical solution to the Palestinian issue is a free and independent state for the people of Palestine as enshrined under UN resolutions, he said.	the US	logical solution
+US-22	solution-39	-nsubj-dep-conj-prep-pobj-rcmod-prep-pobj
+Muslims rulers should forge unity in their ranks to resist the ever-increasing US influence; otherwise, they would be targeted one by one, Hameed Gul concluded.	Hameed Gul	should forge unity
+Hameed-23	forge-4	-nn-pobj-prep-rcmod-dobj-vmod-pobj-prep
+Muslims rulers should forge unity in their ranks to resist the ever-increasing US influence; otherwise, they would be targeted one by one, Hameed Gul concluded.	Hameed Gul	should forge unity
+Hameed-23	forge-4	-nn-pobj-prep-rcmod-dobj-vmod-pobj-prep
+"The situation requires a concerted moral resistance by Muslims scholars; if they remain indifferent to each other's plight in the hands of imperialist forces led by the US, they would be crushed one by one," he warned.	they	concerted moral resistance
+they-12	resistance-7	-nsubj-advcl-dobj
+"It is unprecedented in the history of the comity of nations that the US forcibly wanted to prevent countries from upholding religious and cultural values," he said.	the US	from upholding religious and cultural values
+the-13	from-20	-det-nsubj-xcomp-prep
+We hope that the United States will come to realize that an active climate protection policy is not only necessary for environmental policy but is also an excellent opportunity to modernize industrial society.	the United States	excellent opportunity
+States-6	opportunity-29	-nsubj-xcomp-ccomp-prep-pobj-dep
+"But I have the intention of working with nations, particularly developing nations, to convince them that a better approach exists," he said.	I	better approach
+I-2	approach-19	-nsubj-dobj-prep-pcomp-prep-pcomp-dobj-nsubj-ccomp-nsubj
+"But I have the intention of working with nations, particularly developing nations, to convince them that a better approach exists," he said.	I	to convince
+I-2	convince-14	-nsubj-dobj-prep-pcomp-prep-pcomp-xcomp
+To encourage industry and consumers to demonstrate environmental public spiritedness Mr. Bush proposes tax incentives of $4.6 billion for the adoption of renewable sources of energy.	Mr. Bush	environmental public spiritedness
+Bush-12	spiritedness-10	-nsubj-rcmod
+The US President asserted, moreover, his determination to win developing countries over to his plan, stating that the US approach would give them a "yardstick for progress on climate changes which recognizes their right to economic development."	his	yardstick for progress
+his-6	"yardstick-25	-poss-vmod-prep-pcomp-pobj-vmod-ccomp-dobj
+The US President asserted, moreover, his determination to win developing countries over to his plan, stating that the US approach would give them a "yardstick for progress on climate changes which recognizes their right to economic development."	his	to win
+his-6	win-9	-poss-vmod
+The US' rising concerns over China's military expansion and its appreciation for Taipei's support for the US-led war against terrorism drove Bush to stand firm in his support for Taiwan, the DPP legislator said.	Bush	stand firm
+Bush-22	stand-24	-nsubj
+"We felt gratified and relieved after watching Bush stick to his principles on the issue of Taiwan.	Bush	stick to his principles
+Bush-8	stick-9	-nsubj
+While past trips to China by US presidents have produced agreements or statements that have damaged Taiwan's interests, Bush's visit only enhanced the nation's confidence in his administration, Cheng said.	nation	only enhanced
+nation's-24	enhanced-22	-amod-dobj
+But as Bush concluded his trip to Asia yesterday, it was clear that China failed to elicit from him a statement on the "three nos" and on opposition to Taiwanese independence, Chang said.	Chang	failed
+Chang-32	failed-15	-nn-pobj-prep-pobj-conj-pobj-rcmod-ccomp
+"Bush has been very forthcoming in stating the US commitment to defend Taiwan against the possible use of force by China," said Chang, a specialist in international relations.	Chang, a specialist in international relations	very forthcoming
+Chang,-23	forthcoming-5	-xcomp-ccomp-pcomp-prep
+"The assessment by the Foreign Ministry official is brilliant," exclaimed Aleksandr Ginzburg, deputy director of the Institute of Atmospheric Physics.	Aleksandr Ginzburg	brilliant
+Aleksandr-11	brilliant,"-9	-nn-dobj
+In Mr. Gudkov's view, everything is developing well, we can take our time, and we can do nothing at all, since global warming is a threat only to the southern countries.	Mr. Gudkov	well
+Mr.-2	well,-8	-nn-pobj-prep-vmod
+The Foreign Ministry, said N. Ratsiborinskiy, clarifying his agency's position, recommends that the government move to ratify, since the view at Smolenskaya Square is that the impact of our national efforts will be greater if they are integrated into the efforts of the EU.	his agency	greater
+his-8	greater-34	-poss-dobj-vmod-nsubj-ccomp-nsubj-nsubj-advcl-ccomp
+In his view, it would not be a bad idea, when the scientific community draws up all sorts of forecasts and plans of action that flow out of them, for it to seek help from the science of paleoclimatology and to gain a broad understanding of its data.	it	would not be a bad idea
+it-4	idea,-10	-nsubj
+Moreover, America also openly opposed Chavez's policies of establishing friendly relations with certain countries that pursued independent regional and international policies.	Chavez	independent
+Chavez's-6	independent-17	-nn-prep-pcomp-prep-pobj-ref-nsubj-dobj-amod
+Moreover, America also openly opposed Chavez's policies of establishing friendly relations with certain countries that pursued independent regional and international policies.	Chavez	friendly
+Chavez's-6	friendly-10	-nn-prep-pcomp-dobj-amod
+As far as the issue of foreign policy was concerned, Chavez sought to preserve the independence of his country in the face of American pressure.	Chavez	preserve
+Chavez-11	preserve-14	-vmod-xcomp
+One of the main objectives of his policies was to properly utilize Venezuela's vast natural riches, namely oil.	his policies	vast
+policies-8	vast-14	-pobj-prep-pobj-prep-nsubj-xcomp-dobj-amod
+In his view, Chen said, the ever firmer U.S. support for Taiwan partly stems from its recognition of the island's remarkable progress in democratization and liberalization.	Chen	ever firmer
+Chen-4	firmer-8	-nsubj-ccomp-nsubj-amod
+In his view, Chen said, the ever firmer U.S. support for Taiwan partly stems from its recognition of the island's remarkable progress in democratization and liberalization.	Chen	remarkable
+Chen-4	remarkable-21	-nsubj-ccomp-prep-pobj-prep-pobj-amod
+Noting that the two sides of the Taiwan Strait have been admitted to the World Trade Organization (WTO), Chen said Taiwan and mainland China will be able to engage in constructive interactions under the WTO framework.	Chen	will be able
+Chen-19	able-27	-pobj-prep-ccomp-nsubj-rcmod
+San Francisco, April 1 (CNA) -- Current relations between the Republic of China and the United States are in unprecedented good shape, the de facto ROC ambassador to Washington, D.C., said in Las Vegas Monday.	the de facto ROC ambassador to Washington, D.C.	good shape
+ambassador-27	shape,-22	-nsubj-rcmod
+Since the United States switched its diplomatic recognition from Taipei to Beijing in 1979, ROC Representative to the United States Chen Chien-jen said substantive Taiwan-U.S. relations have never been as close as they are at the present time.	ROC Representative to the United States Chen Chien-jen	as close as
+Representative-16	close-31	-nsubj-ccomp
+In any case, they are better off than they were when we caught them," added the Minister.	the Minister	better off
+Minister.-17	better-6	-dobj-ccomp-advcl-advcl
+The Iranian president also expressed the hope that with the return of President Chavez the Venezuelan government would be able to achieve its exalted objectives with the support of the people.	Iranian president	exalted
+president-3	exalted-24	-nsubj-ccomp-nsubj-nsubj-dobj-amod
+Referring to the difficult period the venezuelan nation went through in the past week, President Chavez said the anti-democractic attempts to topple his government failed with the help of the Almighty God and the people.	President Chavez	with the help of the Almighty God
+Chavez-16	with-26	-pobj-prep-rcmod-pobj-prep-nsubj-vmod-prep
+During a telephone conversation, President Khatami told his Venezuelan counterpart, President Hugo Chavex, that the return of the legitimate president and government to power was a victory of justice and freedom.	President Khatami	legitimate
+Khatami-6	legitimate-19	-nsubj-ccomp-nsubj-prep-pobj-amod
+During a telephone conversation, President Khatami told his Venezuelan counterpart, President Hugo Chavex, that the return of the legitimate president and government to power was a victory of justice and freedom.	President Khatami	victory of justice and freedom
+Khatami-6	victory-27	-nsubj-ccomp
+He also expressed gratitude and admiration to the United States for its firm support for Taiwan, especially in maintaining the security of the Taiwan Strait and peace in the Asia-Pacific region.	United States	peace
+States-10	peace-27	-pobj-prep-prep-pcomp-prep-pcomp-dobj-conj
+He also expressed gratitude and admiration to the United States for its firm support for Taiwan, especially in maintaining the security of the Taiwan Strait and peace in the Asia-Pacific region.	United States	security
+States-10	security-21	-pobj-prep-prep-pcomp-prep-pcomp-dobj
+Touching on Taiwan's WTO entry, Chen said Taiwan could not have smoothly entered the WTO if the United States government and Congress did not render their firm support to Taiwan's bid for membership.	Chen	smoothly
+Chen-6	smoothly-12	-pobj-prep-dep-ccomp-advmod
+Taiwan's WTO entry is not a conclusion of its goal but the beginning of its chance to play an important role in the world, Lash said, adding that the United States will continue to help Taiwan realize all its WTO expectations.	Lash	its chance
+Lash-25	chance-16	-nn-pobj-prep-dobj-vmod
+Taiwan's WTO entry is not a conclusion of its goal but the beginning of its chance to play an important role in the world, Lash said, adding that the United States will continue to help Taiwan realize all its WTO expectations.	Lash	important role
+Lash-25	role-21	-nn-pobj-prep
+Lash in return congratulated Chen on Taiwan's WTO entry and said that his visit shows that the United States attaches great importance to U.S.-Taiwan trade relations.	United States	great importance
+States-19	importance-22	-nsubj-dobj
+Taiwan's WTO access has given Taiwan a window to the world, a window to the century and a window of opportunity, he went on, adding that it will allow Taiwan to upgrade its competitiveness and help U.S.-Taiwan trade relations.	he	a window of opportunity
+to-9	window-19	-pobj-conj
+Taiwan's WTO access has given Taiwan a window to the world, a window to the century and a window of opportunity, he went on, adding that it will allow Taiwan to upgrade its competitiveness and help U.S.-Taiwan trade relations.	he	a window to the world
+to-9	window-8	-prep
+Taiwan's WTO access has given Taiwan a window to the world, a window to the century and a window of opportunity, he went on, adding that it will allow Taiwan to upgrade its competitiveness and help U.S.-Taiwan trade relations.	he	upgrade its competitiveness
+to-9	upgrade-32	-pobj-conj-prep-pcomp-ccomp-xcomp-ccomp-xcomp
+Taiwan's WTO access has given Taiwan a window to the world, a window to the century and a window of opportunity, he went on, adding that it will allow Taiwan to upgrade its competitiveness and help U.S.-Taiwan trade relations.	he	a window to the century
+to-9	window-13	-pobj-dep
+"The United Nations has held the high goal of protecting human rights," Jin said.	Jin	high
+Jin-13	high-7	-nn-nsubj-ccomp-dobj-amod
+After a visit to Tibet in 2000, the Italian parliamentary delegation issued a press communique agreeing that the development of Tibet is far better than what has been reported by some Western media.	the Italian parliamentary delegation	far better than
+delegation-11	better-24	-nsubj-xcomp-ccomp
+Since Israel suffers from terrorist attacks, the report says, it has been forced to take counter-terrorism measures, making its rights abuses understandable.	the report	understandable
+report-8	understandable.-22	-nsubj-ccomp-nsubjpass-nsubj-xcomp-dobj
+Moreover, in its posturing with respect to this country, America declared that democracy had been victorious in Venezuela.	America	victorious
+America-10	victorious-16	-pobj-prep-pobj-prep-pobj-prep-nsubj-ccomp
+"We demand the US strictly abide by the commitments it has made to China, correct its erroneous acts or remarks so as to avoid new harm to China-US relations."	US	strictly abide
+US-4	abide-6	-nsubj
+"We hope US behaves as it says, strictly abide by the three Sino-US Communiques and stop using the Taiwan issue to interfere in China's internal affairs," Zhang said.	We	strictly abide
+"We-1	strictly-8	-advmod-ccomp-advcl-advmod
+The spokeswoman urged the US to strictly abide by the serious commitments that it had made to the Chinese government and Chinese people and stop the wrong actions so as to avoid further damage to Sino-US relations.	spokeswoman	strictly abide
+spokeswoman-2	abide-8	-nsubj-xcomp
+The       only thing I did know for sure was here's a chance to change things for       me and my children...	I	here's a chance to change things
+I-10	here's-16	-nsubj-rcmod-nsubj
+My instructor played a role       like no other instructor I've ever had I appreciate everything that       Goodwill has done for me.	I	like no other instructor I've ever had
+I've-16	had-18	-nsubj
+In their December, 1995 review of the nation's best charities, U.S.       News & World Report called Goodwill one of the five "Standout Good       Guys.	U.S.       News & World Report	Standout Good       Guys
+-16	Guys.-36	-dobj-nsubj
+On his       way home, he shares the story with four people at a street corner.	he	shares the story
+he-11	shares-12	-nsubj
+Even after the summer sessions come to a close, Jameson campers will       take part in year-round programs designed to keep that positive contact       with peers and role models alive and important.	Jameson campers	alive and important
+campers-11	alive-41	-pobj-prep-vmod-nsubj-ccomp-dobj-prep-pobj-vmod-xcomp-ccomp-dobj-amod
+This way when we go out to ask for community support and       are asked about our board giving level, we can show our in-house       commitment through 100% board participation.	we	100% board participation
+we-4	participation.-41	-nsubj-rcmod-nsubj-prep-pobj
+We've worked hard to       structrue the organization so that we've ready to move boldly into the       next century, and I believe that we have an exciting and successful       future ahead of us.	I	exciting and successful
+I-32	exciting-38	-nsubj-ccomp-dobj-amod
+Your contribution will enable us to both       continue and expand the good work we have begun in making Indianapolis a       city famous for its commitment to youth and families.	its	good
+its-36	good-18	-poss-pobj-prep-amod-xcomp-pcomp-prep-rcmod-amod
+As a team, these three organizations are working with       neighborhood youth and adults to build a "Caring Neighborhood with Youth"       , mobilizing the assets of young people and adults as partners to build a       better neighborhood for all.	these three organizations	better
+organizations-6	better-53	-nsubj-xcomp-nsubj-amod
+Not only did I have a lot of fun with my Big Sister, but I learned a       lot from her too.	I	I learned a       lot
+I-4	learned-16	-nsubj-conj
+The visit is not a political visit, it is a visit of humanitarian concerns," he added.	he	it is
+The-1	visit-2	-det
+But he insisted the international community can do a much better job in helping Iraq deal with its economic and health problems.	he	much better job
+he-2	job-12	-nsubj-ccomp-dobj
+In joining SCS, you join the ranks       of those who believe that bringing art and art education to the city       makes life better, richer, and more rewarding for the entire       community.	those who	better, richer, and more rewarding
+those-15	richer,-36	-ref-nsubj-ccomp-ccomp-dobj
+seg> </p> <p> <seg id=5> The minister, who has his own website, also said: "I want Dubai to be the best place in the world for state-of-the-art technology companies.	I	the best place in the world
+"I-15	place-22	-nsubj-xcomp
+Prophet Mohammad said, "Allah is good, and He only accepts the good.	He	good
+He-8	good,-6	-nsubj-conj
+Though continuing to                 worry about Iraq in the following week, Powell said, President Bush saw Afghanistan                 as the priority.	President Bush	priority
+President-29	priority.-51	-nn-prep-pobj
+Bill_Frist male native  Not with the previous Democratic leader or or the current Democratic leader have ever I been slapped in the face with such an affront to the leadership of this grand institution /.	the previous Democratic leader or or the current Democratic leader	this grand institution
+leader-10	institution-35	-conj-prep-pobj-prep-pobj
+Ed_Henry male native  Democrats say they also want to signal they're ready to stand up to the Republican majority and may even filibuster the president's latest Supreme Court pick Samuel Alito a move that would make these events seem like the opening fireworks in a much nastier battle /.	they	ready to stand up
+they-7	ready-13	-nsubj-xcomp-xcomp
+Greece attempted to stay out of World War II, but Mussolini         saw Greece as an ideal addition to his Italian empire.	Mussolini	ideal
+Mussolini-11	ideal-24	-nn-nsubj-prep-pobj-amod
+At the Temple' s dedication, Solomon addressed his God:  ``... the         Heavens, even the Heaven of the Heavens, cannot contain Thee; how much         less this House that I have built?	Solomon	the         Heavens, even the Heaven of the Heavens, cannot contain
+Solomon-6	contain-29	-nsubj-ccomp-xcomp
+    And it was really beautiful and I really, really wanted 	a	was really beaut
+it-6	beautiful-9	-nsubj
+And the mother asked the little girl to please go in and wash the dishes so that she could go to bed early and not come up, wake up in the morning and see all those dishes on the table.	the mother	please
+mother-3	please-9	-nsubj-xcomp
+Um, that, I really don't know why they closed that school down because it was a really nice school and everything, but they eventually tore it down because I was there I think the first year I went there was the year they built a really nice gym, and I don't think they used that gym no more than three years.	I	really nice
+I-3	nice-18	-nsubj-ccomp-advcl-amod
+Um, that, I really don't know why they closed that school down because it was a really nice school and everything, but they eventually tore it down because I was there I think the first year I went there was the year they built a really nice gym, and I don't think they used that gym no more than three years.	I	really nice
+I-3	nice-18	-nsubj-ccomp-advcl-amod
+As the years went by my prayer was answered and I got the chance to work in the cafeteria as a cashier and the principal there came up to me and said, "Have you considered being a teacher assistant?	the principal	my prayer was answered
+principal-25	answered-9	-npadvmod-advmod-conj-conj
+And I went to, um, one of my staff members and I asked her if she would proofread it, and she thought it was an excellent paper.	one of my staff members	excellent
+one-6	excellent-26	-dobj-conj-advcl-conj-ccomp-amod
+My husband became very ill with cancer and I had to make a decision as to whether I would continue my education or take care of him and I felt like I needed to take care of him because he stood by me so much while I was going to school.	I	so much
+I-9	much-45	-nsubj-parataxis-advcl-advmod
+And although I never met my grandfather, I have never forgotten that story and when I hear of him I think what a wonderful, wonderful person he must have been.	I	what a wonderful, wonderful
+I-3	what-22	-nsubj-conj-ccomp-dobj
+Um, I felt like that was a way to face that situation with such hope and with joy and with love.	I	with such hope and with joy and with love
+I-2	with-13	-nsubj-advcl-vmod-dobj-prep
+There was no money to buy any presents at all, um, for the children, and my grandfather, who was killed when my mother was 16, this was, of course, way before that, um, he must have been a very positive person because what he did with the situation was he, he told the children that there were no presents this Christmas because they had given them all to Santa to take the poor children and this made the children feel happy and proud of themselves and it gave them a good feeling that they had done something very nice for someone less fortunate than themselves.	he	something very nice
+There-1	something-97	-dep-dep
+uh i think we just hang up yeah okay  thanks bye	i	thanks
+i-2	thanks-11	-nsubj-ccomp-dobj-amod-dep
+yeah yeah no i i agree with you there though i mean they want to choose that particular religion then that's fine with me too you know as long as they don't try and pull me in and drag me in and and i don't like the way that they do it either	me	yeah yeah
+mean-12	yeah-2	-advcl-rcmod-dobj
+pursue their religion of choice in that whatever manner they want to but i think they also should respect the sanctity of the American home whether it be in a house or in an apartment	they	sanctity
+they-10	sanctity-21	-nsubj-prep-pcomp-ccomp-dobj
+well even if it's life like you say we end up spending sixty thousand dollars a year to keep some you know joker in there for life we could spend that money you know for starving children that are starving or twelve million other things would be more useful than tha	you	twelve million other things would be more useful than
+you-7	useful-49	-nsubj-ccomp-xcomp-dobj-vmod-dobj-rcmod-prep-pobj-rcmod-ccomp
+what i would consider to be a long-term investment	i	a long-term investment
+i-2	investment-9	-nsubj-xcomp
+me too because we go all the time the guy i was talking to never goes he was boy it sounds like your really up on this and i said i see at least two a week  so	he	really up on
+all-6	really-24	-predet-nsubj-ccomp-rcmod-xcomp-advmod
+what was i'm trying to remember oh the other the one i talked about the other night was good it was	i	good
+i'm-3	good-19	-ccomp-ccomp
+every once in a while i i like to go on the nights when there's not anybody out there not very many people out there it's a lot more fun when you're not fighting a crowd	i	lot more fun
+in-3	fun-30	-prep-advmod-prep-pobj-rcmod-dobj
+yeah i think it's fun i like just looking at the billboards	i	it's fun
+i-2	it's-4	-nsubj-dobj-amod
+oh i enjoyed it i mean it was just more for my money	i	more for my money
+i-2	more-10	-nsubj-ccomp-ccomp
+oh you found that out tonight i hadn't even heard that that's great i think he deserves every penny of it	i	deserves every penny of it
+out-5	deserves-17	-pobj-vmod-ccomp-ccomp
+oh you found that out tonight i hadn't even heard that that's great i think he deserves every penny of it	i	great
+out-5	great-13	-pobj-vmod-ccomp-nsubj-amod
+yeah and no if you talk to ten then they come over on and say oh you've extended your limit and please say good-bye within the next five seconds	they	please
+they-10	please-22	-dobj-nsubj-nsubj-dep-advmod-conj-ccomp-dep-conj-discourse
+I was pleased to note that your Oct. 23 Centennial Journal item recognized the money-fund concept as one of the significant events of the past century.	your	significant
+your-7	significant-21	-poss-nsubj-prep-pobj-prep-pobj-amod
+The new candy bars, "make an important contribution to our Nestle Foods commitment to this very important strategic unit," said C. Alan MacDonald, president of Nestle Foods in Purchase, N.Y.	C. Alan MacDonald	an important contribution
+C.-21	contribution-8	-nn-dobj-nsubj
+The new candy bars, "make an important contribution to our Nestle Foods commitment to this very important strategic unit," said C. Alan MacDonald, president of Nestle Foods in Purchase, N.Y.	C. Alan MacDonald	very important
+C.-21	important-17	-nn-dobj-nsubj-prep-pobj-prep-pobj-amod
+The information-systems industry is still going to be a high-growth business, and we're confident that we have tremendous assets as a company.	we're	tremendous
+we're-13	tremendous-18	-conj-amod-npadvmod-nsubj-nsubj-xcomp-ccomp-dobj-amod
+sui, he said, is a perfect fit for Polly Peck's electronics operations, which make televisions, videocassette recorders, microwaves and other products on an "original equipment maker" basis for sale under other companies' brand names.   	sa	erfect fit fo
+said,-3	a-5	-advmod-det
+The fund, with a cash cushion of more than 10%, has "met all the redemptions without having to sell one thing," Mr. Litvack says.	Mr. Litvack	met all the redemptions without having to sell one thing
+Mr.-22	sell-19	-nn-dobj
+We will have a reasonably flat year this year," Mr. Schwarz says.	Mr. Schwarz	reasonably
+Mr.-10	reasonably-5	-nn-dobj-tmod-amod-advmod

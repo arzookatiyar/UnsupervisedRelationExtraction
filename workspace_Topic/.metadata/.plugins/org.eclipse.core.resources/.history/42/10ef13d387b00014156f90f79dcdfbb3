@@ -1,0 +1,74 @@
+/**
+ * Experiment to find if only considering noun phrases is enough for being able to get all 
+ * the holders and targets from the data.
+ */
+
+import java.io.*;
+import java.util.List;
+import java.util.ArrayList;
+
+import edu.stanford.nlp.ling.HasWord;
+import edu.stanford.nlp.ling.Sentence;
+import edu.stanford.nlp.ling.TaggedWord;
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.parser.shiftreduce.ShiftReduceParser;
+import edu.stanford.nlp.process.DocumentPreprocessor;
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import edu.stanford.nlp.trees.Tree;
+
+class noun_phrases {
+	static String file_path = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/Training_data/";
+	
+	
+	public static String[] find_noun_phrase(String sentence1) {
+	   // String modelPath = "edu/stanford/nlp/models/srparser/englishSR.ser.gz";
+	    String modelPath = "edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz";
+	    String taggerPath = "edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger";
+
+	    String text = "My \'dog likes to shake\" his stuffed chickadee toy.";
+	    //String text = "Simpletet";
+
+	    MaxentTagger tagger = new MaxentTagger(taggerPath);
+	    //ShiftReduceParser model = ShiftReduceParser.loadModel(modelPath);
+	    LexicalizedParser model = LexicalizedParser.loadModel(modelPath); 
+
+	    DocumentPreprocessor tokenizer = new DocumentPreprocessor(new StringReader(text));
+	    for (List<HasWord> sentence : tokenizer) {
+	      List<TaggedWord> tagged = tagger.tagSentence(sentence);
+	      System.out.println(tagged+"\tAND--"+model);
+	      Tree tree = model.apply(tagged);
+	    		  //model.apply(tagged);
+	      System.err.println(tree);
+	      
+		    List<String> phraseList = new ArrayList<String>();
+		    
+		    for (Tree subtree : tree) {
+		    	if (subtree.label().value().equals("NP")) {
+		    		//check if a substring is annotated, then remove the bigger annotation
+		    		for (String present : phraseList) {
+		    			if (present.contains(Sentence.listToString(subtree.yield()))) {
+		    				//remove present
+		    				phraseList.remove(present);
+				    		phraseList.add(Sentence.listToString(subtree.yield()));
+		    			}
+		    			else if((Sentence.listToString(subtree.yield())).contains(present)) {
+		    				// do not add this
+		    			}
+		    			else {
+				    		phraseList.add(Sentence.listToString(subtree.yield()));
+		    			}
+		    		}
+		    		//System.out.println(Sentence.listToString(subtree.yield()));
+		    	}
+		    }
+		    
+		    
+	    }
+	    
+		return null;
+	}
+	
+	public static void main(String args[]) {
+		find_noun_phrase("");
+	}
+}

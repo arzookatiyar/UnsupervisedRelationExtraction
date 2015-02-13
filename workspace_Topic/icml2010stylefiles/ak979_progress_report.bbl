@@ -1,0 +1,62 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kim et~al.(2012)Kim, Sun, Hockenmaier, and Han]{kim_etm}
+Kim, Hyungsul, Sun, Yizhou, Hockenmaier, Julia, and Han, Jiawei.
+\newblock Etm: Entity topic models for mining documents associated with
+  entities.
+\newblock In \emph{Proceedings of the 2012 IEEE 12th International Conference
+  on Data Mining}, ICDM '12, pp.\  349--358, Washington, DC, USA, 2012. IEEE
+  Computer Society.
+\newblock ISBN 978-0-7695-4905-7.
+\newblock \doi{10.1109/ICDM.2012.107}.
+\newblock URL \url{http://dx.doi.org/10.1109/ICDM.2012.107}.
+
+\bibitem[Kim \& Hovy(2006)Kim and Hovy]{Kim-news}
+Kim, Soo-Min and Hovy, Eduard.
+\newblock Extracting opinions, opinion holders, and topics expressed in online
+  news media text.
+\newblock In \emph{Proceedings of the Workshop on Sentiment and Subjectivity in
+  Text}, SST '06, pp.\  1--8, Stroudsburg, PA, USA, 2006. Association for
+  Computational Linguistics.
+\newblock ISBN 1-932432-75-2.
+\newblock URL \url{http://dl.acm.org/citation.cfm?id=1654641.1654642}.
+
+\bibitem[Kim et~al.(2013)Kim, Zhang, Chen, Oh, and Liu]{Kim}
+Kim, Suin, Zhang, Jianwen, Chen, Zheng, Oh, Alice~H., and Liu, Shixia.
+\newblock A hierarchical aspect-sentiment model for online reviews.
+\newblock In \emph{AAAI}, 2013.
+
+\bibitem[M\`{a}rquez et~al.(2008)M\`{a}rquez, Carreras, Litkowski, and
+  Stevenson]{Marquez}
+M\`{a}rquez, Llu\'{\i}s, Carreras, Xavier, Litkowski, Kenneth~C., and
+  Stevenson, Suzanne.
+\newblock Semantic role labeling: An introduction to the special issue.
+\newblock \emph{Comput. Linguist.}, 34\penalty0 (2):\penalty0 145--159, June
+  2008.
+\newblock ISSN 0891-2017.
+\newblock \doi{10.1162/coli.2008.34.2.145}.
+\newblock URL \url{http://dx.doi.org/10.1162/coli.2008.34.2.145}.
+
+\bibitem[O'Connor(2013)]{Brenden}
+O'Connor, Brendan.
+\newblock Learning frames from text with an unsupervised latent variable model.
+\newblock \emph{CoRR}, abs/1307.7382, 2013.
+\newblock URL \url{http://arxiv.org/abs/1307.7382}.
+
+\bibitem[Wiebe \& Cardie(2005)Wiebe and Cardie]{Wiebe}
+Wiebe, Janyce and Cardie, Claire.
+\newblock Annotating expressions of opinions and emotions in language. language
+  resources and evaluation.
+\newblock In \emph{Language Resources and Evaluation (formerly Computers and
+  the Humanities}, pp.\  2005, 2005.
+
+\bibitem[Yang \& Cardie()Yang and Cardie]{bishan}
+Yang, Bishan and Cardie, Claire.
+\newblock Joint inference for fine-grained opinion extraction.
+
+\end{thebibliography}

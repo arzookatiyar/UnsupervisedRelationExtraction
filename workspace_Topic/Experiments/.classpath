@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-srparser-2014-08-28-models.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-corenlp-full-2014-10-31/stanford-corenlp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-corenlp-full-2014-10-31/stanford-corenlp-3.5.0-models.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-parser-full-2015-01-30/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-parser-full-2015-01-30/stanford-parser-3.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-parser-full-2015-01-30/stanford-parser-3.5.1-models.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-postagger-2015-01-30/stanford-postagger-3.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/arzookatiyar/Desktop/workspace_Topic/stanford-postagger-2015-01-30/stanford-postagger.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

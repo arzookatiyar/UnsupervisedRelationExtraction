@@ -1,0 +1,12 @@
+import java.io.*;
+
+class training_file_svm {
+	
+	public void create_file (int except) {
+		
+	}
+	
+	public static void main(String args[]) throws IOException{
+		
+	}
+}

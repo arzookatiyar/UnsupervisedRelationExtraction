@@ -1,0 +1,133 @@
+import java.io.*;
+import java.util.HashMap;
+import java.util.LinkedList;
+
+class training_file_svm {
+	
+	static String folder_path = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/Training_data/";
+	static String folder_path_svm = "/Users/arzookatiyar/Desktop/workspace_Topic/Dependency/svm_format/";
+	
+	static HashMap<String, Entries> gold_holders = new HashMap<String, Entries>();
+	
+	//except which file, everything goes to the training set
+	public static void create_file_holders () throws IOException{
+		for (int fold=0; fold<10; fold++) {
+			String file_name = folder_path+"holders_gold_"+fold;
+			BufferedReader br = new BufferedReader(new FileReader(file_name));
+			String st;
+			while((st = br.readLine())!=null) {
+				String entries = br.readLine();
+				String split[] = entries.split("\t");
+				LinkedList<Triples2> units = new LinkedList(); 
+				for (int index=1; index<split.length; index= index+5) {
+					units.add(new Triples2(split[index], split[index+1], split[index+2], split[index+3], split[index+4]));
+				}
+				gold_holders.put(st, new Entries(fold, units, 1.0));
+			}
+			br.close();
+			
+			String train_name = folder_path+"holders_"+fold;
+			BufferedReader br1 = new BufferedReader(new FileReader(train_name));
+			String filename = folder_path_svm+"holders_"+fold;
+			BufferedWriter bw = new BufferedWriter(new FileWriter(filename));
+			
+			loop1 : while((st = br1.readLine())!=null) {
+				st = st.substring(0, st.length()-1);
+				String sentence = st;
+				//System.out.println(sentence);
+				//System.out.println(gold_holders.containsKey(sentence));
+				//System.out.println(gold_holders.get(st));
+
+				if (!gold_holders.containsKey(st)) {
+					do {
+						st = br1.readLine();
+					}while(!st.equals(""));
+					continue loop1;
+				}
+				
+				
+				if (gold_holders.get(st).unit.size() == 0) {
+					do {
+						st = br1.readLine();
+					}while(!st.equals(""));
+					continue loop1;
+				}
+				
+				do {
+					st = br1.readLine();
+					if (st.split("\t").length > 2) {
+						int crf_path = Integer.parseInt(st.split("\t")[0]);
+						double crf_prob = Double.parseDouble(st.split("\t")[1]);
+						for (int ind = 2; ind < st.split("\t").length; ind=ind+5) {
+							Triples2 crf_entry = new Triples2(st.split("\t")[ind],
+									st.split("\t")[ind+1], st.split("\t")[ind+2], st.split("\t")[ind+3],
+									st.split("\t")[ind+4]);
+							
+							Iterator it = gold_holders.get(sentence).unit;
+							
+							if (crf_entry.equals(gold_holders.get(sentence).unit)) {
+								//the final label is 1
+								bw.write("+1\t"+st.split("\t")[1]+"\t"+st.split("\t")[ind]+"\t"+st.split("\t")[ind+2]+"\n");
+							}
+							else {
+								//negative example
+								bw.write("-1\t"+st.split("\t")[1]+"\t"+st.split("\t")[ind]+"\t"+st.split("\t")[ind+2]+"\n");
+							}
+						}
+					}
+				}while(!st.equals(""));
+				
+			}
+			br1.close();
+			bw.close();
+			gold_holders = new HashMap<String, Entries>();
+		}
+	}
+	
+	public static void main(String args[]) throws IOException{
+		create_file_holders();
+	}
+}
+
+class Entries {
+	int fold;
+	LinkedList<Triples2> unit = new LinkedList<Triples2>();
+	double prob;
+	
+	public Entries(int fold, LinkedList<Triples2> unit, double prob) {
+		this.fold = fold;
+		this.unit.addAll(unit);
+		this.prob = prob;
+	}
+}
+
+class Triples2 {
+	String entity_word;
+	String exp_word;
+	String path;
+	String entity;
+	String exp;
+	
+	public Triples2(String entity_word, String exp_word, String path, String entity, String exp) {
+		this.entity_word = entity_word;
+		this.exp_word = exp_word;
+		this.path = path;
+		this.entity = entity;
+		this.exp = exp;
+	}
+	
+	public boolean equals(Object o) {
+		if ((this.entity_word.equals(((Triples2)o).entity_word))
+				&& (this.exp_word.equals(((Triples2)o).exp_word))
+				&& (this.path.equals(((Triples2)o).path))
+				&& (this.entity.equals(((Triples2)o).entity))
+				&& (this.exp.equals(((Triples2)o).exp))) {
+			System.out.println("True");
+			return true;
+		}
+		else {
+			System.out.println("False");
+			return false;
+		}
+	}
+}
